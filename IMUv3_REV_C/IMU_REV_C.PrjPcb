@@ -30,7 +30,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for IMU_REV_C
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 
@@ -132,10 +132,6 @@ Variation1=Designator=Designator2|UniqueId=\NSVGJLSC|Kind=1|AlternatePart=
 Variation2=Designator=Designator3|UniqueId=\FHTGUOUY|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for IMU_REV_C\IMU_REV_C.xls
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
@@ -183,7 +179,7 @@ SaveSettingsToOutJob=-1
 PrintQuality=-3
 
 [Generic_EDE]
-OutputDir=Project Outputs for IMU_REV_C
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
