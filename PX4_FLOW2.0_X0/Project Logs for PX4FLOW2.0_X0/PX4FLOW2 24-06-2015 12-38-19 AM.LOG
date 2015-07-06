@@ -1,0 +1,133 @@
+Removed Pin From Net: NetName=VDD_3V3 Pin=C?-P$1
+Removed Pin From Net: NetName=GND Pin=C?-P$2
+Removed Pin From Net: NetName=GND Pin=C?-P$2
+Removed Pin From Net: NetName=VDD_3V3 Pin=JP1-3
+Added Component: Designator=C6(1206-CAP)
+Added Component: Designator=C14(1206-CAP)
+Added Pin To Net: NetName=NetC17_2 Pin=!RESET-P$1
+Added Pin To Net: NetName=VDD_3V3 Pin=C2-1
+Added Pin To Net: NetName=VDD_5V Pin=C6-P$1
+Added Pin To Net: NetName=GND Pin=C6-P$2
+Added Pin To Net: NetName=VDD_5V Pin=C7-2
+Added Pin To Net: NetName=VDD_3V3 Pin=C14-P$1
+Added Pin To Net: NetName=GND Pin=C14-P$2
+Added Pin To Net: NetName=VDD_3V3_ANALOG Pin=C15-1
+Added Pin To Net: NetName=VDD_3V3 Pin=C16-1
+Added Pin To Net: NetName=VDD_3V3 Pin=C18-1
+Added Pin To Net: NetName=VDD_3V3_ANALOG Pin=C23-1
+Added Pin To Net: NetName=VDD_3V3_ANALOG Pin=C24-1
+Added Pin To Net: NetName=VDD_3V3_ANALOG Pin=C26-1
+Added Pin To Net: NetName=VDD_3V3 Pin=C3004-P$1
+Added Pin To Net: NetName=VDD_5V Pin=JP1-1
+Added Pin To Net: NetName=VDD_SONAR Pin=JP1-2
+Added Pin To Net: NetName=VDD_3V3_ANALOG Pin=L11-2
+Added Pin To Net: NetName=VDD_5V_IN Pin=L103-P$1
+Added Pin To Net: NetName=VDD_5V_IN Pin=L106-P$1
+Added Pin To Net: NetName=VDD_5V Pin=Q1-4
+Added Pin To Net: NetName=VDD_3V3 Pin=R1-P$1
+Added Pin To Net: NetName=I2C2_SCL Pin=R1-P$2
+Added Pin To Net: NetName=I2C2_SDA Pin=R2-P$1
+Added Pin To Net: NetName=VDD_3V3 Pin=R2-P$2
+Added Pin To Net: NetName=VDD_3V3 Pin=R9-2
+Added Pin To Net: NetName=LED_AMBER Pin=R14-1
+Added Pin To Net: NetName=LED_BLUE Pin=R15-1
+Added Pin To Net: NetName=LED_RED Pin=R17-1
+Added Pin To Net: NetName=VDD_3V3 Pin=R19-2
+Added Pin To Net: NetName=VDD_3V3 Pin=R20-2
+Added Pin To Net: NetName=VDD_5V Pin=U1-1
+Added Pin To Net: NetName=VDD_5V Pin=U1-3
+Added Pin To Net: NetName=DCMI_D4 Pin=U2-3
+Added Pin To Net: NetName=DCMI_D6 Pin=U2-4
+Added Pin To Net: NetName=DCMI_D7 Pin=U2-5
+Added Pin To Net: NetName=VDD_3V3_ANALOG Pin=U2-21
+Added Pin To Net: NetName=VDD_3V3_ANALOG Pin=U2-22
+Added Pin To Net: NetName=TIM5_CH3_EXPOSURE Pin=U2-25
+Added Pin To Net: NetName=TIM5_CH4_STANDBY Pin=U2-26
+Added Pin To Net: NetName=DCMI_HSYNC Pin=U2-29
+Added Pin To Net: NetName=NetC1_1 Pin=U2-30
+Added Pin To Net: NetName=DCMI_PIXCK Pin=U2-31
+Added Pin To Net: NetName=VDD_3V3 Pin=U2-43
+Added Pin To Net: NetName=I2C2_SCL Pin=U2-47
+Added Pin To Net: NetName=I2C2_SDA Pin=U2-48
+Added Pin To Net: NetName=SPI2_NSS Pin=U2-51
+Added Pin To Net: NetName=SPI2_SCK Pin=U2-52
+Added Pin To Net: NetName=SPI2_MISO Pin=U2-53
+Added Pin To Net: NetName=SPI2_MOSI Pin=U2-54
+Added Pin To Net: NetName=DCMI_D0 Pin=U2-63
+Added Pin To Net: NetName=DCMI_D1 Pin=U2-64
+Added Pin To Net: NetName=TIM8_CH3_MASTERCLOCK Pin=U2-65
+Added Pin To Net: NetName=TIM8_CH4_LED_OUT Pin=U2-66
+Added Pin To Net: NetName=DCMI_D8 Pin=U2-78
+Added Pin To Net: NetName=DCMI_D9 Pin=U2-80
+Added Pin To Net: NetName=DCMI_D5 Pin=U2-92
+Added Pin To Net: NetName=DCMI_VSYNC Pin=U2-93
+Added Pin To Net: NetName=DCMI_D2 Pin=U2-97
+Added Pin To Net: NetName=DCMI_D3 Pin=U2-98
+Added Pin To Net: NetName=I2C2_SDA Pin=U8-5
+Added Pin To Net: NetName=I2C2_SCL Pin=U8-6
+Added Pin To Net: NetName=VDD_3V3 Pin=U12-1
+Added Pin To Net: NetName=VDD_3V3 Pin=U3004-3
+Added Pin To Net: NetName=VDD_3V3 Pin=U$5-1
+Added Pin To Net: NetName=VDD_3V3 Pin=U$5-6
+Added Pin To Net: NetName=VDD_3V3 Pin=U$5-14
+Added Pin To Net: NetName=VDD_3V3 Pin=U$5-28
+Added Pin To Net: NetName=VDD_3V3 Pin=U$5-30
+Added Pin To Net: NetName=VDD_3V3 Pin=U$5-31
+Added Pin To Net: NetName=VDD_3V3 Pin=VDD_3V3-P$1
+Added Pin To Net: NetName=VDD_3V3_ANALOG Pin=VDD_3V3_ANALOG-P$1
+Change Net Name : Old Net Name=NetC1_1 New Net Name=CAM_NRESET
+Change Net Name : Old Net Name=NetC17_2 New Net Name=R\E\S\E\T\
+Change Net Name : Old Net Name=VDD_3V3 New Net Name=VCC
+Added Pin To Net: NetName=VDD_3V3 Pin=JP1-3
+Added Pin To Net: NetName=VDD_3V3 Pin=P6-1
+Added Net: Name=VDD_3V3
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component C1 0u1
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component C2 0u1
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component C5 0u1
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component C6 100u
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component C7 0u1
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component C8 0u1
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component C9 0u1
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component C10 0u1
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component C13 470p
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component C14 100u
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component C15 0u1
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component C16 0u1
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component C18 0u1
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component C19 0u1
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component C20 0u1
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component C21 0u1
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component C22 0u1
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component C23 0u1
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component C24 0u01
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component C25 0u01
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component C26 0u001
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component C28 0u1
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component C29 0u1
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component C30 0u1
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component C31 0u1
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component C32 0u1
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component JP1 JUMPER-30603
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component L11 Inductor
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component LED1 GREEN
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component LED2 AMBER
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component LED3 BLUE
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component LED4 RED
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component Q1 NTGS4111P
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component R9 10k
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component R13 270R
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component R14 270R
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component R15 82R
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component R17 82R
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component R19 1k
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component R20 1k
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component U1 V_REG_LDOSMD
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component U8 128KB EEPROM
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component U12 L3GD20
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component U$1 MOUNT-HOLE3.1MM
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component U$2 MOUNT-HOLE3.1MM
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component U$3 MOUNT-HOLE3.1MM
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component U$4 MOUNT-HOLE3.1MM
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component U$5 MT9V034
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component U$8 LENSMOUNT_M12
+Added Room: Name=PX4FLOW2.0_CPU_X0

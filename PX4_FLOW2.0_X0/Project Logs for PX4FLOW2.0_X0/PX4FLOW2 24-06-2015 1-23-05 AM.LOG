@@ -1,0 +1,58 @@
+Added Pin To Net: NetName=GND Pin=J1-14
+Added Pin To Net: NetName=GND Pin=J1-21
+Added Pin To Net: NetName=GND Pin=J1-28
+Added Pin To Net: NetName=GND Pin=J1-29
+Added Pin To Net: NetName=GND Pin=J1-TAB
+Added Pin To Net: NetName=GND Pin=J1-TAB
+Added Pin To Net: NetName=+5V_USB Pin=J1-17
+Added Net: Name=+5V_USB
+Added Pin To Net: NetName=+5V Pin=J1-19
+Added Net: Name=+5V
+Added Pin To Net: NetName=3DRID Pin=J1-27
+Added Net: Name=3DRID
+Added Pin To Net: NetName=BATT Pin=J1-15
+Added Pin To Net: NetName=BATT Pin=J1-30
+Added Net: Name=BATT
+Added Pin To Net: NetName=BUS ID Pin=J1-23
+Added Net: Name=BUS ID
+Added Pin To Net: NetName=CANH1 Pin=J1-12
+Added Net: Name=CANH1
+Added Pin To Net: NetName=CANL1 Pin=J1-13
+Added Net: Name=CANL1
+Added Pin To Net: NetName=D+ Pin=J1-2
+Added Net: Name=D+
+Added Pin To Net: NetName=D- Pin=J1-1
+Added Net: Name=D-
+Added Pin To Net: NetName=FMU-SWCLK Pin=J1-18
+Added Net: Name=FMU-SWCLK
+Added Pin To Net: NetName=FMU-SWDIO Pin=J1-3
+Added Net: Name=FMU-SWDIO
+Added Pin To Net: NetName=IO-PWM6 Pin=J1-8
+Added Net: Name=IO-PWM6
+Added Pin To Net: NetName=IO-PWM7 Pin=J1-5
+Added Net: Name=IO-PWM7
+Added Pin To Net: NetName=IO-PWM8 Pin=J1-6
+Added Net: Name=IO-PWM8
+Added Pin To Net: NetName=IO-SWCLK Pin=J1-20
+Added Net: Name=IO-SWCLK
+Added Pin To Net: NetName=IO-SWDIO Pin=J1-4
+Added Net: Name=IO-SWDIO
+Added Pin To Net: NetName=IO-USART1 RX Pin=J1-22
+Added Net: Name=IO-USART1 RX
+Added Pin To Net: NetName=IO-USART1 TX Pin=J1-7
+Added Net: Name=IO-USART1 TX
+Added Pin To Net: NetName=SER2CT Pin=J1-25
+Added Net: Name=SER2CT
+Added Pin To Net: NetName=SER2RT Pin=J1-10
+Added Net: Name=SER2RT
+Added Pin To Net: NetName=SER2RX Pin=J1-26
+Added Net: Name=SER2RX
+Added Pin To Net: NetName=SER2TX Pin=J1-11
+Added Net: Name=SER2TX
+Added Pin To Net: NetName=SER5RX Pin=J1-24
+Added Net: Name=SER5RX
+Added Pin To Net: NetName=SER5TX Pin=J1-9
+Added Net: Name=SER5TX
+Added Pin To Net: NetName=UGND Pin=J1-16
+Added Net: Name=UGND
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component J1 JAE_TX24

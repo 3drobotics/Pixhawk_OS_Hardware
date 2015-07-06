@@ -1,0 +1,595 @@
+Removed Pin From Net: NetName=VDD_3V3 Pin=C2-1
+Removed Pin From Net: NetName=VDD_3V3 Pin=C6-A
+Removed Pin From Net: NetName=GND Pin=C6-C
+Removed Pin From Net: NetName=VDD_5V Pin=C7-1
+Removed Pin From Net: NetName=GND Pin=C7-2
+Removed Pin From Net: NetName=GND Pin=C11-2
+Removed Pin From Net: NetName=GND Pin=C12-2
+Removed Pin From Net: NetName=VDD_3V3_ANALOG Pin=C15-1
+Removed Pin From Net: NetName=VDD_3V3 Pin=C16-1
+Removed Pin From Net: NetName=VDD_3V3 Pin=C18-1
+Removed Pin From Net: NetName=VDD_3V3_ANALOG Pin=C23-1
+Removed Pin From Net: NetName=VDD_3V3_ANALOG Pin=C24-1
+Removed Pin From Net: NetName=VDD_3V3_ANALOG Pin=C26-1
+Removed Pin From Net: NetName=VDD_5V Pin=C27-A
+Removed Pin From Net: NetName=GND Pin=C27-C
+Removed Pin From Net: NetName=LED_AMBER Pin=IC1-1
+Removed Pin From Net: NetName=LED_BLUE Pin=IC1-2
+Removed Pin From Net: NetName=DCMI_D4 Pin=IC1-3
+Removed Pin From Net: NetName=DCMI_D6 Pin=IC1-4
+Removed Pin From Net: NetName=DCMI_D7 Pin=IC1-5
+Removed Pin From Net: NetName=VDD_3V3 Pin=IC1-6
+Removed Pin From Net: NetName=ADDR0 Pin=IC1-7
+Removed Pin From Net: NetName=ADDR1 Pin=IC1-8
+Removed Pin From Net: NetName=ADDR2 Pin=IC1-9
+Removed Pin From Net: NetName=GND Pin=IC1-10
+Removed Pin From Net: NetName=VDD_3V3 Pin=IC1-11
+Removed Pin From Net: NetName=ADC123_IN10 Pin=IC1-15
+Removed Pin From Net: NetName=ADC123_IN11 Pin=IC1-16
+Removed Pin From Net: NetName=ADC123_IN12 Pin=IC1-17
+Removed Pin From Net: NetName=ADC123_IN13 Pin=IC1-18
+Removed Pin From Net: NetName=VDD_3V3 Pin=IC1-19
+Removed Pin From Net: NetName=GND Pin=IC1-20
+Removed Pin From Net: NetName=VDD_3V3_ANALOG Pin=IC1-21
+Removed Pin From Net: NetName=VDD_3V3_ANALOG Pin=IC1-22
+Removed Pin From Net: NetName=TIM5_CH1 Pin=IC1-23
+Removed Pin From Net: NetName=TIM5_CH2 Pin=IC1-24
+Removed Pin From Net: NetName=TIM5_CH3_EXPOSURE Pin=IC1-25
+Removed Pin From Net: NetName=TIM5_CH4_STANDBY Pin=IC1-26
+Removed Pin From Net: NetName=GND Pin=IC1-27
+Removed Pin From Net: NetName=VDD_3V3 Pin=IC1-28
+Removed Pin From Net: NetName=DCMI_HSYNC Pin=IC1-29
+Removed Pin From Net: NetName=CAM_NRESET Pin=IC1-30
+Removed Pin From Net: NetName=DCMI_PIXCK Pin=IC1-31
+Removed Pin From Net: NetName=SPI1_MOSI--- Pin=IC1-32
+Removed Pin From Net: NetName=ADC12_IN4 Pin=IC1-33
+Removed Pin From Net: NetName=ADC12_IN5 Pin=IC1-34
+Removed Pin From Net: NetName=PRES_DRDY--- Pin=IC1-35
+Removed Pin From Net: NetName=MAG_DRDY--- Pin=IC1-36
+Removed Pin From Net: NetName=PB2-BOOT1 Pin=IC1-37
+Removed Pin From Net: NetName=LED_RED Pin=IC1-38
+Removed Pin From Net: NetName=US_EN1 Pin=IC1-39
+Removed Pin From Net: NetName=TIM1_CH1 Pin=IC1-40
+Removed Pin From Net: NetName=US_EN2 Pin=IC1-41
+Removed Pin From Net: NetName=TIM1_CH2 Pin=IC1-42
+Removed Pin From Net: NetName=VDD_3V3 Pin=IC1-43
+Removed Pin From Net: NetName=GND Pin=IC1-44
+Removed Pin From Net: NetName=GND Pin=IC1-45
+Removed Pin From Net: NetName=GND Pin=IC1-46
+Removed Pin From Net: NetName=I2C2_SCL Pin=IC1-47
+Removed Pin From Net: NetName=I2C2_SDA Pin=IC1-48
+Removed Pin From Net: NetName=VDD_3V3 Pin=IC1-50
+Removed Pin From Net: NetName=SPI2_NSS Pin=IC1-51
+Removed Pin From Net: NetName=SPI2_SCK Pin=IC1-52
+Removed Pin From Net: NetName=SPI2_MISO Pin=IC1-53
+Removed Pin From Net: NetName=SPI2_MOSI Pin=IC1-54
+Removed Pin From Net: NetName=USART3_TX Pin=IC1-55
+Removed Pin From Net: NetName=USART3_RX Pin=IC1-56
+Removed Pin From Net: NetName=USART3_CK Pin=IC1-57
+Removed Pin From Net: NetName=USART3_CTS Pin=IC1-58
+Removed Pin From Net: NetName=USART3_RTS Pin=IC1-59
+Removed Pin From Net: NetName=TIM4_CH2 Pin=IC1-60
+Removed Pin From Net: NetName=TIM4_CH3 Pin=IC1-61
+Removed Pin From Net: NetName=TIM4_CH4 Pin=IC1-62
+Removed Pin From Net: NetName=DCMI_D0 Pin=IC1-63
+Removed Pin From Net: NetName=DCMI_D1 Pin=IC1-64
+Removed Pin From Net: NetName=TIM8_CH3_MASTERCLOCK Pin=IC1-65
+Removed Pin From Net: NetName=TIM8_CH4_LED_OUT Pin=IC1-66
+Removed Pin From Net: NetName=I2C3_SCL--- Pin=IC1-67
+Removed Pin From Net: NetName=VBUS Pin=IC1-68
+Removed Pin From Net: NetName=OTG_FS_ID Pin=IC1-69
+Removed Pin From Net: NetName=OTG_FS_N Pin=IC1-70
+Removed Pin From Net: NetName=OTG_FS_P Pin=IC1-71
+Removed Pin From Net: NetName=JTMS-SWDIO Pin=IC1-72
+Removed Pin From Net: NetName=GND Pin=IC1-74
+Removed Pin From Net: NetName=VDD_3V3 Pin=IC1-75
+Removed Pin From Net: NetName=JTCK-SWCLK Pin=IC1-76
+Removed Pin From Net: NetName=JTDI Pin=IC1-77
+Removed Pin From Net: NetName=DCMI_D8 Pin=IC1-78
+Removed Pin From Net: NetName=UART4_RX Pin=IC1-79
+Removed Pin From Net: NetName=DCMI_D9 Pin=IC1-80
+Removed Pin From Net: NetName=CAN1_RX Pin=IC1-81
+Removed Pin From Net: NetName=CAN1_TX Pin=IC1-82
+Removed Pin From Net: NetName=DCMI_D11_UART5_RX Pin=IC1-83
+Removed Pin From Net: NetName=USART2_CTS Pin=IC1-84
+Removed Pin From Net: NetName=USART2_RTS Pin=IC1-85
+Removed Pin From Net: NetName=USART2_TX Pin=IC1-86
+Removed Pin From Net: NetName=USART2_RX Pin=IC1-87
+Removed Pin From Net: NetName=USART2_CK Pin=IC1-88
+Removed Pin From Net: NetName=JTDO Pin=IC1-89
+Removed Pin From Net: NetName=DCMI_D10 Pin=IC1-91
+Removed Pin From Net: NetName=DCMI_D5 Pin=IC1-92
+Removed Pin From Net: NetName=DCMI_VSYNC Pin=IC1-93
+Removed Pin From Net: NetName=BOOT0 Pin=IC1-94
+Removed Pin From Net: NetName=I2C1_SCL Pin=IC1-95
+Removed Pin From Net: NetName=I2C1_SDA Pin=IC1-96
+Removed Pin From Net: NetName=DCMI_D2 Pin=IC1-97
+Removed Pin From Net: NetName=DCMI_D3 Pin=IC1-98
+Removed Pin From Net: NetName=GND Pin=IC1-99
+Removed Pin From Net: NetName=VDD_3V3 Pin=IC1-100
+Removed Pin From Net: NetName=I2C1_SCL_EXT Pin=J1-2
+Removed Pin From Net: NetName=I2C1_SDA_EXT Pin=J1-3
+Removed Pin From Net: NetName=GND Pin=J1-4
+Removed Pin From Net: NetName=USART2_TX Pin=J2-2
+Removed Pin From Net: NetName=USART2_RX Pin=J2-3
+Removed Pin From Net: NetName=USART2_CTS Pin=J2-4
+Removed Pin From Net: NetName=USART2_RTS Pin=J2-5
+Removed Pin From Net: NetName=GND Pin=J2-6
+Removed Pin From Net: NetName=VDD_5V_IN_UART3 Pin=J3-1
+Removed Pin From Net: NetName=USART3_RX Pin=J3-2
+Removed Pin From Net: NetName=USART3_TX Pin=J3-3
+Removed Pin From Net: NetName=USART3_RTS Pin=J3-4
+Removed Pin From Net: NetName=USART3_CTS Pin=J3-5
+Removed Pin From Net: NetName=GND Pin=J3-6
+Removed Pin From Net: NetName=VDD_3V3 Pin=J6-1
+Removed Pin From Net: NetName=JTMS-SWDIO Pin=J6-2
+Removed Pin From Net: NetName=GND Pin=J6-3
+Removed Pin From Net: NetName=JTCK-SWCLK Pin=J6-4
+Removed Pin From Net: NetName=GND Pin=J6-5
+Removed Pin From Net: NetName=JTDO Pin=J6-6
+Removed Pin From Net: NetName=JTDI Pin=J6-8
+Removed Pin From Net: NetName=GND Pin=J6-9
+Removed Pin From Net: NetName=VDD_5V Pin=JP1-1
+Removed Pin From Net: NetName=VDD_SONAR Pin=JP1-2
+Removed Pin From Net: NetName=VDD_5V Pin=JP2-1
+Removed Pin From Net: NetName=VDD_5V_IN Pin=L1-P$1
+Removed Pin From Net: NetName=VDD_5V_IN_UART3 Pin=L1-P$2
+Removed Pin From Net: NetName=VDD_5V_IN Pin=L2-P$1
+Removed Pin From Net: NetName=VBUS Pin=L8-P$2
+Removed Pin From Net: NetName=VDD_3V3 Pin=L11-P$1
+Removed Pin From Net: NetName=VDD_3V3_ANALOG Pin=L11-P$2
+Removed Pin From Net: NetName=OTG_N Pin=OTG_DM-P$1
+Removed Pin From Net: NetName=OTG_P Pin=OTG_DP-P$1
+Removed Pin From Net: NetName=VDD_5V Pin=Q1-4
+Removed Pin From Net: NetName=I2C2_SCL Pin=R1-P$1
+Removed Pin From Net: NetName=VDD_3V3 Pin=R1-P$2
+Removed Pin From Net: NetName=I2C2_SDA Pin=R2-P$1
+Removed Pin From Net: NetName=VDD_3V3 Pin=R2-P$2
+Removed Pin From Net: NetName=PB2-BOOT1 Pin=R5-1
+Removed Pin From Net: NetName=GND Pin=R5-2
+Removed Pin From Net: NetName=VDD_3V3 Pin=R9-2
+Removed Pin From Net: NetName=LED_AMBER Pin=R14-1
+Removed Pin From Net: NetName=LED_BLUE Pin=R15-1
+Removed Pin From Net: NetName=VDD_3V3 Pin=R16-2
+Removed Pin From Net: NetName=LED_RED Pin=R17-1
+Removed Pin From Net: NetName=GND Pin=R18-1
+Removed Pin From Net: NetName=BOOT0 Pin=R18-2
+Removed Pin From Net: NetName=VDD_3V3 Pin=R19-2
+Removed Pin From Net: NetName=VDD_3V3 Pin=R20-2
+Removed Pin From Net: NetName=VDD_5V Pin=U1-1
+Removed Pin From Net: NetName=VDD_5V Pin=U1-3
+Removed Pin From Net: NetName=I2C2_SDA Pin=U8-5
+Removed Pin From Net: NetName=I2C2_SCL Pin=U8-6
+Removed Pin From Net: NetName=VDD_3V3 Pin=U12-1
+Removed Pin From Net: NetName=VDD_3V3 Pin=U$5-1
+Removed Pin From Net: NetName=VDD_3V3 Pin=U$5-6
+Removed Pin From Net: NetName=VDD_3V3 Pin=U$5-14
+Removed Pin From Net: NetName=VDD_3V3 Pin=U$5-28
+Removed Pin From Net: NetName=VDD_3V3 Pin=U$5-30
+Removed Pin From Net: NetName=VDD_3V3 Pin=U$5-31
+Removed Pin From Net: NetName=VDD_3V3 Pin=VDD_3V3-P$1
+Removed Pin From Net: NetName=VDD_3V3_ANALOG Pin=VDD_3V3_ANALOG-P$1
+Change Component DesignItemId : Designator=C1 Old DesignItemId=0402-CAP New DesignItemId=CAP0402-CAP
+Change Component DesignItemId : Designator=C2 Old DesignItemId=0402-CAP New DesignItemId=CAP0402-CAP
+Change Component DesignItemId : Designator=C5 Old DesignItemId=0402-CAP New DesignItemId=CAP0402-CAP
+Change Component DesignItemId : Designator=C7 Old DesignItemId=0402-CAP New DesignItemId=CAP0402-CAP
+Change Component DesignItemId : Designator=C8 Old DesignItemId=0402-CAP New DesignItemId=CAP0402-CAP
+Change Component DesignItemId : Designator=C9 Old DesignItemId=0402-CAP New DesignItemId=CAP0402-CAP
+Change Component DesignItemId : Designator=C10 Old DesignItemId=0402-CAP New DesignItemId=CAP0402-CAP
+Change Component DesignItemId : Designator=C13 Old DesignItemId=0402-CAP New DesignItemId=CAP0402-CAP
+Change Component DesignItemId : Designator=C15 Old DesignItemId=0402-CAP New DesignItemId=CAP0402-CAP
+Change Component DesignItemId : Designator=C16 Old DesignItemId=0402-CAP New DesignItemId=CAP0402-CAP
+Change Component DesignItemId : Designator=C17 Old DesignItemId=0402-CAP New DesignItemId=CAP0402-CAP
+Change Component DesignItemId : Designator=C18 Old DesignItemId=0402-CAP New DesignItemId=CAP0402-CAP
+Change Component DesignItemId : Designator=C19 Old DesignItemId=0402-CAP New DesignItemId=CAP0402-CAP
+Change Component DesignItemId : Designator=C20 Old DesignItemId=0402-CAP New DesignItemId=CAP0402-CAP
+Change Component DesignItemId : Designator=C21 Old DesignItemId=0402-CAP New DesignItemId=CAP0402-CAP
+Change Component DesignItemId : Designator=C22 Old DesignItemId=0402-CAP New DesignItemId=CAP0402-CAP
+Change Component DesignItemId : Designator=C23 Old DesignItemId=0402-CAP New DesignItemId=CAP0402-CAP
+Change Component DesignItemId : Designator=C24 Old DesignItemId=0402-CAP New DesignItemId=CAP0402-CAP
+Change Component DesignItemId : Designator=C25 Old DesignItemId=0402-CAP New DesignItemId=CAP0402-CAP
+Change Component DesignItemId : Designator=C26 Old DesignItemId=0402-CAP New DesignItemId=CAP0402-CAP
+Change Component DesignItemId : Designator=C28 Old DesignItemId=0402-CAP New DesignItemId=CAP0402-CAP
+Change Component DesignItemId : Designator=C29 Old DesignItemId=0402-CAP New DesignItemId=CAP0402-CAP
+Change Component DesignItemId : Designator=C30 Old DesignItemId=0402-CAP New DesignItemId=CAP0402-CAP
+Change Component DesignItemId : Designator=C31 Old DesignItemId=0402-CAP New DesignItemId=CAP0402-CAP
+Change Component DesignItemId : Designator=C32 Old DesignItemId=0402-CAP New DesignItemId=CAP0402-CAP
+Change Component DesignItemId : Designator=C3 Old DesignItemId=0402-CAP New DesignItemId=CAP0402
+Change Component DesignItemId : Designator=C4 Old DesignItemId=0402-CAP New DesignItemId=CAP0402
+Change Component DesignItemId : Designator=C11 Old DesignItemId=0402-CAP New DesignItemId=CAP0603
+Change Component DesignItemId : Designator=C12 Old DesignItemId=0402-CAP New DesignItemId=CAP0603
+Change Component DesignItemId : Designator=L1 Old DesignItemId=0402-IND New DesignItemId=Inductor
+Change Component DesignItemId : Designator=L2 Old DesignItemId=0402-IND New DesignItemId=Inductor
+Change Component DesignItemId : Designator=L8 Old DesignItemId=0402-IND New DesignItemId=Inductor
+Change Component DesignItemId : Designator=L11 Old DesignItemId=0402-IND New DesignItemId=Inductor
+Change Component DesignItemId : Designator=R1 Old DesignItemId=0402-RES New DesignItemId=RESISTOR0402-RES
+Change Component DesignItemId : Designator=R2 Old DesignItemId=0402-RES New DesignItemId=RESISTOR0402-RES
+Change Component DesignItemId : Designator=R3 Old DesignItemId=0402-RES New DesignItemId=RESISTOR0402-RES
+Change Component DesignItemId : Designator=R4 Old DesignItemId=0402-RES New DesignItemId=RESISTOR0402-RES
+Change Component DesignItemId : Designator=R5 Old DesignItemId=0402-RES New DesignItemId=RESISTOR0402-RES
+Change Component DesignItemId : Designator=R6 Old DesignItemId=0402-RES New DesignItemId=RESISTOR0402-RES
+Change Component DesignItemId : Designator=R7 Old DesignItemId=0402-RES New DesignItemId=RESISTOR0402-RES
+Change Component DesignItemId : Designator=R8 Old DesignItemId=0402-RES New DesignItemId=RESISTOR0402-RES
+Change Component DesignItemId : Designator=R9 Old DesignItemId=0402-RES New DesignItemId=RESISTOR0402-RES
+Change Component DesignItemId : Designator=R10 Old DesignItemId=0402-RES New DesignItemId=RESISTOR0402-RES
+Change Component DesignItemId : Designator=R11 Old DesignItemId=0402-RES New DesignItemId=RESISTOR0402-RES
+Change Component DesignItemId : Designator=R13 Old DesignItemId=0402-RES New DesignItemId=RESISTOR0402-RES
+Change Component DesignItemId : Designator=R14 Old DesignItemId=0402-RES New DesignItemId=RESISTOR0402-RES
+Change Component DesignItemId : Designator=R15 Old DesignItemId=0402-RES New DesignItemId=RESISTOR0402-RES
+Change Component DesignItemId : Designator=R16 Old DesignItemId=0402-RES New DesignItemId=RESISTOR0402-RES
+Change Component DesignItemId : Designator=R17 Old DesignItemId=0402-RES New DesignItemId=RESISTOR0402-RES
+Change Component DesignItemId : Designator=R18 Old DesignItemId=0402-RES New DesignItemId=RESISTOR0402-RES
+Change Component DesignItemId : Designator=R19 Old DesignItemId=0402-RES New DesignItemId=RESISTOR0402-RES
+Change Component DesignItemId : Designator=R20 Old DesignItemId=0402-RES New DesignItemId=RESISTOR0402-RES
+Change Component DesignItemId : Designator=U$5 Old DesignItemId=CLCC-48 New DesignItemId=MT9V034
+Change Component DesignItemId : Designator=S1 Old DesignItemId=EVQP7J01K New DesignItemId=SWITCH-MOMENTARY-2
+Change Component DesignItemId : Designator=U12 Old DesignItemId=L3G4200DH-MAN New DesignItemId=L3GD20
+Change Component DesignItemId : Designator=LED1 Old DesignItemId=LED-0603 New DesignItemId=LED0603
+Change Component DesignItemId : Designator=LED2 Old DesignItemId=LED-0603 New DesignItemId=LED0603
+Change Component DesignItemId : Designator=LED3 Old DesignItemId=LED-0603 New DesignItemId=LED0603
+Change Component DesignItemId : Designator=LED4 Old DesignItemId=LED-0603 New DesignItemId=LED0603
+Change Component DesignItemId : Designator=U$8 Old DesignItemId=LENSMOUNT_LARGE_M12 New DesignItemId=LENSMOUNT_M12
+Change Component DesignItemId : Designator=D1 Old DesignItemId=MICROSMP New DesignItemId=DIODE-SCHOTTKY_MSMP
+Change Component DesignItemId : Designator=U$1 Old DesignItemId=MOUNT-HOLE3.1 New DesignItemId=MOUNT-HOLE3.1MM
+Change Component DesignItemId : Designator=U$2 Old DesignItemId=MOUNT-HOLE3.1 New DesignItemId=MOUNT-HOLE3.1MM
+Change Component DesignItemId : Designator=U$3 Old DesignItemId=MOUNT-HOLE3.1 New DesignItemId=MOUNT-HOLE3.1MM
+Change Component DesignItemId : Designator=U$4 Old DesignItemId=MOUNT-HOLE3.1 New DesignItemId=MOUNT-HOLE3.1MM
+Change Component DesignItemId : Designator=U8 Old DesignItemId=MSOP-8 New DesignItemId=EEPROM-I2CMSOP
+Change Component DesignItemId : Designator=U$10 Old DesignItemId=OSHW-LOGO-S New DesignItemId=OSHW-LOGOS
+Change Component DesignItemId : Designator=!RESET Old DesignItemId=PAD.04X.04 New DesignItemId=PAD.04
+Change Component DesignItemId : Designator=BOOT1 Old DesignItemId=PAD.04X.04 New DesignItemId=PAD.04
+Change Component DesignItemId : Designator=OTG_DM Old DesignItemId=PAD.04X.04 New DesignItemId=PAD.04
+Change Component DesignItemId : Designator=OTG_DP Old DesignItemId=PAD.04X.04 New DesignItemId=PAD.04
+Change Component DesignItemId : Designator=USART2_RX Old DesignItemId=PAD.04X.04 New DesignItemId=PAD.04
+Change Component DesignItemId : Designator=USART2_TX Old DesignItemId=PAD.04X.04 New DesignItemId=PAD.04
+Change Component DesignItemId : Designator=USART3_RX Old DesignItemId=PAD.04X.04 New DesignItemId=PAD.04
+Change Component DesignItemId : Designator=USART3_TX Old DesignItemId=PAD.04X.04 New DesignItemId=PAD.04
+Change Component DesignItemId : Designator=USB_VBUS Old DesignItemId=PAD.04X.04 New DesignItemId=PAD.04
+Change Component DesignItemId : Designator=VDD_3V3 Old DesignItemId=PAD.04X.04 New DesignItemId=PAD.04
+Change Component DesignItemId : Designator=VDD_3V3_ANALOG Old DesignItemId=PAD.04X.04 New DesignItemId=PAD.04
+Change Component DesignItemId : Designator=VDD_5V Old DesignItemId=PAD.04X.04 New DesignItemId=PAD.04
+Change Component DesignItemId : Designator=VDD_5V_IN Old DesignItemId=PAD.04X.04 New DesignItemId=PAD.04
+Change Component DesignItemId : Designator=BOOT0 Old DesignItemId=PAD.05X.05 New DesignItemId=PAD.05
+Change Component DesignItemId : Designator=ADDR0 Old DesignItemId=SJ_2 New DesignItemId=JUMPER-2
+Change Component DesignItemId : Designator=ADDR1 Old DesignItemId=SJ_2 New DesignItemId=JUMPER-2
+Change Component DesignItemId : Designator=ADDR2 Old DesignItemId=SJ_2 New DesignItemId=JUMPER-2
+Change Component DesignItemId : Designator=JP2 Old DesignItemId=SJ_2 New DesignItemId=JUMPER-2
+Change Component DesignItemId : Designator=JP1 Old DesignItemId=SJ_3_0603_PASTE1&2 New DesignItemId=JUMPER-30603
+Change Component DesignItemId : Designator=U1 Old DesignItemId=SOT23-5 New DesignItemId=V_REG_LDOSMD
+Change Component DesignItemId : Designator=Q1 Old DesignItemId=TSOP-6 New DesignItemId=NTGS4111P
+Change Component Footprint: Designator=C11 Old Footprint=0402-CAP New Footprint=0603-CAP
+Change Component Footprint: Designator=C12 Old Footprint=0402-CAP New Footprint=0603-CAP
+Change Component Footprint: Designator=L1 Old Footprint=0402-IND New Footprint=L0402
+Change Component Footprint: Designator=L2 Old Footprint=0402-IND New Footprint=L0402
+Change Component Footprint: Designator=L8 Old Footprint=0402-IND New Footprint=L0402
+Change Component Footprint: Designator=L11 Old Footprint=0402-IND New Footprint=L0402
+Change Component Footprint: Designator=U12 Old Footprint=L3G4200DH-MAN New Footprint=L3GD20
+Change Component Comment : Designator=JP1 Old Comment= New Comment=JUMPER-30603
+Change Component Comment : Designator=U$8 Old Comment= New Comment=LENSMOUNT_M12
+Change Component Comment : Designator=J4 Old Comment= New Comment=MB1040
+Change Component Comment : Designator=U$1 Old Comment= New Comment=MOUNT-HOLE3.1MM
+Change Component Comment : Designator=U$2 Old Comment= New Comment=MOUNT-HOLE3.1MM
+Change Component Comment : Designator=U$3 Old Comment= New Comment=MOUNT-HOLE3.1MM
+Change Component Comment : Designator=U$4 Old Comment= New Comment=MOUNT-HOLE3.1MM
+Change Component Comment : Designator=U$5 Old Comment= New Comment=MT9V034
+Change Component Comment : Designator=U$10 Old Comment= New Comment=OSHW-LOGOS
+Change Component Comment : Designator=!RESET Old Comment= New Comment=PAD.04
+Change Component Comment : Designator=BOOT1 Old Comment= New Comment=PAD.04
+Change Component Comment : Designator=OTG_DM Old Comment= New Comment=PAD.04
+Change Component Comment : Designator=OTG_DP Old Comment= New Comment=PAD.04
+Change Component Comment : Designator=USART2_RX Old Comment= New Comment=PAD.04
+Change Component Comment : Designator=USART2_TX Old Comment= New Comment=PAD.04
+Change Component Comment : Designator=USART3_RX Old Comment= New Comment=PAD.04
+Change Component Comment : Designator=USART3_TX Old Comment= New Comment=PAD.04
+Change Component Comment : Designator=USB_VBUS Old Comment= New Comment=PAD.04
+Change Component Comment : Designator=VDD_3V3 Old Comment= New Comment=PAD.04
+Change Component Comment : Designator=VDD_3V3_ANALOG Old Comment= New Comment=PAD.04
+Change Component Comment : Designator=VDD_5V Old Comment= New Comment=PAD.04
+Change Component Comment : Designator=VDD_5V_IN Old Comment= New Comment=PAD.04
+Change Component Comment : Designator=BOOT0 Old Comment= New Comment=PAD.05
+Change Component Comment : Designator=U$9 Old Comment= New Comment=PX4-LOGO-20MM
+Change Component Comment : Designator=C1 Old Comment=0u01 New Comment=0u1
+Change Component Comment : Designator=C26 Old Comment=1n New Comment=0u001
+Change Component Comment : Designator=C24 Old Comment=10n New Comment=0u01
+Change Component Comment : Designator=X1 Old Comment=24.000 KHz 3.2x2.5mm 8-10pf New Comment=Crystal Oscillator in 3.2x2.5 SMD
+Change Component Comment : Designator=R15 Old Comment=270R New Comment=82R
+Change Component Comment : Designator=R17 Old Comment=270R New Comment=82R
+Change Component Comment : Designator=L1 Old Comment=FERRITE New Comment=Inductor
+Change Component Comment : Designator=L2 Old Comment=FERRITE New Comment=Inductor
+Change Component Comment : Designator=L8 Old Comment=FERRITE New Comment=Inductor
+Change Component Comment : Designator=L11 Old Comment=FERRITE New Comment=Inductor
+Change Component Description : Designator=C1 Old Description= New Description=CapacitorStandard 0603 ceramic capacitor, and 0.1" leaded capacitor.
+Change Component Description : Designator=C2 Old Description= New Description=CapacitorStandard 0603 ceramic capacitor, and 0.1" leaded capacitor.
+Change Component Description : Designator=C5 Old Description= New Description=CapacitorStandard 0603 ceramic capacitor, and 0.1" leaded capacitor.
+Change Component Description : Designator=C7 Old Description= New Description=CapacitorStandard 0603 ceramic capacitor, and 0.1" leaded capacitor.
+Change Component Description : Designator=C8 Old Description= New Description=CapacitorStandard 0603 ceramic capacitor, and 0.1" leaded capacitor.
+Change Component Description : Designator=C9 Old Description= New Description=CapacitorStandard 0603 ceramic capacitor, and 0.1" leaded capacitor.
+Change Component Description : Designator=C10 Old Description= New Description=CapacitorStandard 0603 ceramic capacitor, and 0.1" leaded capacitor.
+Change Component Description : Designator=C13 Old Description= New Description=CapacitorStandard 0603 ceramic capacitor, and 0.1" leaded capacitor.
+Change Component Description : Designator=C15 Old Description= New Description=CapacitorStandard 0603 ceramic capacitor, and 0.1" leaded capacitor.
+Change Component Description : Designator=C16 Old Description= New Description=CapacitorStandard 0603 ceramic capacitor, and 0.1" leaded capacitor.
+Change Component Description : Designator=C17 Old Description= New Description=CapacitorStandard 0603 ceramic capacitor, and 0.1" leaded capacitor.
+Change Component Description : Designator=C18 Old Description= New Description=CapacitorStandard 0603 ceramic capacitor, and 0.1" leaded capacitor.
+Change Component Description : Designator=C19 Old Description= New Description=CapacitorStandard 0603 ceramic capacitor, and 0.1" leaded capacitor.
+Change Component Description : Designator=C20 Old Description= New Description=CapacitorStandard 0603 ceramic capacitor, and 0.1" leaded capacitor.
+Change Component Description : Designator=C21 Old Description= New Description=CapacitorStandard 0603 ceramic capacitor, and 0.1" leaded capacitor.
+Change Component Description : Designator=C22 Old Description= New Description=CapacitorStandard 0603 ceramic capacitor, and 0.1" leaded capacitor.
+Change Component Description : Designator=C23 Old Description= New Description=CapacitorStandard 0603 ceramic capacitor, and 0.1" leaded capacitor.
+Change Component Description : Designator=C24 Old Description= New Description=CapacitorStandard 0603 ceramic capacitor, and 0.1" leaded capacitor.
+Change Component Description : Designator=C25 Old Description= New Description=CapacitorStandard 0603 ceramic capacitor, and 0.1" leaded capacitor.
+Change Component Description : Designator=C26 Old Description= New Description=CapacitorStandard 0603 ceramic capacitor, and 0.1" leaded capacitor.
+Change Component Description : Designator=C28 Old Description= New Description=CapacitorStandard 0603 ceramic capacitor, and 0.1" leaded capacitor.
+Change Component Description : Designator=C29 Old Description= New Description=CapacitorStandard 0603 ceramic capacitor, and 0.1" leaded capacitor.
+Change Component Description : Designator=C30 Old Description= New Description=CapacitorStandard 0603 ceramic capacitor, and 0.1" leaded capacitor.
+Change Component Description : Designator=C31 Old Description= New Description=CapacitorStandard 0603 ceramic capacitor, and 0.1" leaded capacitor.
+Change Component Description : Designator=C32 Old Description= New Description=CapacitorStandard 0603 ceramic capacitor, and 0.1" leaded capacitor.
+Change Component Description : Designator=C3 Old Description= New Description=CAP CER 8PF 50V C0G 0402
+Change Component Description : Designator=C4 Old Description= New Description=CAP CER 8PF 50V C0G 0402
+Change Component Description : Designator=X1 Old Description= New Description=CRYSTAL 24MHZ 8PF SMD
+Change Component Description : Designator=U8 Old Description= New Description=I2C EEPROM Generic footprint for I2C EEPROMS. Compatible types include:    Microchip 24FC128-I/MS    Microchip 24AA256-I/MS    ST Microelectronics M24128-BWDW6TP
+Change Component Description : Designator=LED1 Old Description= New Description=LEDsStandard schematic elements and footprints for 5mm, 3mm, 1206, and 0603 sized LEDs. 5mm - Spark Fun Electronics SKU : COM-00529 (and others)
+Change Component Description : Designator=LED2 Old Description= New Description=LEDsStandard schematic elements and footprints for 5mm, 3mm, 1206, and 0603 sized LEDs. 5mm - Spark Fun Electronics SKU : COM-00529 (and others)
+Change Component Description : Designator=LED3 Old Description= New Description=LEDsStandard schematic elements and footprints for 5mm, 3mm, 1206, and 0603 sized LEDs. 5mm - Spark Fun Electronics SKU : COM-00529 (and others)
+Change Component Description : Designator=LED4 Old Description= New Description=LEDsStandard schematic elements and footprints for 5mm, 3mm, 1206, and 0603 sized LEDs. 5mm - Spark Fun Electronics SKU : COM-00529 (and others)
+Change Component Description : Designator=J5 Old Description= New Description=MICRO USB B, BOTTOM MOUNT
+Change Component Description : Designator=U$10 Old Description= New Description=Open Source Hardware Logo This logo indicates the piece of hardware it is found on incorporates a OSHW license and/or adheres to the definition of open source hardware found here: http://freedomdefined.org/OSHW
+Change Component Description : Designator=U$8 Old Description= New Description=Point Grey compatible M12 lens mount
+Change Component Description : Designator=R1 Old Description= New Description=RES 1.5K OHM 1/16W 1% 0402 SMD
+Change Component Description : Designator=R2 Old Description= New Description=RES 1.5K OHM 1/16W 1% 0402 SMD
+Change Component Description : Designator=R5 Old Description= New Description=RES 10K OHM 1/16W 1% 0402 SMD
+Change Component Description : Designator=R16 Old Description= New Description=RES 10K OHM 1/16W 1% 0402 SMD
+Change Component Description : Designator=R18 Old Description= New Description=RES 10K OHM 1/16W 1% 0402 SMD
+Change Component Description : Designator=R3 Old Description= New Description=ResistorBasic schematic elements and footprints for 0603, 1206, and PTH 1/10th watt (small) resistors.
+Change Component Description : Designator=R4 Old Description= New Description=ResistorBasic schematic elements and footprints for 0603, 1206, and PTH 1/10th watt (small) resistors.
+Change Component Description : Designator=R6 Old Description= New Description=ResistorBasic schematic elements and footprints for 0603, 1206, and PTH 1/10th watt (small) resistors.
+Change Component Description : Designator=R7 Old Description= New Description=ResistorBasic schematic elements and footprints for 0603, 1206, and PTH 1/10th watt (small) resistors.
+Change Component Description : Designator=R8 Old Description= New Description=ResistorBasic schematic elements and footprints for 0603, 1206, and PTH 1/10th watt (small) resistors.
+Change Component Description : Designator=R9 Old Description= New Description=ResistorBasic schematic elements and footprints for 0603, 1206, and PTH 1/10th watt (small) resistors.
+Change Component Description : Designator=R10 Old Description= New Description=ResistorBasic schematic elements and footprints for 0603, 1206, and PTH 1/10th watt (small) resistors.
+Change Component Description : Designator=R11 Old Description= New Description=ResistorBasic schematic elements and footprints for 0603, 1206, and PTH 1/10th watt (small) resistors.
+Change Component Description : Designator=R13 Old Description= New Description=ResistorBasic schematic elements and footprints for 0603, 1206, and PTH 1/10th watt (small) resistors.
+Change Component Description : Designator=R14 Old Description= New Description=ResistorBasic schematic elements and footprints for 0603, 1206, and PTH 1/10th watt (small) resistors.
+Change Component Description : Designator=R15 Old Description= New Description=ResistorBasic schematic elements and footprints for 0603, 1206, and PTH 1/10th watt (small) resistors.
+Change Component Description : Designator=R17 Old Description= New Description=ResistorBasic schematic elements and footprints for 0603, 1206, and PTH 1/10th watt (small) resistors.
+Change Component Description : Designator=R19 Old Description= New Description=ResistorBasic schematic elements and footprints for 0603, 1206, and PTH 1/10th watt (small) resistors.
+Change Component Description : Designator=R20 Old Description= New Description=ResistorBasic schematic elements and footprints for 0603, 1206, and PTH 1/10th watt (small) resistors.
+Change Component Description : Designator=D1 Old Description= New Description=Schottky barrier diode in DO214AC, e.g. Fairchild SS14.
+Change Component Description : Designator=BOOT0 Old Description= New Description=Test pad This footprint includes three classes: The actual test pads, a pogo-pin footprint to mount the pogo-pin as through-hole part and a hole footprint which allows the head of the pogo-pin to pass through (do NOT use the hole to mount the pogo-pin). In a typical test setup, the stack would consist of three PCBs: The actual PCB under testing with a test pad on the bottom, then a second PCB with the hole for the pogo-pin head where the PCB under testing is pressed on and a third PCB at 30 mm / 1.2" distance with the pogo-pin footprints. The pogo-pins are soldered to the last PCB. To create the stack, copy the board under testing and exchange the footprints - this way the correct positioning is ensured.
+Change Component Description : Designator=U1 Old Description= New Description=Voltage Regulator LDOStandard 150mA LDO voltage regulator in SOT-23 layout. Micrel part MIC5205. BP (by-pass) pin is used to lower output noise with 470pF cap.
+Change Component Library : Designator=U$5 Old Library= New Library=3DR.SchLib
+Change Component Library : Designator=U$8 Old Library= New Library=3DR.SchLib
+Change Component Library : Designator=!RESET Old Library= New Library=pixhawk2.IntLib
+Change Component Library : Designator=ADDR0 Old Library= New Library=pixhawk2.IntLib
+Change Component Library : Designator=ADDR1 Old Library= New Library=pixhawk2.IntLib
+Change Component Library : Designator=ADDR2 Old Library= New Library=pixhawk2.IntLib
+Change Component Library : Designator=BOOT0 Old Library= New Library=pixhawk2.IntLib
+Change Component Library : Designator=BOOT1 Old Library= New Library=pixhawk2.IntLib
+Change Component Library : Designator=C1 Old Library= New Library=pixhawk2.IntLib
+Change Component Library : Designator=C2 Old Library= New Library=pixhawk2.IntLib
+Change Component Library : Designator=C3 Old Library= New Library=pixhawk2.IntLib
+Change Component Library : Designator=C4 Old Library= New Library=pixhawk2.IntLib
+Change Component Library : Designator=C5 Old Library= New Library=pixhawk2.IntLib
+Change Component Library : Designator=C7 Old Library= New Library=pixhawk2.IntLib
+Change Component Library : Designator=C8 Old Library= New Library=pixhawk2.IntLib
+Change Component Library : Designator=C9 Old Library= New Library=pixhawk2.IntLib
+Change Component Library : Designator=C10 Old Library= New Library=pixhawk2.IntLib
+Change Component Library : Designator=C13 Old Library= New Library=pixhawk2.IntLib
+Change Component Library : Designator=C15 Old Library= New Library=pixhawk2.IntLib
+Change Component Library : Designator=C16 Old Library= New Library=pixhawk2.IntLib
+Change Component Library : Designator=C17 Old Library= New Library=pixhawk2.IntLib
+Change Component Library : Designator=C18 Old Library= New Library=pixhawk2.IntLib
+Change Component Library : Designator=C19 Old Library= New Library=pixhawk2.IntLib
+Change Component Library : Designator=C20 Old Library= New Library=pixhawk2.IntLib
+Change Component Library : Designator=C21 Old Library= New Library=pixhawk2.IntLib
+Change Component Library : Designator=C22 Old Library= New Library=pixhawk2.IntLib
+Change Component Library : Designator=C23 Old Library= New Library=pixhawk2.IntLib
+Change Component Library : Designator=C24 Old Library= New Library=pixhawk2.IntLib
+Change Component Library : Designator=C25 Old Library= New Library=pixhawk2.IntLib
+Change Component Library : Designator=C26 Old Library= New Library=pixhawk2.IntLib
+Change Component Library : Designator=C28 Old Library= New Library=pixhawk2.IntLib
+Change Component Library : Designator=C29 Old Library= New Library=pixhawk2.IntLib
+Change Component Library : Designator=C30 Old Library= New Library=pixhawk2.IntLib
+Change Component Library : Designator=C31 Old Library= New Library=pixhawk2.IntLib
+Change Component Library : Designator=C32 Old Library= New Library=pixhawk2.IntLib
+Change Component Library : Designator=D1 Old Library= New Library=pixhawk2.IntLib
+Change Component Library : Designator=J4 Old Library= New Library=pixhawk2.IntLib
+Change Component Library : Designator=J5 Old Library= New Library=pixhawk2.IntLib
+Change Component Library : Designator=JP1 Old Library= New Library=pixhawk2.IntLib
+Change Component Library : Designator=JP2 Old Library= New Library=pixhawk2.IntLib
+Change Component Library : Designator=LED1 Old Library= New Library=pixhawk2.IntLib
+Change Component Library : Designator=LED2 Old Library= New Library=pixhawk2.IntLib
+Change Component Library : Designator=LED3 Old Library= New Library=pixhawk2.IntLib
+Change Component Library : Designator=LED4 Old Library= New Library=pixhawk2.IntLib
+Change Component Library : Designator=OTG_DM Old Library= New Library=pixhawk2.IntLib
+Change Component Library : Designator=OTG_DP Old Library= New Library=pixhawk2.IntLib
+Change Component Library : Designator=Q1 Old Library= New Library=pixhawk2.IntLib
+Change Component Library : Designator=R1 Old Library= New Library=pixhawk2.IntLib
+Change Component Library : Designator=R2 Old Library= New Library=pixhawk2.IntLib
+Change Component Library : Designator=R3 Old Library= New Library=pixhawk2.IntLib
+Change Component Library : Designator=R4 Old Library= New Library=pixhawk2.IntLib
+Change Component Library : Designator=R5 Old Library= New Library=pixhawk2.IntLib
+Change Component Library : Designator=R6 Old Library= New Library=pixhawk2.IntLib
+Change Component Library : Designator=R7 Old Library= New Library=pixhawk2.IntLib
+Change Component Library : Designator=R8 Old Library= New Library=pixhawk2.IntLib
+Change Component Library : Designator=R9 Old Library= New Library=pixhawk2.IntLib
+Change Component Library : Designator=R10 Old Library= New Library=pixhawk2.IntLib
+Change Component Library : Designator=R11 Old Library= New Library=pixhawk2.IntLib
+Change Component Library : Designator=R13 Old Library= New Library=pixhawk2.IntLib
+Change Component Library : Designator=R14 Old Library= New Library=pixhawk2.IntLib
+Change Component Library : Designator=R15 Old Library= New Library=pixhawk2.IntLib
+Change Component Library : Designator=R16 Old Library= New Library=pixhawk2.IntLib
+Change Component Library : Designator=R17 Old Library= New Library=pixhawk2.IntLib
+Change Component Library : Designator=R18 Old Library= New Library=pixhawk2.IntLib
+Change Component Library : Designator=R19 Old Library= New Library=pixhawk2.IntLib
+Change Component Library : Designator=R20 Old Library= New Library=pixhawk2.IntLib
+Change Component Library : Designator=S1 Old Library= New Library=pixhawk2.IntLib
+Change Component Library : Designator=U1 Old Library= New Library=pixhawk2.IntLib
+Change Component Library : Designator=U8 Old Library= New Library=pixhawk2.IntLib
+Change Component Library : Designator=U$1 Old Library= New Library=pixhawk2.IntLib
+Change Component Library : Designator=U$2 Old Library= New Library=pixhawk2.IntLib
+Change Component Library : Designator=U$3 Old Library= New Library=pixhawk2.IntLib
+Change Component Library : Designator=U$4 Old Library= New Library=pixhawk2.IntLib
+Change Component Library : Designator=U$9 Old Library= New Library=pixhawk2.IntLib
+Change Component Library : Designator=U$10 Old Library= New Library=pixhawk2.IntLib
+Change Component Library : Designator=USART2_RX Old Library= New Library=pixhawk2.IntLib
+Change Component Library : Designator=USART2_TX Old Library= New Library=pixhawk2.IntLib
+Change Component Library : Designator=USART3_RX Old Library= New Library=pixhawk2.IntLib
+Change Component Library : Designator=USART3_TX Old Library= New Library=pixhawk2.IntLib
+Change Component Library : Designator=USB_VBUS Old Library= New Library=pixhawk2.IntLib
+Change Component Library : Designator=VDD_3V3 Old Library= New Library=pixhawk2.IntLib
+Change Component Library : Designator=VDD_3V3_ANALOG Old Library= New Library=pixhawk2.IntLib
+Change Component Library : Designator=VDD_5V Old Library= New Library=pixhawk2.IntLib
+Change Component Library : Designator=VDD_5V_IN Old Library= New Library=pixhawk2.IntLib
+Change Component Library : Designator=X1 Old Library= New Library=pixhawk2.SCHLIB
+Added Component: Designator=C3004(0402-CAP)
+Added Component: Designator=C?(1206-CAP)
+Added Component: Designator=C?(1206-CAP)
+Added Component: Designator=D104(0402-TVS)
+Added Component: Designator=D108(0402-TVS)
+Added Component: Designator=L103(KYOCERA-KNH16-DA)
+Added Component: Designator=L106(KYOCERA-KNH16-DA)
+Added Component: Designator=P1(CLICKMATE_V4)
+Added Component: Designator=P2(CLICKMATE_V4)
+Added Component: Designator=P3(CLICKMATE_V6)
+Added Component: Designator=P4(CLICKMATE_V6)
+Added Component: Designator=P5(CLICKMATE_V6)
+Added Component: Designator=P6(JST_SUR_H6)
+Added Component: Designator=R3010(0402-RES)
+Added Component: Designator=U3004(SOT23-8)
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C11-P$2
+Added Pin To Net: NetName=GND Pin=C12-P$2
+Added Pin To Net: NetName=GND Pin=C3004-P$2
+Added Pin To Net: NetName=VDD_3V3 Pin=C?-P$1
+Added Pin To Net: NetName=GND Pin=C?-P$2
+Added Pin To Net: NetName=GND Pin=C?-P$2
+Added Pin To Net: NetName=GND Pin=D104-A
+Added Pin To Net: NetName=GND Pin=D108-A
+Added Pin To Net: NetName=VDD_5V_IN_UART3 Pin=L1-2
+Added Pin To Net: NetName=VBUS Pin=L8-2
+Added Pin To Net: NetName=VDD_3V3 Pin=L11-1
+Added Pin To Net: NetName=GND Pin=L103-GND
+Added Pin To Net: NetName=GND Pin=L103-GND
+Added Pin To Net: NetName=GND Pin=L103-GND
+Added Pin To Net: NetName=GND Pin=L106-GND
+Added Pin To Net: NetName=GND Pin=L106-GND
+Added Pin To Net: NetName=GND Pin=L106-GND
+Added Pin To Net: NetName=GND Pin=P1-4
+Added Pin To Net: NetName=GND Pin=P1-GND
+Added Pin To Net: NetName=GND Pin=P1-GND
+Added Pin To Net: NetName=I2C1_SCL_EXT Pin=P2-2
+Added Pin To Net: NetName=I2C1_SDA_EXT Pin=P2-3
+Added Pin To Net: NetName=GND Pin=P2-4
+Added Pin To Net: NetName=GND Pin=P2-GND
+Added Pin To Net: NetName=GND Pin=P2-GND
+Added Pin To Net: NetName=GND Pin=P3-6
+Added Pin To Net: NetName=GND Pin=P3-GND
+Added Pin To Net: NetName=GND Pin=P3-GND
+Added Pin To Net: NetName=VDD_5V_IN_UART3 Pin=P4-1
+Added Pin To Net: NetName=GND Pin=P4-6
+Added Pin To Net: NetName=GND Pin=P4-GND
+Added Pin To Net: NetName=GND Pin=P4-GND
+Added Pin To Net: NetName=VDD_SONAR Pin=P5-1
+Added Pin To Net: NetName=SONAR_TX Pin=P5-2
+Added Pin To Net: NetName=US_EN1 Pin=P5-3
+Added Pin To Net: NetName=ADC123_IN10 Pin=P5-4
+Added Pin To Net: NetName=TIM4_CH2 Pin=P5-5
+Added Pin To Net: NetName=GND Pin=P5-6
+Added Pin To Net: NetName=GND Pin=P5-GND
+Added Pin To Net: NetName=GND Pin=P5-GND
+Added Pin To Net: NetName=JTMS-SWDIO Pin=P6-4
+Added Pin To Net: NetName=JTCK-SWCLK Pin=P6-5
+Added Pin To Net: NetName=GND Pin=P6-6
+Added Pin To Net: NetName=GND Pin=P6-GND
+Added Pin To Net: NetName=GND Pin=P6-GND
+Added Pin To Net: NetName=GND Pin=U8-7
+Added Pin To Net: NetName=CAN1_TX Pin=U3004-1
+Added Pin To Net: NetName=GND Pin=U3004-2
+Added Pin To Net: NetName=CAN1_RX Pin=U3004-4
+Added Pin To Net: NetName=GND Pin=U3004-5
+Added Pin To Net: NetName=GND Pin=U3004-8
+Change Net Name : Old Net Name=CAM_NRESET New Net Name=NetC1_1
+Change Net Name : Old Net Name=N$4 New Net Name=NetC13_1
+Change Net Name : Old Net Name=N$8 New Net Name=NetLED4_C
+Change Net Name : Old Net Name=N$10 New Net Name=NetR19_1
+Change Net Name : Old Net Name=N$11 New Net Name=NetR20_1
+Change Net Name : Old Net Name=N$28 New Net Name=NetLED3_C
+Change Net Name : Old Net Name=N$29 New Net Name=NetLED1_C
+Change Net Name : Old Net Name=N$30 New Net Name=NetLED2_C
+Change Net Name : Old Net Name=N$34 New Net Name=NetC25_1
+Added Net: Name=CAM_NRESET
+Added Pin To Net: NetName=CAN_H_1 Pin=P1-2
+Added Pin To Net: NetName=CAN_H_1 Pin=R3010-P$1
+Added Pin To Net: NetName=CAN_H_1 Pin=U3004-7
+Added Net: Name=CAN_H_1
+Added Pin To Net: NetName=CAN_L_1 Pin=P1-3
+Added Pin To Net: NetName=CAN_L_1 Pin=R3010-P$2
+Added Pin To Net: NetName=CAN_L_1 Pin=U3004-6
+Added Net: Name=CAN_L_1
+Added Net: Name=J\T\R\S\T\
+Added Pin To Net: NetName=NetC3_P$1 Pin=C3-P$1
+Added Pin To Net: NetName=NetC3_P$1 Pin=X1-3
+Added Net: Name=NetC3_P$1
+Added Pin To Net: NetName=NetC4_P$2 Pin=C4-P$2
+Added Pin To Net: NetName=NetC4_P$2 Pin=X1-1
+Added Net: Name=NetC4_P$2
+Added Pin To Net: NetName=NetC11_P$1 Pin=C11-P$1
+Added Net: Name=NetC11_P$1
+Added Pin To Net: NetName=NetC12_P$1 Pin=C12-P$1
+Added Net: Name=NetC12_P$1
+Added Pin To Net: NetName=NetC17_2 Pin=C17-2
+Added Pin To Net: NetName=NetC17_2 Pin=S1-A1
+Added Net: Name=NetC17_2
+Added Pin To Net: NetName=NetD1_ANODE Pin=D1-ANODE
+Added Pin To Net: NetName=NetD1_ANODE Pin=L8-1
+Added Net: Name=NetD1_ANODE
+Added Pin To Net: NetName=NetD104_C Pin=D104-C
+Added Pin To Net: NetName=NetD104_C Pin=L2-1
+Added Pin To Net: NetName=NetD104_C Pin=L103-P$2
+Added Net: Name=NetD104_C
+Added Pin To Net: NetName=NetD108_C Pin=D108-C
+Added Pin To Net: NetName=NetD108_C Pin=L106-P$2
+Added Pin To Net: NetName=NetD108_C Pin=P1-1
+Added Net: Name=NetD108_C
+Added Pin To Net: NetName=NetJP2_1 Pin=JP2-1
+Added Net: Name=NetJP2_1
+Added Pin To Net: NetName=NetJP2_2 Pin=JP2-2
+Added Pin To Net: NetName=NetJP2_2 Pin=P3-1
+Added Net: Name=NetJP2_2
+Added Pin To Net: NetName=NetL1_1 Pin=L1-1
+Added Net: Name=NetL1_1
+Added Pin To Net: NetName=NetL2_2 Pin=L2-2
+Added Pin To Net: NetName=NetL2_2 Pin=P2-1
+Added Net: Name=NetL2_2
+Added Pin To Net: NetName=NetOTG_DM_P$1 Pin=OTG_DM-P$1
+Added Net: Name=NetOTG_DM_P$1
+Added Pin To Net: NetName=NetOTG_DP_P$1 Pin=OTG_DP-P$1
+Added Net: Name=NetOTG_DP_P$1
+Added Pin To Net: NetName=NetP3_2 Pin=P3-2
+Added Net: Name=NetP3_2
+Added Pin To Net: NetName=NetP3_3 Pin=P3-3
+Added Net: Name=NetP3_3
+Added Pin To Net: NetName=NetP3_4 Pin=P3-4
+Added Net: Name=NetP3_4
+Added Pin To Net: NetName=NetP3_5 Pin=P3-5
+Added Net: Name=NetP3_5
+Added Pin To Net: NetName=NetP4_2 Pin=P4-2
+Added Net: Name=NetP4_2
+Added Pin To Net: NetName=NetP4_3 Pin=P4-3
+Added Net: Name=NetP4_3
+Added Pin To Net: NetName=NetP4_4 Pin=P4-4
+Added Net: Name=NetP4_4
+Added Pin To Net: NetName=NetP4_5 Pin=P4-5
+Added Net: Name=NetP4_5
+Added Pin To Net: NetName=R\E\S\E\T\ Pin=!RESET-P$1
+Added Net: Name=R\E\S\E\T\
+Added Pin To Net: NetName=SERIAL5_RX Pin=P6-3
+Added Net: Name=SERIAL5_RX
+Added Pin To Net: NetName=SERIAL5_TX Pin=P6-2
+Added Net: Name=SERIAL5_TX
+Added Class: Name=PX4FLOW2.0_CAM_X0
+Added Class: Name=PX4FLOW2.0_CPU_X0
+Added Class: Name=PX4FLOW2.0_Power_X0
+Added Room: Name=PX4FLOW2.0_CAM_X0
+Added Room: Name=PX4FLOW2.0_CPU_X0
+Added Room: Name=PX4FLOW2.0_Power_X0

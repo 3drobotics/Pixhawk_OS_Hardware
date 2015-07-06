@@ -1,0 +1,4 @@
+Added Component: Designator=R18(0402-RES)
+Added Pin To Net: NetName=GND Pin=R18-P$1
+Added Pin To Net: NetName=BOOT0 Pin=R18-P$2
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component R18 10K

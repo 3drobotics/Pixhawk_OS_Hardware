@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=VDD_5V_IN Pin=L1-1
+Added Pin To Net: NetName=USART2_TX Pin=P3-2
+Added Pin To Net: NetName=USART2_RX Pin=P3-3
+Added Pin To Net: NetName=USART2_CTS Pin=P3-4
+Added Pin To Net: NetName=USART2_RTS Pin=P3-5
+Added Pin To Net: NetName=USART3_RX Pin=P4-2
+Added Pin To Net: NetName=USART3_TX Pin=P4-3
+Added Pin To Net: NetName=USART3_RTS Pin=P4-4
+Added Pin To Net: NetName=USART3_CTS Pin=P4-5
