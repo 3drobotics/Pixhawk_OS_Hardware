@@ -1,0 +1,21 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: Accessory_Breakout_X1.PcbDoc   10/07/2015  2:52:22 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Accessory_Breakout_X1.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.3mm (11.811mil)        Round          358              1506.41 mm (59.31 Inch)
+T2        0.7112mm (28mil)         Round          54               333.43 mm (13.13 Inch)
+T3        0.8mm (31.496mil)        Round          30               88.08 mm (3.47 Inch)
+T4        0.9mm (35.433mil)        Round          39               194.25 mm (7.65 Inch)
+T5        2.2mm (86.614mil)        Round          2                27.94 mm (1.10 Inch)
+T6        2.3048mm (90.74mil)      Round          2                63.00 mm (2.48 Inch)
+T7        2.5548mm (100.583mil)    Round          2                63.00 mm (2.48 Inch)
+T8        3mm (118.11mil)          Round          4                139.00 mm (5.47 Inch)
+---------------------------------------------------------------------------
+Totals                                            491              2415.11 mm (95.08 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

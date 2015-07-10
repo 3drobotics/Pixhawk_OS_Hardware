@@ -1,0 +1,7 @@
+Change Component Comment : Designator=S1 Old Comment= New Comment=Power
+Change Component Library : Designator=J5 Old Library=pixhawk2.IntLib New Library=pixhawk2.Schlib
+Change Component Library : Designator=S1 Old Library=pixhawk2.IntLib New Library=pixhawk2.schLib
+Added Pin To Net: NetName=GND Pin=S1-A1
+Added Pin To Net: NetName=R\E\S\E\T\ Pin=S1-B3
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component P1 CLICKMATE_1.25_4
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component S1 Power

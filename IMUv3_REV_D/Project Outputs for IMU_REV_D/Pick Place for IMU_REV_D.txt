@@ -1,0 +1,28 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+U1         L3GD20               63.754mm      68.199mm      63.754mm      68.199mm      62.054mm      69.174mm  T          0.00 L3GD20         
+C14        0402-CAP                129mm          57mm         129mm          57mm         129mm        56.6mm  T         90.00 0u1            
+C13        0805-CAP             127.46mm     55.6006mm      127.46mm     55.6006mm      126.66mm     55.6006mm  T        180.00 10u            
+U2         LSM303D             71.5008mm     67.5008mm        71.5mm        67.5mm       70.13mm      68.516mm  T          0.00 LSM303D        
+U3         QFN-24              63.0033mm     62.0033mm          63mm          62mm          61mm       63.27mm  T          0.00 MPU-6000       
+U4         MS5611-01BA         70.9977mm     62.0088mm          71mm          62mm     69.1204mm        60.9mm  T         90.00 MS5611-01BA    
+C1         0805-CAP            62.6364mm     71.5264mm     62.6364mm     71.5264mm     61.8364mm     71.5264mm  T        180.00 10u            
+C2         0402-CAP            60.3504mm      69.742mm     60.3504mm      69.742mm     60.3504mm      69.342mm  T         90.00 0u1            
+C3         0402-CAP              66.04mm     71.1708mm       66.04mm     71.1708mm       65.64mm     71.1708mm  T        360.00 0u01           
+C4         0805-CAP                 73mm          71mm          73mm          71mm        72.2mm          71mm  T        180.00 10u            
+C5         0402-CAP               74.5mm        68.5mm        74.5mm        68.5mm        74.5mm        68.9mm  T        270.00 0u1            
+C6         0805-CAP               69.5mm          71mm        69.5mm          71mm        68.7mm          71mm  T        180.00 10u            
+C7         0402-CAP            68.5038mm     67.7164mm     68.5038mm     67.7164mm     68.5038mm     68.1164mm  T        270.00 0u47           
+C8         0603-CAP            63.9572mm     57.9628mm     63.9572mm     57.9628mm     63.2572mm     57.9628mm  T          0.00 2u2            
+C9         0603-CAP               66.5mm        58.5mm        66.5mm        58.5mm        66.5mm        59.2mm  T        270.00 2u2            
+C10        0402-CAP               66.5mm          61mm        66.5mm          61mm        66.5mm        60.6mm  T         90.00 0u1            
+C11        0603-CAP                 67mm        65.5mm          67mm        65.5mm        66.3mm        65.5mm  T          0.00 0u01           
+C12        0402-CAP               69.5mm          59mm        69.5mm          59mm        69.1mm          59mm  T          0.00 0u1            
+P1         DF40C-20-DP        132.0038mm       70.54mm         132mm       70.54mm    133.4438mm       68.74mm  T        180.00 DF40C-20DP     
+Nut 1      PEM-SMTSO-M1.6-2-ET         102mm          80mm         102mm          80mm         102mm          80mm  T         90.00 PEM-SMTSO-M1.6-2-ET
+Nut 2      PEM-SMTSO-M1.6-2-ET         102mm          50mm         102mm          50mm         102mm          50mm  T         90.00 PEM-SMTSO-M1.6-2-ET
+Nut 3      PEM-SMTSO-M1.6-2-ET         132mm          80mm         132mm          80mm         132mm          80mm  T         90.00 PEM-SMTSO-M1.6-2-ET
+Nut 4      PEM-SMTSO-M1.6-2-ET         132mm          50mm         132mm          50mm         132mm          50mm  T         90.00 PEM-SMTSO-M1.6-2-ET
+Designator 3DR_SMALL                 0mm           0mm    115.6716mm     51.6636mm           0mm           0mm  T          0.00 Comment        
+Designator 3DR_SMALL                 0mm           0mm    116.3828mm     51.6636mm           0mm           0mm  B        180.00 Comment        
+

@@ -1,0 +1,16 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+3DR Logo   3DR_Small         -239.8318mm   -204.0642mm      -4.699mm      27.559mm   -239.8318mm   -204.0642mm  T        360.00 DO NOT PLACE   
+D4         SOD-123             27.1801mm     -12.192mm      27.178mm     -12.192mm     29.0322mm     -12.192mm  B        360.00 MMSZ5232BT1G   
+J2001      MOLEX-47346-0001     30.0863mm     -6.8471mm      31.496mm      -6.858mm     28.6766mm      -6.858mm  B        180.00 47346-0001     
+P3         CLICKMATE_V4        -36.765mm     30.4748mm      -40.64mm       30.48mm      -35.19mm      32.355mm  B        270.00 CLICKMATE_1.25_4
+P5         JST_SUR_H6          -26.915mm       -7.62mm      -27.94mm       -7.62mm      -25.94mm       -9.62mm  B         90.00 JST_SUR_6      
+P4         CLICKMATE_V6        -36.765mm     12.6975mm      -40.64mm        12.7mm      -35.19mm      15.825mm  B        270.00 CLICKMATE_1.25_6
+P6         JST_SUR_H6          -26.915mm        2.54mm      -27.94mm        2.54mm      -25.94mm        0.54mm  B         90.00 JST_SUR_6      
+CH8        HDR1X3               26.035mm     -14.859mm      23.495mm     -14.859mm      23.495mm     -14.859mm  B        360.00 Header 3       
+CH7        HDR1X3               26.035mm     -18.288mm      23.495mm     -18.288mm      23.495mm     -18.288mm  B          0.00 Header 3       
+CH6        HDR1X3               26.035mm     -21.844mm      23.495mm     -21.844mm      23.495mm     -21.844mm  B        360.00 Header 3       
+P2         HDR1X15              -22.86mm        7.62mm      -22.86mm      -10.16mm      -22.86mm      -10.16mm  B         90.00 Header 15      
+P1         HDR1X15                12.7mm        7.62mm        12.7mm      -10.16mm        12.7mm      -10.16mm  B         90.00 Header 15      
+J1         JAE_TX24             26.396mm      21.629mm      26.396mm       7.659mm      29.252mm      12.739mm  T        180.00 JAE_TX24       
+

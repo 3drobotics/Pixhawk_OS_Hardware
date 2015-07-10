@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [Accessory_Breakout_X1.PrjPcb]
+   Generated File[Pick Place for Accessory_Breakout_X1.txt]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 2:52:32 PM On 10/07/2015

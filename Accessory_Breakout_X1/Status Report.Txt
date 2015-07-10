@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 2:45:19 PM On 10/07/2015
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [Accessory_Breakout_X1] of Project [Accessory_Breakout_X1.PrjPcb]
+   Generated File[Bill of Materials-Accessory_Breakout_X1(Accessory_Breakout_X1).xls]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 2:45:25 PM On 10/07/2015

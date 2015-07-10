@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=R\E\S\E\T\ Pin=R16-P$1
+Removed Pin From Net: NetName=VCC Pin=R16-P$2
+Removed Pin From Net: NetName=CAN_H_1 Pin=R3010-P$1
+Removed Pin From Net: NetName=CAN_L_1 Pin=R3010-P$2
+Change Component Footprint: Designator=R16 Old Footprint=0402-RES New Footprint=R0402
+Change Component Footprint: Designator=R3010 Old Footprint=0402-RES New Footprint=R0402
+Added Pin To Net: NetName=R\E\S\E\T\ Pin=R16-1
+Added Pin To Net: NetName=VCC Pin=R16-2
+Added Pin To Net: NetName=CAN_H_1 Pin=R3010-1
+Added Pin To Net: NetName=CAN_L_1 Pin=R3010-2

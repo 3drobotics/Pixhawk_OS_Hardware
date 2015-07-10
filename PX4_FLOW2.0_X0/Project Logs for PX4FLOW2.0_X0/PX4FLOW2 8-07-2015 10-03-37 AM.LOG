@@ -1,0 +1,3 @@
+Removed Member From Class: ClassName=PX4FLOW2.0_CPU_X0 Member=JP2
+Added Pin To Net: NetName=NetP3_1 Pin=P3-1
+Added Net: Name=NetP3_1

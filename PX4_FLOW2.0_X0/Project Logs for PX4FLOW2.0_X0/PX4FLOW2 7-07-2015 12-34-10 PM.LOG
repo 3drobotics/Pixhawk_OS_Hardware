@@ -1,0 +1,73 @@
+Added Pin To Net: NetName=VDD_5V Pin=D1-CATHODE
+Added Pin To Net: NetName=D+ Pin=J5-D+
+Added Pin To Net: NetName=D- Pin=J5-D-
+Added Pin To Net: NetName=+5V_USB Pin=J5-VBUS
+Added Pin To Net: NetName=VDD_SONAR Pin=JP1-2
+Added Pin To Net: NetName=VDD_3V3 Pin=JP1-3
+Added Pin To Net: NetName=VDD_5V_IN Pin=L1-1
+Added Pin To Net: NetName=+5V_USB Pin=L8-2
+Added Pin To Net: NetName=VDD_5V_IN Pin=L103-P$1
+Added Pin To Net: NetName=VDD_5V_IN Pin=L106-P$1
+Added Pin To Net: NetName=CAN_H_1 Pin=P1-2
+Added Pin To Net: NetName=CAN_L_1 Pin=P1-3
+Added Pin To Net: NetName=SER2RX Pin=P3-2
+Added Pin To Net: NetName=SER2TX Pin=P3-3
+Added Pin To Net: NetName=SER2CT Pin=P3-4
+Added Pin To Net: NetName=SER2RT Pin=P3-5
+Added Pin To Net: NetName=I2C1_SCL_EXT Pin=R3-2
+Added Pin To Net: NetName=I2C1_SDA_EXT Pin=R4-2
+Added Pin To Net: NetName=D- Pin=R6-1
+Added Pin To Net: NetName=D+ Pin=R8-1
+Added Pin To Net: NetName=VDD_5V Pin=R10-1
+Added Pin To Net: NetName=CAN_H_1 Pin=R3010-P$1
+Added Pin To Net: NetName=CAN_L_1 Pin=R3010-P$2
+Added Pin To Net: NetName=ADC123_IN10 Pin=U2-15
+Added Pin To Net: NetName=US_EN1 Pin=U2-39
+Added Pin To Net: NetName=USART3_TX Pin=U2-55
+Added Pin To Net: NetName=USART3_RX Pin=U2-56
+Added Pin To Net: NetName=USART3_CTS Pin=U2-58
+Added Pin To Net: NetName=USART3_RTS Pin=U2-59
+Added Pin To Net: NetName=TIM4_CH2 Pin=U2-60
+Added Pin To Net: NetName=+5V_USB Pin=U2-68
+Added Pin To Net: NetName=OTG_FS_ID Pin=U2-69
+Added Pin To Net: NetName=OTG_FS_N Pin=U2-70
+Added Pin To Net: NetName=OTG_FS_P Pin=U2-71
+Added Pin To Net: NetName=JTMS-SWDIO Pin=U2-72
+Added Pin To Net: NetName=JTCK-SWCLK Pin=U2-76
+Added Pin To Net: NetName=UART4_RX Pin=U2-79
+Added Pin To Net: NetName=DCMI_D11_UART5_RX Pin=U2-83
+Added Pin To Net: NetName=SER2CT Pin=U2-84
+Added Pin To Net: NetName=SER2RT Pin=U2-85
+Added Pin To Net: NetName=SER2RX Pin=U2-86
+Added Pin To Net: NetName=SER2TX Pin=U2-87
+Added Pin To Net: NetName=CAN_L_1 Pin=U3004-6
+Added Pin To Net: NetName=CAN_H_1 Pin=U3004-7
+Added Pin To Net: NetName=SER2TX Pin=USART2_RX-P$1
+Added Pin To Net: NetName=SER2RX Pin=USART2_TX-P$1
+Added Pin To Net: NetName=USART3_RX Pin=USART3_RX-P$1
+Added Pin To Net: NetName=USART3_TX Pin=USART3_TX-P$1
+Added Pin To Net: NetName=+5V_USB Pin=USB_VBUS-P$1
+Added Pin To Net: NetName=VDD_5V_IN_UART3 Pin=VDD_5V_IN-P$1
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component D1 MSS1P4-M3
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component D104 DIODE-TVS
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component D108 DIODE-TVS
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component J1 JAE_TX24
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component J4 MB1040
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component J5 47346-0001
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component JP2 JUMPER-2
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component L1 Inductor
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component L2 Inductor
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component L8 Inductor
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component L103 Kyocera KNH16C104DA5TS EMI filter
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component L106 Kyocera KNH16C104DA5TS EMI filter
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component P1 CLICKMATE_1.25_4
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component P2 CLICKMATE_1.25_4
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component P3 CLICKMATE_1.25_6
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component P4 CLICKMATE_1.25_6
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component P5 CLICKMATE_1.25_6
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component P6 JST_SUR_6
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component R6 22R
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component R7 10k
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component R8 22R
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component R10 1k
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component R11 0R

@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=VCC Pin=R1-P$1
+Removed Pin From Net: NetName=I2C2_SCL Pin=R1-P$2
+Removed Pin From Net: NetName=I2C2_SDA Pin=R2-P$1
+Removed Pin From Net: NetName=VCC Pin=R2-P$2
+Removed Pin From Net: NetName=PB2-BOOT1 Pin=R5-P$1
+Removed Pin From Net: NetName=GND Pin=R5-P$2
+Change Component Footprint: Designator=R1 Old Footprint=0402-RES New Footprint=R0402
+Change Component Footprint: Designator=R2 Old Footprint=0402-RES New Footprint=R0402
+Change Component Footprint: Designator=R5 Old Footprint=0402-RES New Footprint=R0402
+Added Pin To Net: NetName=VCC Pin=R1-1
+Added Pin To Net: NetName=I2C2_SCL Pin=R1-2
+Added Pin To Net: NetName=I2C2_SDA Pin=R2-1
+Added Pin To Net: NetName=VCC Pin=R2-2
+Added Pin To Net: NetName=PB2-BOOT1 Pin=R5-1
+Added Pin To Net: NetName=GND Pin=R5-2

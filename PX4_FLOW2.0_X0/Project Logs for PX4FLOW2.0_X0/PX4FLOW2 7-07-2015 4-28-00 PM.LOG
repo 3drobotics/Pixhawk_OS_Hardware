@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=R18-P$1
+Removed Pin From Net: NetName=BOOT0 Pin=R18-P$2
+Change Component Footprint: Designator=R18 Old Footprint=0402-RES New Footprint=R0402
+Added Pin To Net: NetName=GND Pin=R18-1
+Added Pin To Net: NetName=BOOT0 Pin=R18-2

@@ -1,0 +1,12 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C27
+Change Component Designator: OldDesignator=C? NewDesignator=C33
+Change Component Designator: OldDesignator=C? NewDesignator=C34
+Change Component Designator: OldDesignator=P? NewDesignator=P7
+Change Component Designator: OldDesignator=P? NewDesignator=P8
+Change Component Designator: OldDesignator=P? NewDesignator=P9
+Change Component Designator: OldDesignator=P? NewDesignator=P10
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component C27 2u2
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component C33 0u1
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component P8 Header 8
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component P9 Header 8
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component P10 Header 8

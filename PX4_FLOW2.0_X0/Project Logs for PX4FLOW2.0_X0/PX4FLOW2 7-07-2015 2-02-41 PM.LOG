@@ -1,0 +1,15 @@
+Change Component Footprint: Designator=R3 Old Footprint=0402-RES New Footprint=R0402
+Change Component Footprint: Designator=R4 Old Footprint=0402-RES New Footprint=R0402
+Change Component Footprint: Designator=R6 Old Footprint=0402-RES New Footprint=R0402
+Change Component Footprint: Designator=R7 Old Footprint=0402-RES New Footprint=R0402
+Change Component Footprint: Designator=R8 Old Footprint=0402-RES New Footprint=R0402
+Change Component Footprint: Designator=R9 Old Footprint=0402-RES New Footprint=R0402
+Change Component Footprint: Designator=R10 Old Footprint=0402-RES New Footprint=R0402
+Change Component Footprint: Designator=R11 Old Footprint=0402-RES New Footprint=R0402
+Change Component Footprint: Designator=R13 Old Footprint=0402-RES New Footprint=R0402
+Change Component Footprint: Designator=R14 Old Footprint=0402-RES New Footprint=R0402
+Change Component Footprint: Designator=R15 Old Footprint=0402-RES New Footprint=R0402
+Change Component Footprint: Designator=R17 Old Footprint=0402-RES New Footprint=R0402
+Change Component Footprint: Designator=R19 Old Footprint=0402-RES New Footprint=R0402
+Change Component Footprint: Designator=R20 Old Footprint=0402-RES New Footprint=R0402
+Change Component Library : Designator=R3004 Old Library=pixhawk2.IntLib New Library=3DR.pcblib

@@ -1,0 +1,57 @@
+Change Component Library : Designator=U1 Old Library=pixhawk2.IntLib New Library=pixhawk2.schlib
+Added Component: Designator=C?(0402-CAP)
+Added Component: Designator=C?(0603-CAP)
+Added Component: Designator=C?(0603-CAP)
+Added Component: Designator=P?(HDR1X8)
+Added Component: Designator=P?(HDR1X8)
+Added Component: Designator=P?(HDR1X8)
+Added Component: Designator=P?(HDR1X8)
+Added Component: Designator=U405(MPU-6500)
+Added Pin To Net: NetName=VDD_3V3_ANALOG Pin=C?-P$1
+Added Pin To Net: NetName=VDD_3V3_ANALOG Pin=C?-P$1
+Added Pin To Net: NetName=GND Pin=C?-P$2
+Added Pin To Net: NetName=GND Pin=C?-P$2
+Added Pin To Net: NetName=GND Pin=C?-P$2
+Added Pin To Net: NetName=DCMI_D11_UART5_RX Pin=J1-9
+Added Pin To Net: NetName=USART2_RX Pin=J1-11
+Added Pin To Net: NetName=CAN_H_1 Pin=J1-12
+Added Pin To Net: NetName=CAN_L_1 Pin=J1-13
+Added Pin To Net: NetName=GND Pin=J1-16
+Added Pin To Net: NetName=VBUS Pin=J1-17
+Added Pin To Net: NetName=USART2_TX Pin=J1-26
+Added Pin To Net: NetName=D+ Pin=J5-D+
+Added Pin To Net: NetName=D- Pin=J5-D-
+Added Pin To Net: NetName=SER2CT Pin=P3-4
+Added Pin To Net: NetName=SER2RT Pin=P3-5
+Added Pin To Net: NetName=D- Pin=R6-1
+Added Pin To Net: NetName=D+ Pin=R8-1
+Added Pin To Net: NetName=SER2CT Pin=U2-84
+Added Pin To Net: NetName=SER2RT Pin=U2-85
+Added Pin To Net: NetName=VDD_3V3_ANALOG Pin=U405-1
+Added Pin To Net: NetName=VCC Pin=U405-8
+Added Pin To Net: NetName=SPI2_MISO Pin=U405-9
+Added Pin To Net: NetName=GND Pin=U405-11
+Added Pin To Net: NetName=VDD_3V3_ANALOG Pin=U405-13
+Added Pin To Net: NetName=GND Pin=U405-18
+Added Pin To Net: NetName=GND Pin=U405-20
+Added Pin To Net: NetName=I2C3_SCL--- Pin=U405-22
+Added Pin To Net: NetName=SPI2_SCK Pin=U405-23
+Added Pin To Net: NetName=SPI2_MOSI Pin=U405-24
+Change Net Name : Old Net Name=USART2_RX New Net Name=SER2TX
+Change Net Name : Old Net Name=USART2_TX New Net Name=SER2RX
+Change Net Name : Old Net Name=VBUS New Net Name=+5V_USB
+Added Pin To Net: NetName=REGOUT Pin=C?-P$1
+Added Pin To Net: NetName=REGOUT Pin=U405-10
+Added Net: Name=REGOUT
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component C6 100u
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component C14 100u
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component C? 0u1
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component P4 CLICKMATE_1.25_6
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component P5 CLICKMATE_1.25_6
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component P6 JST_SUR_6
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component P? Header 8
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component R5 10K
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component R16 10K
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component R18 10K
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component U405 MPU-9250
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component U$2 MOUNT-HOLE3.1MM

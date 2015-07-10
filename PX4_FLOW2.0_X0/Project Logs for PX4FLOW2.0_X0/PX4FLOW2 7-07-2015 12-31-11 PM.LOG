@@ -1,0 +1,100 @@
+Removed Pin From Net: NetName=VDD_5V Pin=D1-CATHODE
+Removed Pin From Net: NetName=D+ Pin=J5-D+
+Removed Pin From Net: NetName=D- Pin=J5-D-
+Removed Pin From Net: NetName=+5V_USB Pin=J5-VBUS
+Removed Pin From Net: NetName=VDD_SONAR Pin=JP1-2
+Removed Pin From Net: NetName=VDD_3V3 Pin=JP1-3
+Removed Pin From Net: NetName=VDD_5V_IN Pin=L1-1
+Removed Pin From Net: NetName=+5V_USB Pin=L8-2
+Removed Pin From Net: NetName=VDD_5V_IN Pin=L103-P$1
+Removed Pin From Net: NetName=VDD_5V_IN Pin=L106-P$1
+Removed Pin From Net: NetName=CAN_H_1 Pin=P1-2
+Removed Pin From Net: NetName=CAN_L_1 Pin=P1-3
+Removed Pin From Net: NetName=SER2RX Pin=P3-2
+Removed Pin From Net: NetName=SER2TX Pin=P3-3
+Removed Pin From Net: NetName=SER2CT Pin=P3-4
+Removed Pin From Net: NetName=SER2RT Pin=P3-5
+Removed Pin From Net: NetName=I2C1_SCL_EXT Pin=R3-2
+Removed Pin From Net: NetName=I2C1_SDA_EXT Pin=R4-2
+Removed Pin From Net: NetName=D- Pin=R6-1
+Removed Pin From Net: NetName=D+ Pin=R8-1
+Removed Pin From Net: NetName=VDD_5V Pin=R10-1
+Removed Pin From Net: NetName=CAN_H_1 Pin=R3010-P$1
+Removed Pin From Net: NetName=CAN_L_1 Pin=R3010-P$2
+Removed Pin From Net: NetName=ADC123_IN10 Pin=U2-15
+Removed Pin From Net: NetName=US_EN1 Pin=U2-39
+Removed Pin From Net: NetName=USART3_TX Pin=U2-55
+Removed Pin From Net: NetName=USART3_RX Pin=U2-56
+Removed Pin From Net: NetName=USART3_CTS Pin=U2-58
+Removed Pin From Net: NetName=USART3_RTS Pin=U2-59
+Removed Pin From Net: NetName=TIM4_CH2 Pin=U2-60
+Removed Pin From Net: NetName=+5V_USB Pin=U2-68
+Removed Pin From Net: NetName=OTG_FS_ID Pin=U2-69
+Removed Pin From Net: NetName=OTG_FS_N Pin=U2-70
+Removed Pin From Net: NetName=OTG_FS_P Pin=U2-71
+Removed Pin From Net: NetName=JTMS-SWDIO Pin=U2-72
+Removed Pin From Net: NetName=JTCK-SWCLK Pin=U2-76
+Removed Pin From Net: NetName=UART4_RX Pin=U2-79
+Removed Pin From Net: NetName=DCMI_D11_UART5_RX Pin=U2-83
+Removed Pin From Net: NetName=SER2CT Pin=U2-84
+Removed Pin From Net: NetName=SER2RT Pin=U2-85
+Removed Pin From Net: NetName=SER2RX Pin=U2-86
+Removed Pin From Net: NetName=SER2TX Pin=U2-87
+Removed Pin From Net: NetName=CAN_L_1 Pin=U3004-6
+Removed Pin From Net: NetName=CAN_H_1 Pin=U3004-7
+Removed Pin From Net: NetName=SER2TX Pin=USART2_RX-P$1
+Removed Pin From Net: NetName=SER2RX Pin=USART2_TX-P$1
+Removed Pin From Net: NetName=USART3_RX Pin=USART3_RX-P$1
+Removed Pin From Net: NetName=USART3_TX Pin=USART3_TX-P$1
+Removed Pin From Net: NetName=+5V_USB Pin=USB_VBUS-P$1
+Removed Pin From Net: NetName=VDD_5V_IN_UART3 Pin=VDD_5V_IN-P$1
+Removed Member From Class: ClassName=PX4FLOW2.0_CPU_X0 Member=D1
+Removed Member From Class: ClassName=PX4FLOW2.0_CPU_X0 Member=D104
+Removed Member From Class: ClassName=PX4FLOW2.0_CPU_X0 Member=D108
+Removed Member From Class: ClassName=PX4FLOW2.0_CPU_X0 Member=J1
+Removed Member From Class: ClassName=PX4FLOW2.0_CPU_X0 Member=J4
+Removed Member From Class: ClassName=PX4FLOW2.0_CPU_X0 Member=J5
+Removed Member From Class: ClassName=PX4FLOW2.0_CPU_X0 Member=JP2
+Removed Member From Class: ClassName=PX4FLOW2.0_CPU_X0 Member=L1
+Removed Member From Class: ClassName=PX4FLOW2.0_CPU_X0 Member=L2
+Removed Member From Class: ClassName=PX4FLOW2.0_CPU_X0 Member=L8
+Removed Member From Class: ClassName=PX4FLOW2.0_CPU_X0 Member=L103
+Removed Member From Class: ClassName=PX4FLOW2.0_CPU_X0 Member=L106
+Removed Member From Class: ClassName=PX4FLOW2.0_CPU_X0 Member=P1
+Removed Member From Class: ClassName=PX4FLOW2.0_CPU_X0 Member=P2
+Removed Member From Class: ClassName=PX4FLOW2.0_CPU_X0 Member=P3
+Removed Member From Class: ClassName=PX4FLOW2.0_CPU_X0 Member=P4
+Removed Member From Class: ClassName=PX4FLOW2.0_CPU_X0 Member=P5
+Removed Member From Class: ClassName=PX4FLOW2.0_CPU_X0 Member=P6
+Removed Member From Class: ClassName=PX4FLOW2.0_CPU_X0 Member=R6
+Removed Member From Class: ClassName=PX4FLOW2.0_CPU_X0 Member=R7
+Removed Member From Class: ClassName=PX4FLOW2.0_CPU_X0 Member=R8
+Removed Member From Class: ClassName=PX4FLOW2.0_CPU_X0 Member=R10
+Removed Member From Class: ClassName=PX4FLOW2.0_CPU_X0 Member=R11
+Added Component: Designator=R3002(0402-RES)
+Added Component: Designator=R3004(0402-RES)
+Added Pin To Net: NetName=VCC Pin=R3002-P$1
+Added Pin To Net: NetName=I2C1_SCL Pin=R3002-P$2
+Added Pin To Net: NetName=VCC Pin=R3004-P$1
+Added Pin To Net: NetName=I2C1_SDA Pin=R3004-P$2
+Added Pin To Net: NetName=OTG_N Pin=J5-D-
+Added Pin To Net: NetName=OTG_N Pin=R6-1
+Added Net: Name=OTG_N
+Added Pin To Net: NetName=OTG_P Pin=J5-D+
+Added Pin To Net: NetName=OTG_P Pin=R8-1
+Added Net: Name=OTG_P
+Added Pin To Net: NetName=USART2_CTS Pin=U2-84
+Added Net: Name=USART2_CTS
+Added Pin To Net: NetName=USART2_RTS Pin=U2-85
+Added Net: Name=USART2_RTS
+Added Pin To Net: NetName=USART2_RX Pin=P3-3
+Added Net: Name=USART2_RX
+Added Pin To Net: NetName=USART2_TX Pin=P3-2
+Added Net: Name=USART2_TX
+Added Pin To Net: NetName=VBUS Pin=J5-VBUS
+Added Pin To Net: NetName=VBUS Pin=L8-2
+Added Net: Name=VBUS
+Added Class: Name=PX4FLOW2.0_3DR_BUS_X0
+Added Class: Name=PX4FLOW2.0_Connectors_X0
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component R3002 1K5
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component R3004 1K5

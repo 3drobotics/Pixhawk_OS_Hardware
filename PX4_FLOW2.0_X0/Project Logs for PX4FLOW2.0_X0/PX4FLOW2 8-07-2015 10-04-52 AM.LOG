@@ -1,0 +1,6 @@
+Added Component: Designator=L3(L0402)
+Added Pin To Net: NetName=VDD_5V_IN Pin=L3-1
+Added Pin To Net: NetName=NetL3_2 Pin=L3-2
+Added Pin To Net: NetName=NetL3_2 Pin=P3-1
+Added Net: Name=NetL3_2
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component L3 Inductor
