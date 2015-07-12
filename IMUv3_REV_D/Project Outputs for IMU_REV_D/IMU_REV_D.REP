@@ -1,116 +1,313 @@
 *************************************************************
-FileName = IMU_REV_D.PcbDoc
-ODB++ directory structure
+FileName = IMU_REV_D.GBR
+AutoAperture = True
 *************************************************************
-Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D\Project Outputs for IMU_REV_D\odb\matrix\matrix
+Generating : Top Layer
+      File : IMU_REV_D.GTL
 
-Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D\Project Outputs for IMU_REV_D\odb\steps\pcb\profile
+    Adding Layer      : Top Layer
 
-Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D\Project Outputs for IMU_REV_D\odb\steps\pcb\stephdr
+    Adding Layer      : Multi-Layer
 
-Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D\Project Outputs for IMU_REV_D\odb\steps\pcb\attrlist
 
-Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D\Project Outputs for IMU_REV_D\odb\steps\pcb\layers\topoverlay\features
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+*************************************************************
 
-Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D\Project Outputs for IMU_REV_D\odb\steps\pcb\layers\topoverlay\attrlist
+*************************************************************
+Generating : Mid-Layer 1
+      File : IMU_REV_D.G1
 
-Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D\Project Outputs for IMU_REV_D\odb\steps\pcb\layers\toppaste\features
+    Adding Layer      : Mid-Layer 1
 
-Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D\Project Outputs for IMU_REV_D\odb\steps\pcb\layers\toppaste\attrlist
+    Adding Layer      : Multi-Layer
 
-Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D\Project Outputs for IMU_REV_D\odb\steps\pcb\layers\topsolder\features
 
-Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D\Project Outputs for IMU_REV_D\odb\steps\pcb\layers\topsolder\attrlist
+Used DCodes :
+    D21
+    D26
+    D27
+    D28
+*************************************************************
 
-Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D\Project Outputs for IMU_REV_D\odb\steps\pcb\layers\top\features
+*************************************************************
+Generating : Mid-Layer 2
+      File : IMU_REV_D.G2
 
-Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D\Project Outputs for IMU_REV_D\odb\steps\pcb\layers\top\attrlist
+    Adding Layer      : Mid-Layer 2
 
-Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D\Project Outputs for IMU_REV_D\odb\steps\pcb\layers\mid1\features
+    Adding Layer      : Multi-Layer
 
-Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D\Project Outputs for IMU_REV_D\odb\steps\pcb\layers\mid1\attrlist
 
-Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D\Project Outputs for IMU_REV_D\odb\steps\pcb\layers\mid2\features
+Used DCodes :
+    D21
+    D25
+    D26
+    D27
+    D28
+*************************************************************
 
-Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D\Project Outputs for IMU_REV_D\odb\steps\pcb\layers\mid2\attrlist
+*************************************************************
+Generating : Bottom Layer
+      File : IMU_REV_D.GBL
 
-Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D\Project Outputs for IMU_REV_D\odb\steps\pcb\layers\bottom\features
+    Adding Layer      : Bottom Layer
 
-Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D\Project Outputs for IMU_REV_D\odb\steps\pcb\layers\bottom\attrlist
+    Adding Layer      : Multi-Layer
 
-Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D\Project Outputs for IMU_REV_D\odb\steps\pcb\layers\bottomsolder\features
 
-Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D\Project Outputs for IMU_REV_D\odb\steps\pcb\layers\bottomsolder\attrlist
+Used DCodes :
+    D23
+    D24
+    D25
+    D26
+    D28
+    D29
+*************************************************************
 
-Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D\Project Outputs for IMU_REV_D\odb\steps\pcb\layers\bottompaste\features
+*************************************************************
+Generating : Bottom Pad Master
+      File : IMU_REV_D.GPB
 
-Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D\Project Outputs for IMU_REV_D\odb\steps\pcb\layers\bottompaste\attrlist
+    Adding Layer      : Bottom Layer
 
-Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D\Project Outputs for IMU_REV_D\odb\steps\pcb\layers\bottomoverlay\features
+    Adding Layer      : Multi-Layer
 
-Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D\Project Outputs for IMU_REV_D\odb\steps\pcb\layers\bottomoverlay\attrlist
 
-Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D\Project Outputs for IMU_REV_D\odb\steps\pcb\layers\drill\features
+Used DCodes :
+    D24
+    D25
+*************************************************************
 
-Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D\Project Outputs for IMU_REV_D\odb\steps\pcb\layers\drill\attrlist
+*************************************************************
+Generating : Top Pad Master
+      File : IMU_REV_D.GPT
 
-Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D\Project Outputs for IMU_REV_D\odb\steps\pcb\layers\drill\tools
+    Adding Layer      : Top Layer
 
-Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D\Project Outputs for IMU_REV_D\odb\steps\pcb\layers\keepout\features
+    Adding Layer      : Multi-Layer
 
-Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D\Project Outputs for IMU_REV_D\odb\steps\pcb\layers\keepout\attrlist
 
-Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D\Project Outputs for IMU_REV_D\odb\steps\pcb\layers\mechanical1\features
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D24
+    D25
+*************************************************************
 
-Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D\Project Outputs for IMU_REV_D\odb\steps\pcb\layers\mechanical1\attrlist
+*************************************************************
+Generating : Top Overlay
+      File : IMU_REV_D.GTO
 
-Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D\Project Outputs for IMU_REV_D\odb\steps\pcb\layers\mechanical2\features
+    Adding Layer      : Top Overlay
 
-Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D\Project Outputs for IMU_REV_D\odb\steps\pcb\layers\mechanical2\attrlist
 
-Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D\Project Outputs for IMU_REV_D\odb\steps\pcb\layers\mechanical4\features
+Used DCodes :
+    D23
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+*************************************************************
 
-Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D\Project Outputs for IMU_REV_D\odb\steps\pcb\layers\mechanical4\attrlist
+*************************************************************
+Generating : Top Paste
+      File : IMU_REV_D.GTP
 
-Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D\Project Outputs for IMU_REV_D\odb\steps\pcb\layers\mechanical6\features
+    Adding Layer      : Top Paste
 
-Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D\Project Outputs for IMU_REV_D\odb\steps\pcb\layers\mechanical6\attrlist
+    Adding Layer      : Top Layer
 
-Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D\Project Outputs for IMU_REV_D\odb\steps\pcb\layers\mechanical7\features
+    Adding Layer      : Multi-Layer
 
-Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D\Project Outputs for IMU_REV_D\odb\steps\pcb\layers\mechanical7\attrlist
 
-Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D\Project Outputs for IMU_REV_D\odb\steps\pcb\layers\mechanical13\features
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D22
+*************************************************************
 
-Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D\Project Outputs for IMU_REV_D\odb\steps\pcb\layers\mechanical13\attrlist
+*************************************************************
+Generating : Top Solder
+      File : IMU_REV_D.GTS
 
-Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D\Project Outputs for IMU_REV_D\odb\steps\pcb\layers\mechanical15\features
+    Adding Layer      : Top Solder
 
-Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D\Project Outputs for IMU_REV_D\odb\steps\pcb\layers\mechanical15\attrlist
+    Adding Layer      : Top Layer
 
-Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D\Project Outputs for IMU_REV_D\odb\steps\pcb\layers\mechanical16\features
+    Adding Layer      : Multi-Layer
 
-Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D\Project Outputs for IMU_REV_D\odb\steps\pcb\layers\mechanical16\attrlist
 
-Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D\Project Outputs for IMU_REV_D\odb\steps\pcb\layers\mechanical20\features
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D22
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+*************************************************************
 
-Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D\Project Outputs for IMU_REV_D\odb\steps\pcb\layers\mechanical20\attrlist
+*************************************************************
+Generating : Bottom Solder
+      File : IMU_REV_D.GBS
 
-Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D\Project Outputs for IMU_REV_D\odb\steps\pcb\layers\mechanical27\features
+    Adding Layer      : Bottom Solder
 
-Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D\Project Outputs for IMU_REV_D\odb\steps\pcb\layers\mechanical27\attrlist
+    Adding Layer      : Bottom Layer
 
-Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D\Project Outputs for IMU_REV_D\odb\steps\pcb\layers\mechanical34\features
+    Adding Layer      : Multi-Layer
 
-Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D\Project Outputs for IMU_REV_D\odb\steps\pcb\layers\mechanical34\attrlist
 
-Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D\Project Outputs for IMU_REV_D\odb\steps\pcb\layers\comp_+_top\features
+Used DCodes :
+    D42
+    D45
+*************************************************************
 
-Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D\Project Outputs for IMU_REV_D\odb\steps\pcb\layers\comp_+_top\components
+*************************************************************
+Generating : Bottom Paste
+      File : IMU_REV_D.GBP
 
-Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D\Project Outputs for IMU_REV_D\odb\steps\pcb\layers\comp_+_bot\features
+    Adding Layer      : Bottom Paste
 
-Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D\Project Outputs for IMU_REV_D\odb\steps\pcb\layers\comp_+_bot\components
+    Adding Layer      : Bottom Layer
 
-Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D\Project Outputs for IMU_REV_D\odb\steps\pcb\eda\data
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : IMU_REV_D.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D30
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : IMU_REV_D.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D46
+    D47
+    D48
+    D49
+    D50
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : IMU_REV_D.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D46
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 16
+      File : IMU_REV_D.GM16
+
+    Adding Layer      : Mechanical 16
+
+
+Used DCodes :
+    D23
+    D37
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : IMU_REV_D.GD1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D51
+    D59
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : IMU_REV_D.GG1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D51
+*************************************************************
 

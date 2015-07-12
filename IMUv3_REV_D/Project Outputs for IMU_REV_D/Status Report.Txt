@@ -1,10 +1,29 @@
-Output: Generates pick and place files
-Type  : Pick Place
+Output: Gerber Files
+Type  : Gerber
 From  : Variant [[No Variations]] of Project [IMU_REV_D.PrjPcb]
-   Generated File[Pick Place for IMU_REV_D.txt]
+   Generated File[IMU_REV_D.GTL]
+   Generated File[IMU_REV_D.G1]
+   Generated File[IMU_REV_D.G2]
+   Generated File[IMU_REV_D.GBL]
+   Generated File[IMU_REV_D.GPB]
+   Generated File[IMU_REV_D.GPT]
+   Generated File[IMU_REV_D.GTO]
+   Generated File[IMU_REV_D.GTP]
+   Generated File[IMU_REV_D.GTS]
+   Generated File[IMU_REV_D.GBS]
+   Generated File[IMU_REV_D.GBP]
+   Generated File[IMU_REV_D.GBO]
+   Generated File[IMU_REV_D.GKO]
+   Generated File[IMU_REV_D.GM1]
+   Generated File[IMU_REV_D.GM16]
+   Generated File[IMU_REV_D.GD1]
+   Generated File[IMU_REV_D.GG1]
+   Generated File[IMU_REV_D.RUL]
+   Generated File[IMU_REV_D.EXTREP]
+   Generated File[IMU_REV_D.REP]
 
 
-Files Generated   : 1
+Files Generated   : 20
 Documents Printed : 0
 
-Finished Output Generation At 10:51:03 AM On 8/07/2015
+Finished Output Generation At 12:23:40 PM On 11/07/2015

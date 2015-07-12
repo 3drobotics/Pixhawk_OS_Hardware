@@ -1,0 +1,12 @@
+Change Component Library : Designator=J5 Old Library=pixhawk2.IntLib New Library=pixhawk2.Schlib
+Added Component: Designator=J?(FTSH-105-01-XXX-DV-K)
+Added Component: Designator=J?(FTSH-105-01-XXX-DV-K)
+Added Component: Designator=J?(FTSH-105-01-XXX-DV-K)
+Added Component: Designator=J?(FTSH-105-01-XXX-DV-K)
+Added Component: Designator=J?(FTSH-105-01-XXX-DV-K)
+Added Component: Designator=J?(FTSH-105-01-XXX-DV-K)
+Added Component: Designator=J?(FTSH-105-01-XXX-DV-K)
+Added Component: Designator=J?(FTSH-105-01-XXX-DV-K)
+Added Component: Designator=J?(FTSH-105-01-XXX-DV-K)
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component J? 
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component P1 CLICKMATE_1.25_4

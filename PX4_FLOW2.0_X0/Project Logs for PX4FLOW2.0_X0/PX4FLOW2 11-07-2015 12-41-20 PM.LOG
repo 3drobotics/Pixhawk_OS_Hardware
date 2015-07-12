@@ -1,0 +1,4 @@
+Change Net Name : Old Net Name=D+ New Net Name=OTG_P
+Change Net Name : Old Net Name=D- New Net Name=OTG_N
+Added Differential Pair: Name=OTG_FS
+Added Differential Pair: Name=OTG

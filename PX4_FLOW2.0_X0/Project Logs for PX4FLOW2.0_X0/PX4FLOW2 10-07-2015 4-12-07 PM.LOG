@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=JTCK-SWCLK Pin=J2-6
+Removed Pin From Net: NetName=JTCK-SWCLK Pin=U2-89
+Added Pin To Net: NetName=JTDO Pin=U2-89
+Added Net: Name=JTDO

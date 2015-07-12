@@ -89,6 +89,40 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document4]
+DocumentPath=CAMtastic3.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document5]
+DocumentPath=CAMtastic4.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 Description=Accessory_Breakout_X1
 AllowFabrication=0
@@ -101,6 +135,86 @@ Variation4=Designator=P1|UniqueId=\EQSMPCKA|Kind=1|AlternatePart=
 Variation5=Designator=P2|UniqueId=\AJDFXIMR|Kind=1|AlternatePart= 
 Variation6=Designator=3DR Logo|UniqueId=\PCWVMCQQ|Kind=1|AlternatePart= 
 ParamVariationCount=0
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Accessory_Breakout_X1\Accessory_Breakout_X1.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for Accessory_Breakout_X1\Accessory_Breakout_X1.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for Accessory_Breakout_X1\Accessory_Breakout_X1.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for Accessory_Breakout_X1\Accessory_Breakout_X1.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for Accessory_Breakout_X1\Accessory_Breakout_X1.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for Accessory_Breakout_X1\Accessory_Breakout_X1.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for Accessory_Breakout_X1\Accessory_Breakout_X1.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for Accessory_Breakout_X1\Accessory_Breakout_X1.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for Accessory_Breakout_X1\Accessory_Breakout_X1.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for Accessory_Breakout_X1\Accessory_Breakout_X1.GM16
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for Accessory_Breakout_X1\Accessory_Breakout_X1.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for Accessory_Breakout_X1\Accessory_Breakout_X1.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for Accessory_Breakout_X1\Accessory_Breakout_X1.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for Accessory_Breakout_X1\Accessory_Breakout_X1.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for Accessory_Breakout_X1\Accessory_Breakout_X1.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for Accessory_Breakout_X1\Accessory_Breakout_X1.REP
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for Accessory_Breakout_X1\Accessory_Breakout_X1.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for Accessory_Breakout_X1\Accessory_Breakout_X1.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=BOM\Bill of Materials-Accessory_Breakout_X1(Accessory_Breakout_X1).xls
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for Accessory_Breakout_X1\Pick Place for Accessory_Breakout_X1.txt
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Default Configuration

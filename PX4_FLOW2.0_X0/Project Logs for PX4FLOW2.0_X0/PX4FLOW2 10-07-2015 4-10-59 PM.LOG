@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=J5 Old Footprint=Molex 47346-0001 New Footprint=MOLEX-47346-0001
+Added Pin To Net: NetName=VCC Pin=J2-1
+Added Pin To Net: NetName=JTMS-SWDIO Pin=J2-2
+Added Pin To Net: NetName=GND Pin=J2-3
+Added Pin To Net: NetName=JTCK-SWCLK Pin=J2-4
+Added Pin To Net: NetName=GND Pin=J2-5
+Added Pin To Net: NetName=JTCK-SWCLK Pin=J2-6
+Added Pin To Net: NetName=JTDI Pin=J2-8
+Added Pin To Net: NetName=GND Pin=J2-9
+Added Pin To Net: NetName=J\T\R\S\T\ Pin=J2-10
+Added Pin To Net: NetName=JTCK-SWCLK Pin=U2-89
+Added Room: Name=PX4FLOW2.0_CPU_X0
