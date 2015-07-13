@@ -30,7 +30,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for PX4FLOW2.0_X0
 LogFolderPath=
 ManagedProjectGUID=
 
@@ -45,7 +45,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=2
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -62,7 +62,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -73,13 +73,13 @@ GenerateClassCluster=0
 DocumentUniqueId=OQGNMDUI
 
 [Document3]
-DocumentPath=PX4FLOW2.0_3DR_BUS_X0.SchDoc
+DocumentPath=PX4FLOW2.0_Power_X0.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -155,7 +155,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=ADKUMFTU
 
 [Document8]
 DocumentPath=..\..\px4_hardware\libraries\altium\pixhawk2.SCHLIB
@@ -174,7 +174,88 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document9]
+DocumentPath=PX4FLOW2.0.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document10]
+DocumentPath=PX4FLOW2.0_CAM_X0.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=OLSIVDXH
+
+[Document11]
+DocumentPath=PX4FLOW2.0_Sensors_CAN_X0.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=UODHKYSY
+
+[ProjectVariant1]
+Description=PX4FLOW2.0_X0
+AllowFabrication=0
+ParameterCount=0
+VariationCount=19
+Variation1=Designator=!RESET|UniqueId=\DOGLOGVO|Kind=1|AlternatePart= 
+Variation2=Designator=J2|UniqueId=\KNNHXPDR|Kind=1|AlternatePart= 
+Variation3=Designator=P2|UniqueId=\CHACYPTT|Kind=1|AlternatePart= 
+Variation4=Designator=P3|UniqueId=\FKLHGQUD|Kind=1|AlternatePart= 
+Variation5=Designator=P4|UniqueId=\BSIAMGPX|Kind=1|AlternatePart= 
+Variation6=Designator=P5|UniqueId=\OSBHQSVM|Kind=1|AlternatePart= 
+Variation7=Designator=P6|UniqueId=\IFFYJDQN|Kind=1|AlternatePart= 
+Variation8=Designator=U$9|UniqueId=\YVRKAHYX|Kind=1|AlternatePart= 
+Variation9=Designator=U$10|UniqueId=\HFTQJSSQ|Kind=1|AlternatePart= 
+Variation10=Designator=VDD_3V3|UniqueId=\AIILWEUI|Kind=1|AlternatePart= 
+Variation11=Designator=VDD_3V3_ANALOG|UniqueId=\KOCQUEDY|Kind=1|AlternatePart= 
+Variation12=Designator=VDD_5V|UniqueId=\OQSBUCYV|Kind=1|AlternatePart= 
+Variation13=Designator=U$8|UniqueId=\EWOCNSNJ|Kind=1|AlternatePart= 
+Variation14=Designator=U$1|UniqueId=\XQUNQCAO|Kind=1|AlternatePart= 
+Variation15=Designator=U$4|UniqueId=\QWRLTOEO|Kind=1|AlternatePart= 
+Variation16=Designator=U$3|UniqueId=\JVUPINTG|Kind=1|AlternatePart= 
+Variation17=Designator=BOOT0|UniqueId=\QWSLJKYX|Kind=1|AlternatePart= 
+Variation18=Designator=BOOT1|UniqueId=\PQRCFCVG|Kind=1|AlternatePart= 
+Variation19=Designator=J4|UniqueId=\CATGWKNE|Kind=1|AlternatePart= 
+ParamVariationCount=0
+
 [GeneratedDocument1]
+DocumentPath=.\BOM\Bill of Materials-PX4FLOW2.0_X0(PX4FLOW2.xls
+DItemRevisionGUID=
+
+[GeneratedDocument2]
 DocumentPath=Project Outputs for PX4FLOW2.0_X0\Design Rule Check - PX4FLOW2.html
 DItemRevisionGUID=
 
@@ -187,6 +268,9 @@ CurrentRevision=
 Variant=[No Variations]
 GenerateBOM=1
 OutputJobsCount=0
+
+[Generic_EDE]
+OutputDir=Project Outputs for PX4FLOW2.0_X0
 
 [OutputGroup1]
 Name=Netlist Outputs

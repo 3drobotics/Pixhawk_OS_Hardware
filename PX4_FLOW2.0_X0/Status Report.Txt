@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 5:37:56 PM On 13/07/2015
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [PX4FLOW2.0_X0] of Project [PX4FLOW2.0_X0.PrjPcb]
+   Generated File[Bill of Materials-PX4FLOW2.0_X0(PX4FLOW2.xls]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 5:38:29 PM On 13/07/2015

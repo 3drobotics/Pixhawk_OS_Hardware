@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\PX4_FLOW2.0_X0\PX4FLOW2.0_X0.PcbDoc
 Date     : 13/07/2015
-Time     : 2:41:01 PM
+Time     : 5:55:09 PM
 
 Processing Rule : Clearance Constraint (Gap=0.15mm) (All),(All)
 Rule Violations :0
@@ -53,4 +53,4 @@ Rule Violations :0
 
 
 Violations Detected : 0
-Time Elapsed        : 00:00:03
+Time Elapsed        : 00:00:04

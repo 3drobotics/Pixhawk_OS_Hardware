@@ -1,0 +1,13 @@
+Change Component Comment : Designator=L8 Old Comment=Inductor New Comment=FERRITE BEAD 120 OHM 0402  
+Change Component Description : Designator=L1 Old Description= New Description=FERRITE BEAD 120 OHM 0402  
+Change Component Description : Designator=L2 Old Description= New Description=FERRITE BEAD 120 OHM 0402  
+Change Component Description : Designator=L3 Old Description= New Description=FERRITE BEAD 120 OHM 0402  
+Change Component Description : Designator=L11 Old Description= New Description=FERRITE BEAD 120 OHM 0402  
+Change Component Description : Designator=S1 Old Description= New Description=Switch
+Change Component Description : Designator=C11 Old Description=CAP CER 2.2UF 16V 10% X6S 0603 New Description=Capacitor, 2.2uF, 16V, 10%, X6S, 0603, Ceramic
+Change Component Description : Designator=C12 Old Description=CAP CER 2.2UF 16V 10% X6S 0603 New Description=Capacitor, 2.2uF, 16V, 10%, X6S, 0603, Ceramic
+Change Component Description : Designator=LED2 Old Description=LEDsStandard schematic elements and footprints for 5mm, 3mm, 1206, and 0603 sized LEDs. 5mm - Spark Fun Electronics SKU : COM-00529 (and others) New Description=AMBER LED
+Change Component Description : Designator=LED3 Old Description=LEDsStandard schematic elements and footprints for 5mm, 3mm, 1206, and 0603 sized LEDs. 5mm - Spark Fun Electronics SKU : COM-00529 (and others) New Description=BLUE LED
+Change Component Description : Designator=LED1 Old Description=LEDsStandard schematic elements and footprints for 5mm, 3mm, 1206, and 0603 sized LEDs. 5mm - Spark Fun Electronics SKU : COM-00529 (and others) New Description=Green LED
+Change Component Description : Designator=LED4 Old Description=LEDsStandard schematic elements and footprints for 5mm, 3mm, 1206, and 0603 sized LEDs. 5mm - Spark Fun Electronics SKU : COM-00529 (and others) New Description=RED LED
+Change Component Description : Designator=R7 Old Description=ResistorBasic schematic elements and footprints for 0603, 1206, and PTH 1/10th watt (small) resistors. New Description=RES 10K OHM 1/16W 1% 0402 SMD
