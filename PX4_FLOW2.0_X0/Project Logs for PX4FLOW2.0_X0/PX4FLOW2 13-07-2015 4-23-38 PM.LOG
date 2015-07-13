@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=NetL2_2 Pin=LIDAR-1
+Removed Pin From Net: NetName=PWM Pin=LIDAR-2
+Removed Pin From Net: NetName=POWER Pin=LIDAR-3
+Removed Pin From Net: NetName=I2C1_SCL_EXT Pin=LIDAR-4
+Removed Pin From Net: NetName=I2C1_SDA_EXT Pin=LIDAR-5
+Removed Pin From Net: NetName=GND Pin=LIDAR-6
+Added Pin To Net: NetName=GND Pin=LIDAR-1
+Added Pin To Net: NetName=I2C1_SDA_EXT Pin=LIDAR-2
+Added Pin To Net: NetName=I2C1_SCL_EXT Pin=LIDAR-3
+Added Pin To Net: NetName=POWER Pin=LIDAR-4
+Added Pin To Net: NetName=PWM Pin=LIDAR-5
+Added Pin To Net: NetName=NetL2_2 Pin=LIDAR-6

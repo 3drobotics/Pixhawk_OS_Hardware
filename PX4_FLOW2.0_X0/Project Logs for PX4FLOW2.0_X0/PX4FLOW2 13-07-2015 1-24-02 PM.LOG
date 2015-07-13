@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=PRES_DRDY--- Pin=P5-1
+Added Pin To Net: NetName=MAG_DRDY--- Pin=P5-2
+Added Pin To Net: NetName=DCMI_PIXCK Pin=P5-3
+Added Pin To Net: NetName=SPI1_MOSI--- Pin=P5-4
+Added Pin To Net: NetName=ADC12_IN4 Pin=P5-5
+Added Pin To Net: NetName=ADC12_IN5 Pin=P5-6

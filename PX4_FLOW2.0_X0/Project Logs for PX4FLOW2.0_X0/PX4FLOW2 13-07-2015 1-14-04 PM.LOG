@@ -1,0 +1,31 @@
+Change Component Library : Designator=U$1 Old Library=pixhawk2.IntLib New Library=pixhawk2.SCHLIB
+Change Component Library : Designator=U$3 Old Library=pixhawk2.IntLib New Library=pixhawk2.SCHLIB
+Change Component Library : Designator=U$4 Old Library=pixhawk2.IntLib New Library=pixhawk2.SCHLIB
+Added Component: Designator=!RESET(PAD.04X.04)
+Added Component: Designator=BOOT0(PAD.05X.05)
+Added Component: Designator=BOOT1(PAD.04X.04)
+Added Component: Designator=P5(HDR1X10)
+Added Component: Designator=U$10(OSHW-LOGO-S)
+Added Component: Designator=VDD_3V3_ANALOG(PAD.04X.04)
+Added Component: Designator=VDD_3V3(PAD.04X.04)
+Added Component: Designator=VDD_5V(PAD.04X.04)
+Added Pin To Net: NetName=R\E\S\E\T\ Pin=!RESET-P$1
+Added Pin To Net: NetName=BOOT0 Pin=BOOT0-P$1
+Added Pin To Net: NetName=PB2-BOOT1 Pin=BOOT1-P$1
+Added Pin To Net: NetName=VCC Pin=VDD_3V3-P$1
+Added Pin To Net: NetName=VDD_3V3_ANALOG Pin=VDD_3V3_ANALOG-P$1
+Added Pin To Net: NetName=VDD_5V Pin=VDD_5V-P$1
+Change Net Name : Old Net Name=+5V_USB New Net Name=VBUS
+Change Net Name : Old Net Name=SER2CT New Net Name=USART2_CTS
+Change Net Name : Old Net Name=SER2RT New Net Name=USART2_RTS
+Change Net Name : Old Net Name=SER2RX New Net Name=USART2_TX
+Change Net Name : Old Net Name=SER2TX New Net Name=USART2_RX
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component !RESET PAD.04
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component BOOT0 PAD.05
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component BOOT1 PAD.04
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component P5 Header 10
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component U$8 LENSMOUNT_M12
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component U$10 OSHW-LOGOS
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component VDD_3V3_ANALOG PAD.04
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component VDD_3V3 PAD.04
+Added Member To Class: ClassName=PX4FLOW2.0_CPU_X0 Member=Component VDD_5V PAD.04
