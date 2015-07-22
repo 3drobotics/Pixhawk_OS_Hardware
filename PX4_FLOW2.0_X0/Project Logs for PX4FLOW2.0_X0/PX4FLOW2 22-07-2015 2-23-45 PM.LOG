@@ -1,0 +1,37 @@
+Removed Pin From Net: NetName=PWM Pin=J4-PW
+Removed Pin From Net: NetName=TIM1_CH1 Pin=U2-40
+Removed Pin From Net: NetName=TIM1_CH2 Pin=U2-42
+Removed Pin From Net: NetName=GND Pin=U2-44
+Change Component Comment : Designator=L8 Old Comment=FERRITE BEAD 120 OHM 0402   New Comment=FERRITE BEAD 120 OHM 0402
+Added Component: Designator=R14(0603-RES)
+Added Component: Designator=R15(0603-RES)
+Added Component: Designator=R17(0603-RES)
+Added Component: Designator=U3(6-PLCC)
+Added Pin To Net: NetName=VDD_5V Pin=U3-A1
+Added Pin To Net: NetName=VDD_5V Pin=U3-A2
+Added Pin To Net: NetName=VDD_5V Pin=U3-A3
+Change Net Name : Old Net Name=I2C3_SCL--- New Net Name=M\P\U\_\C\S\
+Added Pin To Net: NetName=BLUE_LED Pin=R17-2
+Added Pin To Net: NetName=BLUE_LED Pin=U2-44
+Added Net: Name=BLUE_LED
+Added Pin To Net: NetName=GREEN_LED Pin=R15-2
+Added Pin To Net: NetName=GREEN_LED Pin=U2-42
+Added Net: Name=GREEN_LED
+Added Pin To Net: NetName=NetR14_1 Pin=R14-1
+Added Pin To Net: NetName=NetR14_1 Pin=U3-C1
+Added Net: Name=NetR14_1
+Added Pin To Net: NetName=NetR15_1 Pin=R15-1
+Added Pin To Net: NetName=NetR15_1 Pin=U3-C2
+Added Net: Name=NetR15_1
+Added Pin To Net: NetName=NetR17_1 Pin=R17-1
+Added Pin To Net: NetName=NetR17_1 Pin=U3-C3
+Added Net: Name=NetR17_1
+Added Pin To Net: NetName=RED_LED Pin=R14-2
+Added Pin To Net: NetName=RED_LED Pin=U2-40
+Added Net: Name=RED_LED
+Added Pin To Net: NetName=TIM4_CH2 Pin=J4-PW
+Added Net: Name=TIM4_CH2
+Added Member To Class: ClassName=PX4FLOW2.0_Power_X0 Member=Component R14 68R
+Added Member To Class: ClassName=PX4FLOW2.0_Power_X0 Member=Component R15 5R6
+Added Member To Class: ClassName=PX4FLOW2.0_Power_X0 Member=Component R17 5R6
+Added Member To Class: ClassName=PX4FLOW2.0_Power_X0 Member=Component U3 LRTB GFTG-T7AW-1+V7A7-29+R5T9-49-L
