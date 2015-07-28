@@ -11,6 +11,6 @@
 .out_y_scale = 1.000000
 .out_comp = 0.000000
 .et_adjacency = 20.000000
-.layer_dielectric = 0.019685
-.copper_weight = 1.00489362
+.layer_dielectric = 0.0186673
+.copper_weight = 0.98957447
 

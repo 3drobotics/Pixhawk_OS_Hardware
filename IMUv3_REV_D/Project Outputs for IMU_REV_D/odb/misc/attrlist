@@ -18,6 +18,6 @@
 .primary_side = top
 .design_origin_x = 0
 .design_origin_y = 0
-.board_thickness = 0.0446038
+.board_thickness = 0.042519
 _board_material = thermon
 

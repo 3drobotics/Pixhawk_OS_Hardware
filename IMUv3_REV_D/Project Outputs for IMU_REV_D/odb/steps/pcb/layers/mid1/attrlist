@@ -12,5 +12,5 @@
 .out_comp = 0.000000
 .et_adjacency = 20.000000
 .layer_dielectric = 0.001
-.copper_weight = 0.4964539
+.copper_weight = 0.49425532
 

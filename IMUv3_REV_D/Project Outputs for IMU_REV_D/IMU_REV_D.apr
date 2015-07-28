@@ -34,10 +34,10 @@ D47   RECTANGULAR      1644.870      17.000       0.000 FLASH       0.000
 D48   RECTANGULAR      1643.409      17.606       0.000 FLASH       0.000
 D49   RECTANGULAR        27.728     273.012       0.000 FLASH       0.000
 D50   RECTANGULAR        24.264     279.665       0.000 FLASH       0.000
-D51   ROUNDED             2.000       2.000       0.000  LINE       0.000
-D52   ROUNDED             1.000       1.000       0.000  LINE       0.000
-D53   ROUNDED             5.000       5.000       0.000  LINE       0.000
-D54   ROUNDED            15.000      15.000       0.000  LINE       0.000
+D51   ROUNDED             1.000       1.000       0.000  LINE       0.000
+D52   ROUNDED            15.000      15.000       0.000  LINE       0.000
+D53   ROUNDED             2.000       2.000       0.000  LINE       0.000
+D54   ROUNDED             5.000       5.000       0.000  LINE       0.000
 D55   RECTANGULAR        16.000      47.669       0.000 FLASH       0.000
 D56   RECTANGULAR        15.748      47.669       0.000 FLASH       0.000
 D57   RECTANGULAR        24.000      12.000       0.000 FLASH       0.000

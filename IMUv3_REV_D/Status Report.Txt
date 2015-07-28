@@ -1,14 +1,10 @@
-Project Outputs Generation Report
----------------------------------
-Start Output Generation At 10:52:50 AM On 8/07/2015
-
-Output: Bill of Materials
+Output: Copy of Bill of Materials
 Type  : BOM
 From  : Variant [IMU_REV_D] of Project [IMU_REV_D.PrjPcb]
-   Generated File[Bill of Materials-IMU_REV_D(IMU_REV_D).xls]
+   Generated File[Copy of Bill of Materials-IMU_REV_D(IMU_REV_D).xls]
 
 
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 10:53:05 AM On 8/07/2015
+Finished Output Generation At 11:23:58 AM On 28/07/2015
