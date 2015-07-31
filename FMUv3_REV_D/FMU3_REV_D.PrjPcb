@@ -30,7 +30,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for FMU3_REV_D
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 
@@ -308,7 +308,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=BIEOOAWB
 
 [Document17]
 DocumentPath=..\..\Altium\3DR_Lib\3DR.SchLib
@@ -420,7 +420,7 @@ Variation17=Designator=3DR Logo|UniqueId=\PYPTUMJV|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [GeneratedDocument1]
-DocumentPath=.\BOM\Bill of Materials-FMU3_REV_D(FMU3_REV_D).xls
+DocumentPath=BOM\Bill of Materials-FMU3_REV_D(FMU3_REV_D).xls
 DItemRevisionGUID=
 
 [GeneratedDocument2]
@@ -976,7 +976,7 @@ DocumentPath=Project Outputs for FMU3_REV_D\odb\steps\pcb\netlists\cadnet\netlis
 DItemRevisionGUID=
 
 [GeneratedDocument140]
-DocumentPath=.\BOM\PCH-FMU3_REV_D(FMU3_REV_D).xls
+DocumentPath=BOM\PCH-FMU3_REV_D(FMU3_REV_D).xls
 DItemRevisionGUID=
 
 [GeneratedDocument141]
@@ -1054,7 +1054,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=Project Outputs for FMU3_REV_D
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs

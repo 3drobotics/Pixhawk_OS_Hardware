@@ -30,7 +30,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for IMU_REV_D
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 
@@ -201,7 +201,7 @@ Variation2=Designator=Designator3|UniqueId=\FHTGUOUY|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [GeneratedDocument1]
-DocumentPath=.\BOM\Bill of Materials-IMU_REV_D(IMU_REV_D).xls
+DocumentPath=BOM\Bill of Materials-IMU_REV_D(IMU_REV_D).xls
 DItemRevisionGUID=
 
 [GeneratedDocument2]
@@ -213,226 +213,222 @@ DocumentPath=Project Outputs for IMU_REV_D\odb\steps\pcb\layers\comp_+_top\compo
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=.\BOM\Copy of Bill of Materials-IMU_REV_D(IMU_REV_D).xls
-DItemRevisionGUID=
-
-[GeneratedDocument5]
 DocumentPath=Project Outputs for IMU_REV_D\odb\steps\pcb\eda\data
 DItemRevisionGUID=
 
-[GeneratedDocument6]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for IMU_REV_D\odb\steps\pcb\layers\bottom\features
 DItemRevisionGUID=
 
-[GeneratedDocument7]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for IMU_REV_D\odb\steps\pcb\layers\bottomoverlay\features
 DItemRevisionGUID=
 
-[GeneratedDocument8]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for IMU_REV_D\odb\steps\pcb\layers\bottompaste\features
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for IMU_REV_D\odb\steps\pcb\layers\bottomsolder\features
 DItemRevisionGUID=
 
-[GeneratedDocument10]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for IMU_REV_D\odb\steps\pcb\layers\comp_+_bot\features
 DItemRevisionGUID=
 
-[GeneratedDocument11]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for IMU_REV_D\odb\steps\pcb\layers\comp_+_top\features
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for IMU_REV_D\odb\steps\pcb\layers\drill\features
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for IMU_REV_D\odb\steps\pcb\layers\keepout\features
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for IMU_REV_D\odb\steps\pcb\layers\mechanical1\features
 DItemRevisionGUID=
 
-[GeneratedDocument15]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for IMU_REV_D\odb\steps\pcb\layers\mechanical2\features
 DItemRevisionGUID=
 
-[GeneratedDocument16]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for IMU_REV_D\odb\steps\pcb\layers\mechanical4\features
 DItemRevisionGUID=
 
-[GeneratedDocument17]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for IMU_REV_D\odb\steps\pcb\layers\mechanical6\features
 DItemRevisionGUID=
 
-[GeneratedDocument18]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for IMU_REV_D\odb\steps\pcb\layers\mechanical7\features
 DItemRevisionGUID=
 
-[GeneratedDocument19]
+[GeneratedDocument18]
 DocumentPath=Project Outputs for IMU_REV_D\odb\steps\pcb\layers\mechanical13\features
 DItemRevisionGUID=
 
-[GeneratedDocument20]
+[GeneratedDocument19]
 DocumentPath=Project Outputs for IMU_REV_D\odb\steps\pcb\layers\mechanical15\features
 DItemRevisionGUID=
 
-[GeneratedDocument21]
+[GeneratedDocument20]
 DocumentPath=Project Outputs for IMU_REV_D\odb\steps\pcb\layers\mechanical16\features
 DItemRevisionGUID=
 
-[GeneratedDocument22]
+[GeneratedDocument21]
 DocumentPath=Project Outputs for IMU_REV_D\odb\steps\pcb\layers\mechanical20\features
 DItemRevisionGUID=
 
-[GeneratedDocument23]
+[GeneratedDocument22]
 DocumentPath=Project Outputs for IMU_REV_D\odb\steps\pcb\layers\mechanical27\features
 DItemRevisionGUID=
 
-[GeneratedDocument24]
+[GeneratedDocument23]
 DocumentPath=Project Outputs for IMU_REV_D\odb\steps\pcb\layers\mechanical34\features
 DItemRevisionGUID=
 
-[GeneratedDocument25]
+[GeneratedDocument24]
 DocumentPath=Project Outputs for IMU_REV_D\odb\steps\pcb\layers\mid1\features
 DItemRevisionGUID=
 
-[GeneratedDocument26]
+[GeneratedDocument25]
 DocumentPath=Project Outputs for IMU_REV_D\odb\steps\pcb\layers\mid2\features
 DItemRevisionGUID=
 
-[GeneratedDocument27]
+[GeneratedDocument26]
 DocumentPath=Project Outputs for IMU_REV_D\odb\steps\pcb\layers\top\features
 DItemRevisionGUID=
 
-[GeneratedDocument28]
+[GeneratedDocument27]
 DocumentPath=Project Outputs for IMU_REV_D\odb\steps\pcb\layers\topoverlay\features
 DItemRevisionGUID=
 
-[GeneratedDocument29]
+[GeneratedDocument28]
 DocumentPath=Project Outputs for IMU_REV_D\odb\steps\pcb\layers\toppaste\features
 DItemRevisionGUID=
 
-[GeneratedDocument30]
+[GeneratedDocument29]
 DocumentPath=Project Outputs for IMU_REV_D\odb\steps\pcb\layers\topsolder\features
 DItemRevisionGUID=
 
-[GeneratedDocument31]
+[GeneratedDocument30]
 DocumentPath=Project Outputs for IMU_REV_D\IMU_REV_D.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument32]
+[GeneratedDocument31]
 DocumentPath=Project Outputs for IMU_REV_D\IMU_REV_D.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument33]
+[GeneratedDocument32]
 DocumentPath=Project Outputs for IMU_REV_D\IMU_REV_D.G1
 DItemRevisionGUID=
 
-[GeneratedDocument34]
+[GeneratedDocument33]
 DocumentPath=Project Outputs for IMU_REV_D\IMU_REV_D.G2
 DItemRevisionGUID=
 
-[GeneratedDocument35]
+[GeneratedDocument34]
 DocumentPath=Project Outputs for IMU_REV_D\IMU_REV_D.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument36]
+[GeneratedDocument35]
 DocumentPath=Project Outputs for IMU_REV_D\IMU_REV_D.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument37]
+[GeneratedDocument36]
 DocumentPath=Project Outputs for IMU_REV_D\IMU_REV_D.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument38]
+[GeneratedDocument37]
 DocumentPath=Project Outputs for IMU_REV_D\IMU_REV_D.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument39]
+[GeneratedDocument38]
 DocumentPath=Project Outputs for IMU_REV_D\IMU_REV_D.GD1
 DItemRevisionGUID=
 
-[GeneratedDocument40]
+[GeneratedDocument39]
 DocumentPath=Project Outputs for IMU_REV_D\IMU_REV_D.GG1
 DItemRevisionGUID=
 
-[GeneratedDocument41]
+[GeneratedDocument40]
 DocumentPath=Project Outputs for IMU_REV_D\IMU_REV_D.GKO
 DItemRevisionGUID=
 
-[GeneratedDocument42]
+[GeneratedDocument41]
 DocumentPath=Project Outputs for IMU_REV_D\IMU_REV_D.GM1
 DItemRevisionGUID=
 
-[GeneratedDocument43]
+[GeneratedDocument42]
 DocumentPath=Project Outputs for IMU_REV_D\IMU_REV_D.GM16
 DItemRevisionGUID=
 
-[GeneratedDocument44]
+[GeneratedDocument43]
 DocumentPath=Project Outputs for IMU_REV_D\IMU_REV_D.GPB
 DItemRevisionGUID=
 
-[GeneratedDocument45]
+[GeneratedDocument44]
 DocumentPath=Project Outputs for IMU_REV_D\IMU_REV_D.GPT
 DItemRevisionGUID=
 
-[GeneratedDocument46]
+[GeneratedDocument45]
 DocumentPath=Project Outputs for IMU_REV_D\IMU_REV_D.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument47]
+[GeneratedDocument46]
 DocumentPath=Project Outputs for IMU_REV_D\IMU_REV_D.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument48]
+[GeneratedDocument47]
 DocumentPath=Project Outputs for IMU_REV_D\IMU_REV_D.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument49]
+[GeneratedDocument48]
 DocumentPath=Project Outputs for IMU_REV_D\IMU_REV_D.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument50]
+[GeneratedDocument49]
 DocumentPath=Project Outputs for IMU_REV_D\IMU_REV_D.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument51]
+[GeneratedDocument50]
 DocumentPath=Project Outputs for IMU_REV_D\IMU_REV_D.REP
 DItemRevisionGUID=
 
-[GeneratedDocument52]
+[GeneratedDocument51]
 DocumentPath=Project Outputs for IMU_REV_D\IMU_REV_D.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument53]
+[GeneratedDocument52]
 DocumentPath=Project Outputs for IMU_REV_D\IMU_REV_D.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument54]
+[GeneratedDocument53]
 DocumentPath=Project Outputs for IMU_REV_D\odb\matrix\matrix
 DItemRevisionGUID=
 
-[GeneratedDocument55]
+[GeneratedDocument54]
 DocumentPath=Project Outputs for IMU_REV_D\odb\steps\pcb\netlists\cadnet\netlist
 DItemRevisionGUID=
 
-[GeneratedDocument56]
+[GeneratedDocument55]
 DocumentPath=Project Outputs for IMU_REV_D\Pick Place for IMU_REV_D.txt
 DItemRevisionGUID=
 
-[GeneratedDocument57]
+[GeneratedDocument56]
 DocumentPath=Project Outputs for IMU_REV_D\odb\steps\pcb\profile
 DItemRevisionGUID=
 
-[GeneratedDocument58]
+[GeneratedDocument57]
 DocumentPath=Project Outputs for IMU_REV_D\odb\steps\pcb\stephdr
 DItemRevisionGUID=
 
-[GeneratedDocument59]
+[GeneratedDocument58]
 DocumentPath=Project Outputs for IMU_REV_D\odb\steps\pcb\layers\drill\tools
 DItemRevisionGUID=
 
@@ -483,7 +479,7 @@ SaveSettingsToOutJob=-1
 PrintQuality=-3
 
 [Generic_EDE]
-OutputDir=Project Outputs for IMU_REV_D
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
