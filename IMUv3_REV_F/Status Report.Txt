@@ -1,0 +1,10 @@
+Output: PCH Bill of Materials
+Type  : BOM
+From  : Variant [IMU_REV_F] of Project [IMU_REV_F.PrjPcb]
+   Generated File[PCH Bill of Materials-IMU_REV_F(IMU_REV_F).xls]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 12:14:17 PM On 12/08/2015

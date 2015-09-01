@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=VDD_5V Pin=JP1-1
+Removed Pin From Net: NetName=VDD_SONAR Pin=JP1-2
+Removed Pin From Net: NetName=VCC Pin=JP1-3
+Removed Member From Class: ClassName=PX4FLOW2.0_Power_X0 Member=JP1
+Change Class Name : Old Net Name=PX4FLOW2.0_CAM_X0 New Net Name=PX4FLOW2.1_CAM_X0
+Change Class Name : Old Net Name=PX4FLOW2.0_Power_X0 New Net Name=PX4FLOW2.1_Power_X0

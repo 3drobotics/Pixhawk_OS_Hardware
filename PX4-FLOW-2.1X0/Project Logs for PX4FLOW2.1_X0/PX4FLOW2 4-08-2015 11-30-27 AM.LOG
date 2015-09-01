@@ -1,0 +1,3 @@
+Change Component Description : Designator=C35 Old Description=CapacitorStandard 0603 ceramic capacitor, and 0.1" leaded capacitor. New Description=0402
+Added Pin To Net: NetName=VCC Pin=C35-1
+Added Pin To Net: NetName=GND Pin=C35-2

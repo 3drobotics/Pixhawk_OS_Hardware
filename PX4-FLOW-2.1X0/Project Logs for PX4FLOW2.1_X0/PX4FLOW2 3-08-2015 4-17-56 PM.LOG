@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=R\E\S\E\T\ Pin=S1-A1
+Removed Pin From Net: NetName=GND Pin=S1-B3
+Removed Member From Class: ClassName=PX4FLOW2.0_CPU_X0 Member=S1
+Change Class Name : Old Net Name=PX4FLOW2.0_CPU_X0 New Net Name=PX4FLOW2.1_CPU_X0
+Added Room: Name=PX4FLOW2.0_CAM_X0
+Added Room: Name=PX4FLOW2.0_Power_X0
+Added Room: Name=PX4FLOW2.0_Sensors_CAN_X0
+Added Room: Name=PX4FLOW2.1_Connectors_X0
+Added Room: Name=PX4FLOW2.1_CPU_X0

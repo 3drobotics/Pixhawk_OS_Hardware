@@ -1,0 +1,41 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: PX4FLOW2.1_X0.PcbDoc   29/08/2015  5:55:13 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top to Bottom
+ASCII RoundHoles File : PX4FLOW2.1_X0-RoundHoles.TXT
+ASCII SlotHoles File : PX4FLOW2.1_X0-SlotHoles.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.2mm (7.874mil)         Round          48               179.65 mm (7.07 Inch)
+T2        0.3048mm (12mil)         Round          2                35.42 mm (1.39 Inch)
+T3        0.7112mm (28mil)         Round          2                41.19 mm (1.62 Inch)
+T4        0.762mm (30mil)          Round          1                0.00 mm (0.00 Inch)
+T5        0.762mm (30mil)          Slot           6                184.37 mm (7.26 Inch)
+T6        0.9mm (35.433mil)        Round          27               98.11 mm (3.86 Inch)
+T7        2.0574mm (81mil)         Round          1                0.00 mm (0.00 Inch)
+T8        2.0574mm (81mil)         Round          1         NPTH   0.00 mm (0.00 Inch)
+---------------------------------------------------------------------------
+Totals                                            88               538.73 mm (21.21 Inch)
+Layer Pair : Top to Signal Layer 2
+ASCII RoundHoles File : PX4FLOW2.1_X0-RoundHoles.TX1
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.2mm (7.874mil)         Round          15               47.85 mm (1.88 Inch)
+---------------------------------------------------------------------------
+Totals                                            15               47.85 mm (1.88 Inch)
+Layer Pair : Route2 to Bottom
+ASCII RoundHoles File : PX4FLOW2.1_X0-RoundHoles.TX2
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.2mm (7.874mil)         Round          83               212.96 mm (8.38 Inch)
+T3        0.7112mm (28mil)         Round          5                17.39 mm (0.68 Inch)
+---------------------------------------------------------------------------
+Totals                                            88               230.35 mm (9.07 Inch)
+---------------------------------------------------------------------------
+Totals                                            191              816.93 mm (32.16 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:01

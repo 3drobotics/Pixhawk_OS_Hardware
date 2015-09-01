@@ -1,0 +1,116 @@
+*************************************************************
+FileName = IMU_REV_D_1.PcbDoc
+ODB++ directory structure
+*************************************************************
+Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D_1\Project Outputs for IMU_REV_D_1\odb\matrix\matrix
+
+Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D_1\Project Outputs for IMU_REV_D_1\odb\steps\pcb\profile
+
+Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D_1\Project Outputs for IMU_REV_D_1\odb\steps\pcb\stephdr
+
+Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D_1\Project Outputs for IMU_REV_D_1\odb\steps\pcb\attrlist
+
+Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D_1\Project Outputs for IMU_REV_D_1\odb\steps\pcb\layers\topoverlay\features
+
+Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D_1\Project Outputs for IMU_REV_D_1\odb\steps\pcb\layers\topoverlay\attrlist
+
+Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D_1\Project Outputs for IMU_REV_D_1\odb\steps\pcb\layers\toppaste\features
+
+Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D_1\Project Outputs for IMU_REV_D_1\odb\steps\pcb\layers\toppaste\attrlist
+
+Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D_1\Project Outputs for IMU_REV_D_1\odb\steps\pcb\layers\topsolder\features
+
+Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D_1\Project Outputs for IMU_REV_D_1\odb\steps\pcb\layers\topsolder\attrlist
+
+Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D_1\Project Outputs for IMU_REV_D_1\odb\steps\pcb\layers\top\features
+
+Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D_1\Project Outputs for IMU_REV_D_1\odb\steps\pcb\layers\top\attrlist
+
+Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D_1\Project Outputs for IMU_REV_D_1\odb\steps\pcb\layers\mid1\features
+
+Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D_1\Project Outputs for IMU_REV_D_1\odb\steps\pcb\layers\mid1\attrlist
+
+Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D_1\Project Outputs for IMU_REV_D_1\odb\steps\pcb\layers\mid2\features
+
+Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D_1\Project Outputs for IMU_REV_D_1\odb\steps\pcb\layers\mid2\attrlist
+
+Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D_1\Project Outputs for IMU_REV_D_1\odb\steps\pcb\layers\bottom\features
+
+Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D_1\Project Outputs for IMU_REV_D_1\odb\steps\pcb\layers\bottom\attrlist
+
+Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D_1\Project Outputs for IMU_REV_D_1\odb\steps\pcb\layers\bottomsolder\features
+
+Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D_1\Project Outputs for IMU_REV_D_1\odb\steps\pcb\layers\bottomsolder\attrlist
+
+Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D_1\Project Outputs for IMU_REV_D_1\odb\steps\pcb\layers\bottompaste\features
+
+Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D_1\Project Outputs for IMU_REV_D_1\odb\steps\pcb\layers\bottompaste\attrlist
+
+Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D_1\Project Outputs for IMU_REV_D_1\odb\steps\pcb\layers\bottomoverlay\features
+
+Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D_1\Project Outputs for IMU_REV_D_1\odb\steps\pcb\layers\bottomoverlay\attrlist
+
+Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D_1\Project Outputs for IMU_REV_D_1\odb\steps\pcb\layers\drill\features
+
+Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D_1\Project Outputs for IMU_REV_D_1\odb\steps\pcb\layers\drill\attrlist
+
+Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D_1\Project Outputs for IMU_REV_D_1\odb\steps\pcb\layers\drill\tools
+
+Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D_1\Project Outputs for IMU_REV_D_1\odb\steps\pcb\layers\keepout\features
+
+Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D_1\Project Outputs for IMU_REV_D_1\odb\steps\pcb\layers\keepout\attrlist
+
+Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D_1\Project Outputs for IMU_REV_D_1\odb\steps\pcb\layers\mechanical1\features
+
+Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D_1\Project Outputs for IMU_REV_D_1\odb\steps\pcb\layers\mechanical1\attrlist
+
+Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D_1\Project Outputs for IMU_REV_D_1\odb\steps\pcb\layers\mechanical2\features
+
+Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D_1\Project Outputs for IMU_REV_D_1\odb\steps\pcb\layers\mechanical2\attrlist
+
+Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D_1\Project Outputs for IMU_REV_D_1\odb\steps\pcb\layers\mechanical4\features
+
+Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D_1\Project Outputs for IMU_REV_D_1\odb\steps\pcb\layers\mechanical4\attrlist
+
+Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D_1\Project Outputs for IMU_REV_D_1\odb\steps\pcb\layers\mechanical6\features
+
+Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D_1\Project Outputs for IMU_REV_D_1\odb\steps\pcb\layers\mechanical6\attrlist
+
+Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D_1\Project Outputs for IMU_REV_D_1\odb\steps\pcb\layers\mechanical7\features
+
+Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D_1\Project Outputs for IMU_REV_D_1\odb\steps\pcb\layers\mechanical7\attrlist
+
+Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D_1\Project Outputs for IMU_REV_D_1\odb\steps\pcb\layers\mechanical13\features
+
+Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D_1\Project Outputs for IMU_REV_D_1\odb\steps\pcb\layers\mechanical13\attrlist
+
+Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D_1\Project Outputs for IMU_REV_D_1\odb\steps\pcb\layers\mechanical15\features
+
+Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D_1\Project Outputs for IMU_REV_D_1\odb\steps\pcb\layers\mechanical15\attrlist
+
+Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D_1\Project Outputs for IMU_REV_D_1\odb\steps\pcb\layers\mechanical16\features
+
+Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D_1\Project Outputs for IMU_REV_D_1\odb\steps\pcb\layers\mechanical16\attrlist
+
+Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D_1\Project Outputs for IMU_REV_D_1\odb\steps\pcb\layers\mechanical20\features
+
+Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D_1\Project Outputs for IMU_REV_D_1\odb\steps\pcb\layers\mechanical20\attrlist
+
+Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D_1\Project Outputs for IMU_REV_D_1\odb\steps\pcb\layers\mechanical27\features
+
+Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D_1\Project Outputs for IMU_REV_D_1\odb\steps\pcb\layers\mechanical27\attrlist
+
+Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D_1\Project Outputs for IMU_REV_D_1\odb\steps\pcb\layers\mechanical34\features
+
+Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D_1\Project Outputs for IMU_REV_D_1\odb\steps\pcb\layers\mechanical34\attrlist
+
+Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D_1\Project Outputs for IMU_REV_D_1\odb\steps\pcb\layers\comp_+_top\features
+
+Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D_1\Project Outputs for IMU_REV_D_1\odb\steps\pcb\layers\comp_+_top\components
+
+Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D_1\Project Outputs for IMU_REV_D_1\odb\steps\pcb\layers\comp_+_bot\features
+
+Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D_1\Project Outputs for IMU_REV_D_1\odb\steps\pcb\layers\comp_+_bot\components
+
+Generated File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\IMUv3_REV_D_1\Project Outputs for IMU_REV_D_1\odb\steps\pcb\eda\data
+

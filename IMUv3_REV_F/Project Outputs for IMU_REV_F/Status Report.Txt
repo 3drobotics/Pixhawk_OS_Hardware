@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [IMU_REV_F.PrjPcb]
+   Generated File[IMU_REV_F.TXT]
+   Generated File[IMU_REV_F.LDP]
+   Generated File[IMU_REV_F.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 12:12:23 PM On 12/08/2015

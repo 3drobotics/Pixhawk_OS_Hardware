@@ -1,0 +1,313 @@
+*************************************************************
+FileName = IMU_REV_F.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer
+      File : IMU_REV_F.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+*************************************************************
+
+*************************************************************
+Generating : Mid-Layer 1
+      File : IMU_REV_F.G1
+
+    Adding Layer      : Mid-Layer 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D21
+    D26
+    D27
+    D28
+*************************************************************
+
+*************************************************************
+Generating : Mid-Layer 2
+      File : IMU_REV_F.G2
+
+    Adding Layer      : Mid-Layer 2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D21
+    D24
+    D26
+    D27
+    D28
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : IMU_REV_F.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D23
+    D24
+    D25
+    D26
+    D28
+    D29
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : IMU_REV_F.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D24
+    D25
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : IMU_REV_F.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D24
+    D25
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : IMU_REV_F.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D23
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : IMU_REV_F.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D22
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : IMU_REV_F.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D22
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : IMU_REV_F.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D43
+    D45
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : IMU_REV_F.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : IMU_REV_F.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : IMU_REV_F.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D46
+    D47
+    D48
+    D49
+    D50
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : IMU_REV_F.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D46
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 16
+      File : IMU_REV_F.GM16
+
+    Adding Layer      : Mechanical 16
+
+
+Used DCodes :
+    D23
+    D33
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : IMU_REV_F.GD1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D53
+    D59
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : IMU_REV_F.GG1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D53
+*************************************************************
+

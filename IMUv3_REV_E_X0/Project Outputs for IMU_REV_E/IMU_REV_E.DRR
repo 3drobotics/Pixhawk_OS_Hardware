@@ -1,0 +1,17 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: IMU_REV_E.PcbDoc   6/08/2015  3:36:43 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : IMU_REV_E.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.2mm (7.874mil)         Round          184              486.65 mm (19.16 Inch)
+T2        0.3mm (11.811mil)        Round          1                0.00 mm (0.00 Inch)
+T3        1mm (39.37mil)           Round          4                51.04 mm (2.01 Inch)
+T4        2.65mm (104.331mil)      Round          4                90.00 mm (3.54 Inch)
+---------------------------------------------------------------------------
+Totals                                            193              627.69 mm (24.71 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=ADC123_IN10 Pin=J4-AN
+Removed Pin From Net: NetName=GND Pin=J4-GND
+Removed Pin From Net: NetName=PWM Pin=J4-PW
+Removed Pin From Net: NetName=US_EN1 Pin=J4-RX
+Removed Pin From Net: NetName=VDD_5V_IN Pin=L1-1
+Removed Pin From Net: NetName=VDD_5V_IN Pin=L3-1
+Removed Pin From Net: NetName=PRES_DRDY--- Pin=P5-1
+Removed Pin From Net: NetName=MAG_DRDY--- Pin=P5-2
+Removed Pin From Net: NetName=USART3_CK Pin=P5-3
+Removed Pin From Net: NetName=SPI1_MOSI--- Pin=P5-4
+Removed Pin From Net: NetName=ADC12_IN4 Pin=P5-5
+Removed Pin From Net: NetName=ADC12_IN5 Pin=P5-6
+Removed Pin From Net: NetName=TIM5_CH1 Pin=P5-7
+Removed Pin From Net: NetName=US_EN2 Pin=P5-8
+Removed Pin From Net: NetName=ADC123_IN11 Pin=P5-9
+Removed Pin From Net: NetName=ADC123_IN12 Pin=P5-10
+Removed Pin From Net: NetName=VDD_5V Pin=R10-1
+Removed Pin From Net: NetName=UART4_RX Pin=R10-2
+Removed Pin From Net: NetName=UART4_RX Pin=R11-2
+Removed Member From Class: ClassName=PX4FLOW2.1_Connectors_X0 Member=J4
+Removed Member From Class: ClassName=PX4FLOW2.1_Connectors_X0 Member=L1
+Removed Member From Class: ClassName=PX4FLOW2.1_Connectors_X0 Member=L3
+Removed Member From Class: ClassName=PX4FLOW2.1_Connectors_X0 Member=P5
+Removed Member From Class: ClassName=PX4FLOW2.1_Connectors_X0 Member=R10
+Removed Member From Class: ClassName=PX4FLOW2.1_Connectors_X0 Member=R11
+Added Room: Name=PX4FLOW2.1_CAM_X0
+Added Room: Name=PX4FLOW2.1_Connectors_X0
+Added Room: Name=PX4FLOW2.1_CPU_X0
+Added Room: Name=PX4FLOW2.1_Power_X0
+Added Room: Name=PX4FLOW2.1_Sensors_CAN_X0

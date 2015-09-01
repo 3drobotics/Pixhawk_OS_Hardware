@@ -260,7 +260,7 @@ GenerateClassCluster=0
 DocumentUniqueId=PMFDHQHY
 
 [Document14]
-DocumentPath=FMU.OutJob
+DocumentPath=..\..\Pixhawk_OS_Hardware_staging\FMU4_REV_0\FMU.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0

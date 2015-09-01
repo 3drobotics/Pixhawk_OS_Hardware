@@ -1,0 +1,15 @@
+Added Pin To Net: NetName=+3V3 Pin=U3_A-1
+Added Pin To Net: NetName=+3V3 Pin=U3_A-8
+Added Pin To Net: NetName=IMU_MISO Pin=U3_A-9
+Added Pin To Net: NetName=GND Pin=U3_A-11
+Added Pin To Net: NetName=+3V3 Pin=U3_A-13
+Added Pin To Net: NetName=GND Pin=U3_A-18
+Added Pin To Net: NetName=GND Pin=U3_A-20
+Added Pin To Net: NetName=M\P\U\_\C\S\ Pin=U3_A-22
+Added Pin To Net: NetName=IMU_SCK Pin=U3_A-23
+Added Pin To Net: NetName=IMU_MOSI Pin=U3_A-24
+Added Pin To Net: NetName=REGOUT Pin=C8-P$1
+Added Pin To Net: NetName=REGOUT Pin=U3-10
+Added Pin To Net: NetName=REGOUT Pin=U3_A-10
+Added Net: Name=REGOUT
+Added Class: Name=IMU_9K_REV_E
