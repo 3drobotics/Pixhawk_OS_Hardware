@@ -90,23 +90,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document4]
-DocumentPath=IMU_9K_REV_E.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=BYVNWALT
-
-[Document5]
 DocumentPath=..\..\Altium\3DR_Lib\3DR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -123,7 +106,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BIEOOAWB
 
-[Document6]
+[Document5]
 DocumentPath=..\..\Altium\3DR_Lib\3DR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -140,7 +123,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AGAPVSPH
 
-[Document7]
+[Document6]
 DocumentPath=CAMtastic1.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -157,7 +140,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document8]
+[Document7]
 DocumentPath=CAMtastic2.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -174,7 +157,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document9]
+[Document8]
 DocumentPath=CAMtastic3.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -191,7 +174,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document10]
+[Document9]
 DocumentPath=..\..\Altium\3DR_Lib\Lidar_v2.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
