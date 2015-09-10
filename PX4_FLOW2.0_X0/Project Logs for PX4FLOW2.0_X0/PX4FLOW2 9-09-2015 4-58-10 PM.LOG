@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=VBUS Pin=P4-1
+Removed Pin From Net: NetName=OTG_N Pin=P4-2
+Removed Pin From Net: NetName=OTG_P Pin=P4-3
+Removed Pin From Net: NetName=OTG_ID Pin=P4-4
+Removed Pin From Net: NetName=GND Pin=P4-5
+Removed Member From Class: ClassName=PX4FLOW2.0_Connectors_X0 Member=P4

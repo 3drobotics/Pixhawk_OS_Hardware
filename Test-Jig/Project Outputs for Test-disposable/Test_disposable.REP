@@ -1,0 +1,271 @@
+*************************************************************
+FileName = Test_disposable.GBR
+AutoAperture = True
+*************************************************************
+Generating : Component Side
+      File : Test_disposable.GTL
+
+    Adding Layer      : Component Side
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : Test_disposable.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+    D13
+    D14
+    D15
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : Test_disposable.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+    D13
+    D15
+    D17
+    D18
+    D19
+    D20
+    D21
+    D23
+    D24
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : Test_disposable.GPT
+
+    Adding Layer      : Component Side
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+    D13
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Test_disposable.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D14
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : Test_disposable.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Component Side
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D31
+    D32
+    D33
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : Test_disposable.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Component Side
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+*************************************************************
+
+*************************************************************
+Generating : Solder Side
+      File : Test_disposable.GBS
+
+    Adding Layer      : Solder Side
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D31
+    D32
+    D33
+    D34
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : Test_disposable.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D31
+    D32
+    D33
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Test_disposable.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D14
+    D25
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : Test_disposable.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D44
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : Test_disposable.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D14
+*************************************************************
+
+*************************************************************
+Generating : tCAD
+      File : Test_disposable.GM34
+
+    Adding Layer      : tCAD
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : Test_disposable.GD1
+
+    Adding Drill Pair : Component Side-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D45
+    D46
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : Test_disposable.GG1
+
+    Adding Drill Pair : Component Side-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D45
+*************************************************************
+

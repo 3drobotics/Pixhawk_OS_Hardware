@@ -175,7 +175,7 @@ GenerateClassCluster=0
 DocumentUniqueId=XYONEBTT
 
 [Document9]
-DocumentPath=PX4FLOW2.1.OutJob
+DocumentPath=..\PX4_FLOW2.0_X0\PX4FLOW2.0.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -243,7 +243,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document13]
-DocumentPath=CAMtastic1.Cam
+DocumentPath=..\..\Altium\3DR_Lib\Lidar_v2.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -260,7 +260,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document14]
-DocumentPath=CAMtastic2.Cam
+DocumentPath=CAMtastic3.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -277,7 +277,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document15]
-DocumentPath=..\..\Altium\3DR_Lib\Lidar_v2.PcbLib
+DocumentPath=CAMtastic4.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -297,7 +297,7 @@ DocumentUniqueId=
 Description=PX4FLOW2.1_X0
 AllowFabrication=0
 ParameterCount=0
-VariationCount=15
+VariationCount=18
 Variation1=Designator=!RESET|UniqueId=\BPBLFGTX|Kind=1|AlternatePart= 
 Variation2=Designator=J2|UniqueId=\WGKOVHVH|Kind=1|AlternatePart= 
 Variation3=Designator=P2|UniqueId=\YFPEGMFO|Kind=1|AlternatePart= 
@@ -313,10 +313,13 @@ Variation12=Designator=U$8|UniqueId=\RDUIJWCJ|Kind=1|AlternatePart=
 Variation13=Designator=BOOT0|UniqueId=\QOIKHAII|Kind=1|AlternatePart= 
 Variation14=Designator=BOOT1|UniqueId=\ABVJPQUM|Kind=1|AlternatePart= 
 Variation15=Designator=3DR Logo|UniqueId=\YMABIKVE|Kind=1|AlternatePart= 
+Variation16=Designator=P7|UniqueId=\BMPSCCWC|Kind=1|AlternatePart= 
+Variation17=Designator=P5|UniqueId=\BBQEXGFL|Kind=1|AlternatePart= 
+Variation18=Designator=P1|UniqueId=\KPQJSIYV|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for PX4FLOW2.1_X0\Pick Place for PX4FLOW2.1_X0(PX4FLOW2.0_X0).txt
+DocumentPath=Project Outputs for PX4FLOW2.1_X0\Design Rule Check - PX4FLOW2.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
@@ -707,11 +710,12 @@ Name=Assembly Outputs
 Description=
 TargetPrinter=Brother MFC-J6510DW Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=Test Points For Assembly
-OutputName1=Test Point Report
+OutputType1=Assembly
+OutputName1=Assembly Drawings
 OutputDocumentPath1=
 OutputVariantName1=[No Variations]
 OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 OutputType2=Pick Place
 OutputName2=Generates pick and place files
 OutputDocumentPath2=
@@ -719,81 +723,80 @@ OutputVariantName2=[No Variations]
 OutputDefault2=0
 Configuration2_Name1=OutputConfigurationParameter1
 Configuration2_Item1=Record=PickPlaceView|Units=Metric|GenerateCSVFormat=False|GenerateTextFormat=True
-OutputType3=Assembly
-OutputName3=Assembly Drawings
+OutputType3=Test Points For Assembly
+OutputName3=Test Point Report
 OutputDocumentPath3=
 OutputVariantName3=[No Variations]
 OutputDefault3=0
-PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
 TargetPrinter=Brother MFC-J6510DW Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=CompositeDrill
-OutputName1=Composite Drill Drawing
+OutputType1=NC Drill
+OutputName1=NC Drill Files
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
-PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType2=Drill
-OutputName2=Drill Drawing/Guides
+Configuration1_Name1=OutputConfigurationParameter1
+Configuration1_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=4|NumberOfUnits=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Metric|ZeroesMode=SuppressTrailingZeroes
+OutputType2=Mask
+OutputName2=Solder/Paste Mask Prints
 OutputDocumentPath2=
 OutputVariantName2=
 OutputDefault2=0
 PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType3=Board Stack Report
-OutputName3=Report Board Stack
+OutputType3=IPC2581
+OutputName3=IPC-2581 Files
 OutputDocumentPath3=
 OutputVariantName3=
 OutputDefault3=0
-PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType4=Final
-OutputName4=Final Artwork Prints
+OutputType4=Test Points
+OutputName4=Test Point Report
 OutputDocumentPath4=
-OutputVariantName4=[No Variations]
+OutputVariantName4=
 OutputDefault4=0
-PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType5=Gerber X2
-OutputName5=Gerber X2 Files
+OutputType5=Plane
+OutputName5=Power-Plane Prints
 OutputDocumentPath5=
 OutputVariantName5=
 OutputDefault5=0
+PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 OutputType6=ODB
 OutputName6=ODB++ Files
 OutputDocumentPath6=
 OutputVariantName6=[No Variations]
 OutputDefault6=0
-OutputType7=Mask
-OutputName7=Solder/Paste Mask Prints
+OutputType7=Drill
+OutputName7=Drill Drawing/Guides
 OutputDocumentPath7=
 OutputVariantName7=
 OutputDefault7=0
 PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType8=NC Drill
-OutputName8=NC Drill Files
+OutputType8=CompositeDrill
+OutputName8=Composite Drill Drawing
 OutputDocumentPath8=
 OutputVariantName8=
 OutputDefault8=0
-Configuration8_Name1=OutputConfigurationParameter1
-Configuration8_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=4|NumberOfUnits=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Metric|ZeroesMode=SuppressTrailingZeroes
-OutputType9=IPC2581
-OutputName9=IPC-2581 Files
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType9=Board Stack Report
+OutputName9=Report Board Stack
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
-OutputType10=Plane
-OutputName10=Power-Plane Prints
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType10=Gerber X2
+OutputName10=Gerber X2 Files
 OutputDocumentPath10=
 OutputVariantName10=
 OutputDefault10=0
-PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType11=Test Points
-OutputName11=Test Point Report
+OutputType11=Final
+OutputName11=Final Artwork Prints
 OutputDocumentPath11=
-OutputVariantName11=
+OutputVariantName11=[No Variations]
 OutputDefault11=0
+PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 OutputType12=Gerber
 OutputName12=Gerber Files
 OutputDocumentPath12=

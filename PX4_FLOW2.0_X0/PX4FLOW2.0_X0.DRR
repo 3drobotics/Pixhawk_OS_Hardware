@@ -1,0 +1,22 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: PX4FLOW2.0_X0.PcbDoc   9/09/2015  5:11:35 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top to Bottom
+ASCII RoundHoles File : PX4FLOW2.0_X0-RoundHoles.TXT
+ASCII SlotHoles File : PX4FLOW2.0_X0-SlotHoles.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        7.87mil (0.1999mm)       Round          304              24.72 Inch (627.90 mm)
+T2        12mil (0.3048mm)         Round          2                0.93 Inch (23.50 mm)
+T3        32mil (0.8128mm)         Round          7                0.60 Inch (15.24 mm)
+T4        35.43mil (0.89992mm)     Round          26               4.67 Inch (118.67 mm)
+T5        81mil (2.0574mm)         Round          1                0.00 Inch (0.00 mm)
+T6        100mil (2.54mm)          Slot           3                5.26 Inch (133.64 mm)
+T7        123mil (3.1242mm)        Round          4                2.43 Inch (61.62 mm)
+T8        81mil (2.0574mm)         Round          1         NPTH   0.00 Inch (0.00 mm)
+---------------------------------------------------------------------------
+Totals                                            348              38.61 Inch (980.58 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

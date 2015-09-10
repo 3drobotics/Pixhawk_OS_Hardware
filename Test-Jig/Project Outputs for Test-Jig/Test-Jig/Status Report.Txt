@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 3:23:29 PM On 28/05/2015
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [Pixhawk_Jig] of Project [Test-Jig.PrjPcb]
+   Generated File[Bill of Materials-Test-Jig(Pixhawk_Jig).xls]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 3:24:13 PM On 28/05/2015

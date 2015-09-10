@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=POWER Pin=LIDAR-4
+Removed Pin From Net: NetName=PWM Pin=LIDAR-5
+Added Pin To Net: NetName=PWM Pin=LIDAR-4
+Added Pin To Net: NetName=POWER Pin=LIDAR-5

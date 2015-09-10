@@ -1,0 +1,13 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+M3_MOUNT91 MOUNT-HOLE1.8        105.08mm    101.7018mm      105.08mm    101.7018mm      105.08mm    101.7018mm  T         90.00 MOUNT-HOLE1.8MM
+M3_MOUNT91 MOUNT-HOLE1.8       75.0826mm    131.6992mm     75.0826mm    131.6992mm     75.0826mm    131.6992mm  T         90.00 MOUNT-HOLE1.8MM
+M3_MOUNT91 MOUNT-HOLE1.8       75.0826mm    101.7018mm     75.0826mm    101.7018mm     75.0826mm    101.7018mm  T         90.00 MOUNT-HOLE1.8MM
+M3_MOUNT91 MOUNT-HOLE1.8        105.08mm    131.6992mm      105.08mm    131.6992mm      105.08mm    131.6992mm  T         90.00 MOUNT-HOLE1.8MM
+JP400      FIDUCIAL-1.5X3     156.9974mm     91.9988mm    156.9974mm     91.9988mm    156.9974mm     91.9988mm  B        180.00 FIDUCIAL1.5X3  
+JP401      FIDUCIAL-1.5X3      71.9074mm     89.5604mm     71.9074mm     89.5604mm     71.9074mm     89.5604mm  B         90.00 FIDUCIAL1.5X3  
+P500       CON-DF17-80M        89.8725mm    114.1817mm     89.8654mm    114.1732mm      99.619mm    116.8402mm  T          0.00 CON-DF17-80M   
+U$9001     CON-DF17-80F        89.8819mm    114.1813mm      89.889mm    114.1732mm      99.639mm    116.7894mm  B        180.00 CON-DF17-80F   
+3DR Logo 2 3DR_AU                    0mm           0mm    117.8306mm    154.6606mm           0mm           0mm  T        360.00 DO NOT PLACE   
+3DR Logo   3DR_Small                 0mm           0mm    113.5126mm     85.1408mm           0mm           0mm  T        360.00 DO NOT PLACE   
+

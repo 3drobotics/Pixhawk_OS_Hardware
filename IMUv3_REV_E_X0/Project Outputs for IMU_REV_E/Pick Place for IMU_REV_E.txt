@@ -1,0 +1,34 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+Designator 3DR_SMALL                 0mm           0mm    116.3828mm     51.6636mm           0mm           0mm  B        180.00 Comment        
+Designator 3DR_SMALL                 0mm           0mm    115.6716mm     51.6636mm           0mm           0mm  T          0.00 Comment        
+Nut 4      PEM-SMTSO-M1.6-2-ET         132mm          50mm         132mm          50mm         132mm          50mm  T         90.00 PEM-SMTSO-M1.6-2-ET
+Nut 3      PEM-SMTSO-M1.6-2-ET         132mm          80mm         132mm          80mm         132mm          80mm  T         90.00 PEM-SMTSO-M1.6-2-ET
+Nut 2      PEM-SMTSO-M1.6-2-ET         102mm          50mm         102mm          50mm         102mm          50mm  T         90.00 PEM-SMTSO-M1.6-2-ET
+Nut 1      PEM-SMTSO-M1.6-2-ET         102mm          80mm         102mm          80mm         102mm          80mm  T         90.00 PEM-SMTSO-M1.6-2-ET
+P1         DF40C-20-DP        132.0038mm       70.54mm         132mm       70.54mm    133.4438mm       68.74mm  T        180.00 DF40C-20DP     
+C12        0402-CAP             68.733mm       57.94mm      68.733mm       57.94mm      69.133mm       57.94mm  T          0.00 0u1            
+C10        0402-CAP             60.197mm      61.539mm      60.197mm      61.539mm      60.197mm      61.139mm  T        270.00 0u1            
+C9         0603-CAP             65.761mm      61.883mm      65.761mm      61.883mm      65.761mm      62.583mm  T         90.00 2u2            
+C8         0603-CAP              64.09mm       59.16mm       64.09mm       59.16mm       64.79mm       59.16mm  T          0.00 2u2            
+C7         0402-CAP            68.5038mm     67.7164mm     68.5038mm     67.7164mm     68.5038mm     67.3164mm  T        270.00 0u47           
+C6         0805-CAP               69.5mm          71mm        69.5mm          71mm        70.3mm          71mm  T        180.00 10u            
+C5         0402-CAP               74.5mm        68.5mm        74.5mm        68.5mm        74.5mm        68.1mm  T        270.00 0u1            
+C4         0805-CAP                 73mm          71mm          73mm          71mm        73.8mm          71mm  T        180.00 10u            
+C3         0402-CAP              66.04mm     71.1708mm       66.04mm     71.1708mm       66.44mm     71.1708mm  T        360.00 0u01           
+C2         0402-CAP            60.3504mm      69.742mm     60.3504mm      69.742mm     60.3504mm      70.142mm  T         90.00 0u1            
+C1         0805-CAP            62.6364mm     71.5264mm     62.6364mm     71.5264mm     63.4364mm     71.5264mm  T        180.00 10u            
+U4         MS5611-01BA         69.7617mm     60.8508mm      69.764mm      60.842mm     67.8844mm      59.742mm  T         90.00 MS5611-01BA    
+U2         LSM303D             71.5008mm     67.5008mm        71.5mm        67.5mm       70.13mm      68.516mm  T          0.00 LSM303D        
+C13        0805-CAP             127.46mm     55.6006mm      127.46mm     55.6006mm      128.26mm     55.6006mm  T        180.00 10u            
+C14        0402-CAP                129mm          57mm         129mm          57mm         129mm        57.4mm  T         90.00 0u1            
+U1         L3GD20               63.754mm      68.199mm      63.754mm      68.199mm      62.054mm      69.174mm  T          0.00 L3GD20         
+Q5001      SOT23-BEC           67.7848mm     64.8974mm      67.776mm      64.905mm     68.8936mm      64.905mm  T        270.00 MMBT3906*SMD   
+R1         R0603               74.6872mm     72.0878mm      74.692mm      72.083mm      75.293mm      71.482mm  T        135.00 Resistor       
+R2         R0603               60.3522mm     72.1502mm      60.357mm      72.155mm      60.958mm      72.756mm  T        225.00 Resistor       
+R3         R0603               60.5048mm     58.0542mm        60.5mm      58.059mm      59.899mm       58.66mm  T        315.00 Resistor       
+R4         R0603               74.4632mm     57.9112mm      74.468mm      57.916mm      75.069mm      58.517mm  T        225.00 Resistor       
+R5002      0402-RES             64.832mm      64.672mm      64.832mm      64.676mm      64.832mm      65.176mm  T        270.00 1K8            
+U3_A       MPU-9250             62.989mm      61.995mm      62.989mm      61.995mm      61.589mm      63.011mm  T          0.00 MPU-9250       
+R5         R0603               72.3622mm      63.679mm      72.369mm      63.679mm      73.219mm      63.679mm  T        180.00 Resistor       
+

@@ -1,0 +1,12 @@
+DRC Rules Export File for PCB: F:\Current_Work\00_0_git\px4_hardware\future_designs\Next_Release_Consult_Phil_before_Changing\Test-Jig\Test_disposable.PcbDoc
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Polygon clearance|Scope=Board|Minimum=11.81
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=5.91
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=1.00
+RuleKind=Clearance|RuleName=mdWireWire|Scope=Board|Minimum=5.00
+RuleKind=Clearance|RuleName=mdWirePad|Scope=Board|Minimum=5.00
+RuleKind=Clearance|RuleName=mdWireVia|Scope=Board|Minimum=5.00
+RuleKind=Clearance|RuleName=mdPadPad|Scope=Board|Minimum=5.00
+RuleKind=Clearance|RuleName=mdPadVia|Scope=Board|Minimum=5.00
+RuleKind=Clearance|RuleName=mdViaVia|Scope=Board|Minimum=5.00
+RuleKind=Clearance|RuleName=Clearance_1|Scope=Board|Minimum=5.00

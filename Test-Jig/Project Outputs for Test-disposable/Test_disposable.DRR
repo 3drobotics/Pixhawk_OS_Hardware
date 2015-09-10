@@ -1,0 +1,22 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: Test_disposable.PcbDoc   28/05/2015  3:27:16 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Component Side to Bottom Layer
+ASCII RoundHoles File : Test_disposable.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.66mm (25.984mil)       Round          2                22.02 mm (0.87 Inch)
+T2        0.7mm (27.559mil)        Round          80               120.59 mm (4.75 Inch)
+T3        1.8mm (70.866mil)        Round          4                89.99 mm (3.54 Inch)
+T4        4mm (157.48mil)          Round          4                197.77 mm (7.79 Inch)
+T5        5mm (196.85mil)          Round          1                0.00 mm (0.00 Inch)
+T6        8.6mm (338.583mil)       Round          2                9.48 mm (0.37 Inch)
+T7        9.64mm (379.528mil)      Round          1                0.00 mm (0.00 Inch)
+T8        20mm (787.402mil)        Round          2                38.00 mm (1.50 Inch)
+T9        0.66mm (25.984mil)       Round          2         NPTH   22.02 mm (0.87 Inch)
+---------------------------------------------------------------------------
+Totals                                            98               499.86 mm (19.68 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 3:25:21 PM On 28/05/2015
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [Variant of Test-disposable] of Project [Test-disposable.PrjPcb]
+   Generated File[Bill of Materials-Test-disposable(Variant of Test-disposable).xls]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 3:25:34 PM On 28/05/2015

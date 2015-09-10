@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\PX4_FLOW2.0_X0\PX4FLOW2.0_X0.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=px4flow2.0_x0-roundholes.txt|DrillLayers=gtl,g3,g4,g2,g15,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=px4flow2.0_x0-slotholes.txt|DrillLayers=gtl,g3,g4,g2,g15,gbl

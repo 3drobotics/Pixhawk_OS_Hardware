@@ -1,0 +1,23 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: Test_Jig.PcbDoc   28/05/2015  3:22:38 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Test_Jig.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.2mm (7.874mil)         Round          212              987.48 mm (38.88 Inch)
+T2        0.3mm (11.811mil)        Round          6                164.04 mm (6.46 Inch)
+T3        0.66mm (25.984mil)       Round          4                72.29 mm (2.85 Inch)
+T4        0.71mm (27.953mil)       Round          2                65.55 mm (2.58 Inch)
+T5        1.02mm (40.157mil)       Round          18               83.19 mm (3.28 Inch)
+T6        1.2mm (47.244mil)        Round          2                10.46 mm (0.41 Inch)
+T7        1.3mm (51.181mil)        Round          4                20.32 mm (0.80 Inch)
+T8        1.6mm (62.992mil)        Round          2                22.50 mm (0.89 Inch)
+T9        1.8mm (70.866mil)        Round          8                190.53 mm (7.50 Inch)
+T10       4mm (157.48mil)          Round          6                261.16 mm (10.28 Inch)
+---------------------------------------------------------------------------
+Totals                                            264              1877.53 mm (73.92 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

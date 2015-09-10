@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=NetR14_1 Pin=U3-C1
+Removed Pin From Net: NetName=NetR17_1 Pin=U3-C3
+Added Component: Designator=C35(0402-CAP)
+Added Pin To Net: NetName=NetR17_1 Pin=U3-C1
+Added Pin To Net: NetName=NetR14_1 Pin=U3-C3
+Added Member To Class: ClassName=PX4FLOW2.0_Power_X0 Member=Component C35 0u1
+Added Room: Name=PX4FLOW2.0_CAM_X0
+Added Room: Name=PX4FLOW2.0_Connectors_X0
+Added Room: Name=PX4FLOW2.0_CPU_X0
+Added Room: Name=PX4FLOW2.0_Power_X0
+Added Room: Name=PX4FLOW2.0_Sensors_CAN_X0

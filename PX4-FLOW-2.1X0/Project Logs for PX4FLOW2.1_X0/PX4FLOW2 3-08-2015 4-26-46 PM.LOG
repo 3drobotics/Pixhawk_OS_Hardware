@@ -1,7 +1,0 @@
-Removed Pin From Net: NetName=GND Pin=U$1-1
-Removed Pin From Net: NetName=GND Pin=U$3-1
-Removed Pin From Net: NetName=GND Pin=U$4-1
-Removed Member From Class: ClassName=PX4FLOW2.0_Sensors_CAN_X0 Member=U$1
-Removed Member From Class: ClassName=PX4FLOW2.0_Sensors_CAN_X0 Member=U$3
-Removed Member From Class: ClassName=PX4FLOW2.0_Sensors_CAN_X0 Member=U$4
-Change Class Name : Old Net Name=PX4FLOW2.0_Sensors_CAN_X0 New Net Name=PX4FLOW2.1_Sensors_CAN_X0
