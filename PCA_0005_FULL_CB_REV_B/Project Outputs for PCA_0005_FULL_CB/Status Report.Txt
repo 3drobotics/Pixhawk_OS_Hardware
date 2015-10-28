@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 3:04:27 PM On 28/10/2015
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [PCA_0012_INTEL_CB] of Project [PCA_0005_FULL_CB_REV_B.PrjPcb]
+   Generated File[Bill of Materials-PCA_0005_FULL_CB_REV_B(PCA_0012_INTEL_CB).xls]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 3:05:08 PM On 28/10/2015

@@ -1,0 +1,30 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+LOGO 3DR   3DR_SMALL                 0mm           0mm       62.23mm      39.243mm           0mm           0mm  T        360.00 DO NOT FIT     
+JP2        SJ_3_PASTE1&2         62.23mm      31.877mm       62.23mm      31.877mm      61.341mm      31.877mm  T          0.00 JUMPER-31-2    
+JP1        SJ_3_PASTE1&2        68.199mm      32.004mm      68.199mm      32.004mm       67.31mm      32.004mm  T          0.00 JUMPER-31-2    
+PSM ?      PSM                 64.2155mm      45.089mm      63.881mm      45.339mm      54.131mm      40.639mm  B        270.00 Power Selection module
+11         CLICKMATE_H6        55.3695mm      60.375mm      55.372mm       64.25mm     52.2224mm        58.8mm  B        180.00 CLICKMATE_1.25_6
+9          CLICKMATE_H6_2MM     48.3319mm     48.7612mm     43.7569mm      48.768mm     50.6569mm     43.7642mm  B        270.00 CLICKMATE_2_6  
+7          CLICKMATE_H8         77.925mm     40.0175mm        81.8mm      40.005mm       76.35mm     44.3992mm  B         90.00 CLICKMATE_1.25_8
+5          CLICKMATE_H6        68.5775mm      60.375mm       68.58mm       64.25mm     65.4304mm        58.8mm  B        180.00 CLICKMATE_1.25_6
+3          CLICKMATE_H4         77.925mm     52.5832mm        81.8mm      52.578mm       76.35mm     54.4576mm  B         90.00 CLICKMATE_1.25_4
+2          CLICKMATE_H4         45.875mm     36.4898mm          42mm      36.495mm       47.45mm     34.6154mm  B        270.00 CLICKMATE_1.25_4
+L3         KYOCERA-KNH16-DA     73.7934mm     57.4008mm      73.787mm      57.404mm      72.987mm      57.404mm  B        360.00 Kyocera KNH16C104DA5TS EMI filter
+D3         0402-TVS             74.803mm      55.757mm      74.803mm      55.753mm      74.803mm      56.261mm  B         90.00 DIODE-TVS      
+L1         KYOCERA-KNH16-DA     51.0508mm     37.8396mm      51.054mm      37.846mm     50.6476mm      37.846mm  B        270.00 Kyocera KNH16C104DA5TS EMI filter
+D2         0402-TVS             52.324mm      37.977mm      52.324mm      37.973mm      52.324mm      38.481mm  B         90.00 DIODE-TVS      
+U$1        CON-DF17-80M        62.1213mm     46.9053mm     62.1284mm     46.9138mm     52.3748mm     44.2468mm  T        180.00 CON-DF17-80M   
+D702       0402-TVS             50.415mm      32.639mm      50.419mm      32.639mm      49.911mm      32.639mm  B        180.00 DIODE-TVS      
+D701       MICROSMP            54.5692mm      32.639mm      54.864mm      32.639mm     55.5244mm      32.639mm  B        360.00 Schottky barrier diode in DO214AC, e.g. Fairchild SS14.
+D103       0402-TVS             79.125mm      47.625mm      79.121mm      47.625mm      79.629mm      47.625mm  B        360.00 DIODE-TVS      
+D101       0402-TVS             61.849mm      60.964mm      61.849mm       60.96mm      61.849mm      61.468mm  B         90.00 DIODE-TVS      
+L701       KYOCERA-KNH16-DA     52.5622mm     34.9314mm      52.559mm      34.925mm      52.559mm      34.125mm  B         90.00 Kyocera KNH16C104DA5TS EMI filter
+L103       KYOCERA-KNH16-DA     76.8414mm     47.6218mm      76.835mm      47.625mm      76.835mm     47.2186mm  B        360.00 Kyocera KNH16C104DA5TS EMI filter
+L101       KYOCERA-KNH16-DA     61.8522mm     58.6804mm      61.849mm      58.674mm      61.849mm      57.874mm  B         90.00 Kyocera KNH16C104DA5TS EMI filter
+M3_MOUNT90 MOUNT-HOLE1.8       76.9112mm     59.3852mm     76.9112mm     59.3852mm     76.9112mm     59.3852mm  T          0.00 MOUNT-HOLE1.8MM
+M3_MOUNT90 MOUNT-HOLE1.8       46.9138mm     59.3852mm     46.9138mm     59.3852mm     46.9138mm     59.3852mm  T          0.00 MOUNT-HOLE1.8MM
+M3_MOUNT90 MOUNT-HOLE1.8       76.9112mm     29.3878mm     76.9112mm     29.3878mm     76.9112mm     29.3878mm  T          0.00 MOUNT-HOLE1.8MM
+M3_MOUNT90 MOUNT-HOLE1.8       46.9138mm     29.3878mm     46.9138mm     29.3878mm     46.9138mm     29.3878mm  T          0.00 MOUNT-HOLE1.8MM
+1          CLICKMATE_H15       61.9265mm      28.375mm      61.914mm        24.5mm     70.6832mm       29.95mm  B        360.00 CLICKMATE_1.25_15
+

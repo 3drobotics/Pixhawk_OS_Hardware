@@ -1,0 +1,21 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: PCA_0005_FULL_CB_REV_B.PcbDoc   28/10/2015  2:59:34 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : PCA_0005_FULL_CB_REV_B.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.2mm (7.874mil)         Round          256              671.07 mm (26.42 Inch)
+T2        0.3mm (11.811mil)        Round          9                82.54 mm (3.25 Inch)
+T3        0.61mm (24.016mil)       Round          3                3.02 mm (0.12 Inch)
+T4        0.71mm (27.953mil)       Round          14               175.90 mm (6.93 Inch)
+T5        1.02mm (40.157mil)       Round          51               133.20 mm (5.24 Inch)
+T6        1.8mm (70.866mil)        Round          4                89.99 mm (3.54 Inch)
+T7        2.5mm (98.425mil)        Round          6                149.55 mm (5.89 Inch)
+T8        0.66mm (25.984mil)       Round          2         NPTH   22.02 mm (0.87 Inch)
+---------------------------------------------------------------------------
+Totals                                            345              1327.29 mm (52.26 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

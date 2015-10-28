@@ -1,0 +1,110 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+P301       TSW-103-07-G-D        36.04mm       61.03mm       36.04mm        62.3mm        33.5mm       59.76mm  T         90.00 con 2x6        
+P304       TSW-115-08-G-T-RA       28.46mm       44.52mm       28.46mm       44.52mm       25.92mm       26.74mm  T          0.00 PH_2 Servo header
+P500       CON-DF17-80M        61.7037mm     41.8677mm     61.6966mm     41.8592mm     71.4502mm     44.5262mm  T          0.00 CON-DF17-80M   
+LV605      DRL                    62.9mm      28.825mm        63.4mm        29.5mm        63.4mm        29.5mm  T        270.00 SN74LVC1T45    
+LV604      DRL                    64.6mm      28.825mm        65.1mm        29.5mm        65.1mm        29.5mm  T        270.00 SN74LVC1T45    
+LV603      DRL                    66.3mm      28.825mm        66.8mm        29.5mm        66.8mm        29.5mm  T        270.00 SN74LVC1T45    
+LV602      DRL                    71.7mm      28.825mm        72.2mm        29.5mm        72.2mm        29.5mm  T        270.00 SN74LVC1T45    
+LV601      DRL                    68.1mm      28.825mm        68.6mm        29.5mm        68.6mm        29.5mm  T        270.00 SN74LVC1T45    
+LV600      DRL                    69.9mm      28.825mm        70.4mm        29.5mm        70.4mm        29.5mm  T        270.00 SN74LVC1T45    
+U603       PQFN5X5-32_V        59.2582mm     29.2862mm     59.2582mm     29.2862mm     61.0082mm     31.4862mm  T        270.00 FT232RQ-Reel   
+R613       0402-RES            71.4462mm     36.6014mm     71.4502mm     36.6014mm     70.9422mm     36.6014mm  T        180.00 10K            
+Nut 604    PEM-SMTSO-M1.6-2-ET     87.0122mm     27.8638mm     87.0122mm     27.8638mm     87.0122mm     27.8638mm  B         90.00 PEM-SMTSO-M1.6-2-ET
+L601       0805-IND            55.2958mm     33.5864mm     55.2958mm     33.5788mm     55.2958mm     32.6288mm  T         90.00                
+Nut 605    PEM-SMTSO-M1.6-2-ET          52mm        57.8mm          52mm        57.8mm          52mm        57.8mm  B         45.00 PEM-SMTSO-M1.6-2-ET
+Nut 603    PEM-SMTSO-M1.6-2-ET     36.0078mm     29.5148mm     36.0078mm     29.5148mm     36.0078mm     29.5148mm  B         90.00 PEM-SMTSO-M1.6-2-ET
+Nut 602    PEM-SMTSO-M1.6-2-ET    104.3042mm     55.3834mm    104.3042mm     55.3834mm    104.3042mm     55.3834mm  B         90.00 PEM-SMTSO-M1.6-2-ET
+BATT600    MS621FE              99.086mm     44.6596mm       99.08mm     39.5034mm      99.842mm     44.6596mm  B         90.00                
+USB601     MOLEX-47346-0001     69.4291mm     28.6131mm     69.4182mm     27.2034mm     69.4182mm     30.0228mm  B         90.00 MICRO USB B, BOTTOM MOUNT
+Nut 601    PEM-SMTSO-M1.6-2-ET     58.9788mm     35.1536mm     58.9788mm     35.1536mm     58.9788mm     35.1536mm  B        180.00 PEM-SMTSO-M1.6-2-ET
+Nut 600    PEM-SMTSO-M1.6-2-ET     87.6046mm     55.7276mm     87.6046mm     55.7276mm     87.6046mm     55.7276mm  B         90.00 PEM-SMTSO-M1.6-2-ET
+U601       RGT16-1700X1700TP     98.4608mm     30.4864mm     98.4608mm     30.4864mm     96.9858mm     29.7364mm  B        360.00 TPS62130RGTT   
+EDISON600  ED                        0mm           0mm       87.63mm      55.753mm           0mm           0mm  B        270.00 Ed             
+P600       DF40-70_RECEPTICAL     69.1987mm     35.5208mm      69.054mm       35.56mm     76.0009mm       34.11mm  B         90.00 DF40-70_RECEPTICAL
+P201       CLICKMATE_V6         85.475mm     56.6395mm       89.35mm      56.642mm        83.9mm      59.767mm  T        270.00 CLICKMATE_1.25_6
+P202       CLICKMATE_V6_2MM      37.575mm     33.6068mm          33mm        33.6mm        39.9mm        28.6mm  T         90.00 CLICKMATE_2_6  
+P200       CLICKMATE_V6_2MM      37.575mm     50.0068mm          33mm          50mm        39.9mm          45mm  T         90.00 CLICKMATE_2_6  
+P109       CLICKMATE_V6         93.925mm     31.9975mm        97.8mm          32mm       92.35mm      35.125mm  T        270.00 CLICKMATE_1.25_6
+P107       CLICKMATE_V8         85.475mm     33.2375mm       89.35mm       33.25mm        83.9mm      37.625mm  T        270.00 CLICKMATE_1.25_8
+P103       CLICKMATE_V6        102.425mm     31.9975mm       106.3mm          32mm      100.85mm      35.125mm  T        270.00 CLICKMATE_1.25_6
+P100       CLICKMATE_V6         93.925mm     44.2975mm        97.8mm        44.3mm       92.35mm      47.425mm  T        270.00 CLICKMATE_1.25_6
+P101       CLICKMATE_V3         93.925mm      54.667mm        97.8mm     54.6672mm       92.35mm     55.9172mm  T        270.00 CLICKMATE_1.25_3
+P108       CLICKMATE_V4        102.425mm     42.9948mm       106.3mm          43mm      100.85mm      44.875mm  T        270.00 CLICKMATE_1.25_4
+P104       CLICKMATE_V4        102.425mm     52.6858mm       106.3mm      52.691mm      100.85mm      54.566mm  T        270.00 CLICKMATE_1.25_4
+P102       CLICKMATE_V4         85.425mm     45.5948mm        89.3mm        45.6mm       83.85mm      47.475mm  T        270.00 CLICKMATE_1.25_4
+JP100      HEADER_2MM_RA_2       99.95mm     49.8413mm     100.799mm     49.8462mm         100mm        48.8mm  B         90.00 HEADER_2MM_RA_SMD
+PSM200     PSM                  45.208mm      43.692mm      44.958mm      43.942mm      35.208mm      39.242mm  B        270.00 Power Selection module
+SPI!CS1    PAD.04X.04          70.4088mm     45.9486mm     70.4088mm     45.9486mm     70.4088mm     45.9486mm  B        360.00 PAD.04         
+SPI_MOSI1  PAD.04X.04           59.055mm      45.212mm      59.055mm      45.212mm      59.055mm      45.212mm  B        180.00 PAD.04         
+SPI_MISO1  PAD.04X.04          58.1914mm     46.7614mm     58.1914mm     46.7614mm     58.1914mm     46.7614mm  B        360.00 PAD.04         
+D_RDY1     PAD.04X.04           68.072mm      45.974mm      68.072mm      45.974mm      68.072mm      45.974mm  B        180.00 PAD.04         
+SPI_SCK1   PAD.04X.04          56.7944mm     48.3362mm     56.7944mm     48.3362mm     56.7944mm     48.3362mm  B         90.00 PAD.04         
+D107       0402-TVS            103.978mm     38.8762mm     103.974mm     38.8762mm     104.482mm     38.8762mm  B        360.00 DIODE-TVS      
+L107       KYOCERA-KNH16-DA    104.3312mm     40.2357mm    104.3376mm     40.2325mm    104.3376mm     40.2325mm  B        180.00 Kyocera KNH16C104DA5TS EMI filter
+L106       KYOCERA-KNH16-DA    104.3312mm     44.9753mm    104.3376mm     44.9721mm    104.3376mm     44.9721mm  B        180.00 Kyocera KNH16C104DA5TS EMI filter
+D108       0402-TVS            103.978mm     43.6157mm     103.974mm     43.6157mm     104.482mm     43.6157mm  B        360.00 DIODE-TVS      
+L105       KYOCERA-KNH16-DA    104.4582mm     49.7148mm    104.4646mm     49.7116mm    104.4646mm     49.7116mm  B        180.00 Kyocera KNH16C104DA5TS EMI filter
+D106       0402-TVS            104.004mm        48.5mm         104mm        48.5mm     104.508mm        48.5mm  B        360.00 DIODE-TVS      
+L103       KYOCERA-KNH16-DA    104.3312mm      47.345mm    104.3376mm     47.3418mm    104.3376mm     47.3418mm  B        180.00 Kyocera KNH16C104DA5TS EMI filter
+D104       0402-TVS            103.978mm     45.9855mm     103.974mm     45.9855mm     104.482mm     45.9855mm  B        360.00 DIODE-TVS      
+SPKT100    B3B-ZR              94.9024mm     61.3474mm     94.9144mm     61.3474mm     96.4144mm     61.3474mm  T        180.00 CONN_SPEKTRUM_RX-TH
+D301       0402-TVS            41.1386mm      30.357mm     41.1386mm      30.353mm     41.1386mm      30.861mm  B         90.00 DIODE-TVS      
+D300       MICROSMP             41.037mm     27.5744mm      41.037mm     27.2796mm      41.037mm     28.5296mm  B        270.00 MSS1P4-M3      
+JP401      FIDUCIAL-1.5X3      46.7868mm     36.0426mm     46.7868mm     36.0426mm     46.7868mm     36.0426mm  B         90.00 FIDUCIAL1.5X3  
+JP400      FIDUCIAL-1.5X3         57.2mm        56.8mm        57.2mm        56.8mm        57.2mm        56.8mm  B        180.00 FIDUCIAL1.5X3  
+ADC_PR     PAD.04X.04             93.8mm        54.8mm        93.8mm        54.8mm        93.8mm        54.8mm  B        360.00 PAD.04         
+S5_RX      PAD.04X.04          34.8488mm     61.1124mm     34.8488mm     61.1124mm     34.8488mm     61.1124mm  B        135.00 PAD.04         
+S5_TX      PAD.04X.04          32.2326mm     60.9346mm     32.2326mm     60.9346mm     32.2326mm     60.9346mm  B        135.00 PAD.04         
+S4RX       PAD.04X.04             93.8mm        31.9mm        93.8mm        31.9mm        93.8mm        31.9mm  B        180.00 PAD.04         
+S4TX       PAD.04X.04           93.746mm     33.7376mm      93.746mm     33.7376mm      93.746mm     33.7376mm  B        180.00 PAD.04         
+S3RX       PAD.04X.04             81.9mm          27mm        81.9mm          27mm        81.9mm          27mm  B        360.00 PAD.04         
+S3TX       PAD.04X.04             79.4mm          27mm        79.4mm          27mm        79.4mm          27mm  B        360.00 PAD.04         
+S2RX       PAD.04X.04             89.8mm        31.6mm        89.8mm        31.6mm        89.8mm        31.6mm  B        360.00 PAD.04         
+S2TX       PAD.04X.04             83.8mm        31.4mm        83.8mm        31.4mm        83.8mm        31.4mm  B        360.00 PAD.04         
+S1RX       PAD.04X.04          95.0668mm     47.5044mm     95.0668mm     47.5044mm     95.0668mm     47.5044mm  B        360.00 PAD.04         
+S1TX       PAD.04X.04          92.9078mm     46.4884mm     92.9078mm     46.4884mm     92.9078mm     46.4884mm  B        360.00 PAD.04         
+D102       0402-TVS            93.9278mm     59.8234mm     93.9238mm     59.8234mm     94.4318mm     59.8234mm  B        360.00 DIODE-TVS      
+D100       0402-TVS            104.004mm        50.7mm         104mm        50.7mm     104.508mm        50.7mm  B        360.00 DIODE-TVS      
+D105       0402-TVS            104.004mm        36.5mm         104mm        36.5mm     104.508mm        36.5mm  B        360.00 DIODE-TVS      
+D103       0402-TVS            103.978mm      41.246mm     103.974mm      41.246mm     104.482mm      41.246mm  B        360.00 DIODE-TVS      
+D101       0402-TVS            103.978mm     33.8904mm     103.974mm     33.8904mm     104.482mm     33.8904mm  B        360.00 DIODE-TVS      
+L300       KYOCERA-KNH16-DA     39.1352mm     29.5466mm      39.132mm     29.5402mm      39.132mm     29.5402mm  B         90.00 Kyocera KNH16C104DA5TS EMI filter
+L102       KYOCERA-KNH16-DA    104.3312mm     42.6055mm    104.3376mm     42.6023mm    104.3376mm     42.6023mm  B        180.00 Kyocera KNH16C104DA5TS EMI filter
+L100       KYOCERA-KNH16-DA    104.2042mm     52.2116mm    104.2106mm     52.2084mm    104.2106mm     52.2084mm  B        180.00 Kyocera KNH16C104DA5TS EMI filter
+L104       KYOCERA-KNH16-DA    104.3543mm     37.8659mm    104.3607mm     37.8627mm    104.3607mm     37.8627mm  B        180.00 Kyocera KNH16C104DA5TS EMI filter
+L101       KYOCERA-KNH16-DA    104.3312mm     35.1382mm    104.3376mm      35.135mm    104.3376mm      35.135mm  B        180.00 Kyocera KNH16C104DA5TS EMI filter
+M3_MOUNT90 MOUNT-HOLE1.8       76.9112mm     59.3852mm     76.9112mm     59.3852mm     76.9112mm     59.3852mm  T          0.00 MOUNT-HOLE1.8MM
+M3_MOUNT90 MOUNT-HOLE1.8       46.9138mm     59.3852mm     46.9138mm     59.3852mm     46.9138mm     59.3852mm  T          0.00 MOUNT-HOLE1.8MM
+M3_MOUNT90 MOUNT-HOLE1.8       76.9112mm     29.3878mm     76.9112mm     29.3878mm     76.9112mm     29.3878mm  T          0.00 MOUNT-HOLE1.8MM
+M3_MOUNT90 MOUNT-HOLE1.8       46.9138mm     29.3878mm     46.9138mm     29.3878mm     46.9138mm     29.3878mm  T          0.00 MOUNT-HOLE1.8MM
+C604       0402-CAP            55.9308mm     27.2542mm     55.9308mm     27.2542mm     55.9308mm     27.6542mm  T        270.00 0u1            
+C605       0402-CAP            59.8424mm     26.7716mm     59.8424mm     26.7716mm     59.8424mm     26.3716mm  B         90.00 0u1            
+C603       0402-CAP           101.9756mm     32.7724mm    101.9756mm     32.7724mm    101.9756mm     32.3724mm  B         90.00 33000pf        
+C602       0402-CAP           103.2202mm      32.747mm    103.2202mm      32.747mm    103.2202mm      32.347mm  B         90.00 0u1            
+C600       0603-CAP            97.7274mm     26.8542mm     97.7274mm     26.8542mm     97.0274mm     26.8542mm  B        360.00                
+C601       0805-CAP           101.6508mm     28.6258mm    101.6508mm     28.6258mm    101.6508mm     27.8258mm  B        270.00 10.00UF        
+LED600     0603-LED-BLUE       63.5762mm     26.9808mm     63.5762mm     26.9748mm     63.5762mm     27.7368mm  B         90.00 BLUE           
+LED601     0603-LED-BLUE       61.7474mm     26.9554mm     61.7474mm     26.9494mm     61.7474mm     27.7114mm  B         90.00 BLUE           
+R607       0402-RES            63.6778mm     29.8236mm     63.6778mm     29.8196mm     63.6778mm     30.3276mm  B         90.00 220R           
+R608       0402-RES            61.7982mm     29.7728mm     61.7982mm     29.7688mm     61.7982mm     30.2768mm  B         90.00 220R           
+R609       0402-RES            78.0328mm     31.7901mm     78.0288mm     31.7901mm     78.5368mm     31.7901mm  B        360.00 0R             
+R606       0402-RES            74.4394mm     26.5724mm     74.4394mm     26.5684mm     74.4394mm     27.0764mm  B         90.00 10K            
+R605       0402-RES            75.6999mm     31.7901mm     75.6959mm     31.7901mm     76.2039mm     31.7901mm  B        360.00 100K           
+R600       0402-RES            96.7138mm     33.2042mm     96.7178mm     33.2042mm     96.2098mm     33.2042mm  B        180.00 47K  1%        
+R603       0402-RES            98.7458mm     33.2042mm     98.7498mm     33.2042mm     98.2418mm     33.2042mm  B        180.00 10.5K  1%      
+USB600     MOLEX-47346-0001     54.8495mm     28.5369mm     54.8386mm     27.1272mm     54.8386mm     29.9466mm  B         90.00 MICRO USB B, BOTTOM MOUNT
+R611       0402-RES            67.4918mm     58.7502mm     67.4878mm     58.7502mm     67.9958mm     58.7502mm  B        360.00 220R           
+R610       0402-RES             69.996mm        34.2mm          70mm        34.2mm      69.492mm        34.2mm  T        360.00 10K            
+R612       0402-RES            71.8272mm     34.2392mm     71.8312mm     34.2392mm     71.3232mm     34.2392mm  T        360.00 220R           
+S600       EVQP7J01K           61.9015mm      61.259mm     61.8998mm     61.2648mm     60.0998mm     60.5282mm  B        360.00 Power          
+S601       EVQP7J01K           67.1339mm      61.259mm     67.1322mm     61.2648mm     65.3322mm     60.5282mm  B        360.00 FWR_RCVR       
+S602       EVQP7J01K           72.3663mm      61.259mm     72.3646mm     61.2648mm     70.5646mm     60.5282mm  B        360.00 RCVR_MODE      
+L600       XFL4020             93.9492mm     28.5052mm     93.9492mm     28.5052mm     93.9492mm     29.6902mm  B        270.00 XFL4020-222MEB 
+P105       JST_SUR_H6          54.6608mm      61.475mm     54.6608mm        62.5mm     52.6608mm        60.5mm  B        360.00 JST_SUR_6      
+P106       JST_SUR_H6          86.9614mm      61.475mm     86.9614mm        62.5mm     84.9614mm        60.5mm  B        360.00 JST_SUR_6      
+3DR_LOGO1  3DR_SMALL                 0mm           0mm     61.4934mm     51.8922mm           0mm           0mm  T          0.00                
+3DR_LOGO3  3DR_SMALLER               0mm           0mm     103.251mm     61.0362mm           0mm           0mm  T          0.00                
+3DR_LOGO2  3DR_SMALLER               0mm           0mm    102.1334mm     60.9346mm           0mm           0mm  B        180.00                
+

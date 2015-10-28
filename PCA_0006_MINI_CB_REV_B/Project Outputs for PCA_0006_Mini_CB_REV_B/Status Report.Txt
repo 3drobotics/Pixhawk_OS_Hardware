@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [PCA_0006_Mini_CB_REV_B.PrjPcb]
+   Generated File[Pick Place for PCA_0006_Mini_CB_REV_B.txt]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 3:01:50 PM On 28/10/2015
